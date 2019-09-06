@@ -8,6 +8,9 @@ const PageContainer = styled.div`
     font-family: 'Red Hat Display', sans-serif;
   }
 
+button {
+    font-weight: bold;
+}
 
   p {
       font-size: 1.5rem;

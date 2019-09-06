@@ -31,7 +31,7 @@ const Index = () => (
 
     <Button variant='primary'>Primary</Button>
     <Button variant="flat" size="xxl">
-    flat button
+    View Source
   </Button>
   </PageContainer>
   </Page>
