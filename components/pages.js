@@ -1,3 +1,23 @@
+import styled from 'styled-components';
+
+const PageContainer = styled.div`
+
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,700,900&display=swap');
+
+  * {
+    font-family: 'Red Hat Display', sans-serif;
+  }
+
+  .btn-flat {
+    background-color: purple;
+    color: white;
+  }
+
+  .btn-xxl {
+    padding: 1rem 1.5rem;
+    font-size: 1.5rem;
+  }
+`;
 
 const Page = ({ children }) => (
   <div>
@@ -10,7 +30,8 @@ const Page = ({ children }) => (
       rel='stylesheet'
       href='https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'
     />
-    {children}
+
+    <PageContainer>{children}</PageContainer>
   </div>
 )
 
