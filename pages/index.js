@@ -16,8 +16,8 @@ const Index = () => (
     <PageContainer>
     <h1>Check out your politicians lol</h1>
     <p>waldo gives you all the deets on your politicians.</p>
-    
-  
+    <p>lol come see what monies they have, what properties and assets they own and who they owe da monies to</p>
+  <p>aaaa</p>
     
     <div>
         <h2>Helen Clark</h2>

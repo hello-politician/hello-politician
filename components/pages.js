@@ -8,6 +8,11 @@ const PageContainer = styled.div`
     font-family: 'Red Hat Display', sans-serif;
   }
 
+
+  p {
+      font-size: 1.5rem;
+      font-weight: 500;
+  }
   .btn-flat {
     background-color: purple;
     color: white;
