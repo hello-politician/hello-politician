@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/waltzaround/hello-politician#readme",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "next": "^9.0.5",
     "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0"
   }
 }
