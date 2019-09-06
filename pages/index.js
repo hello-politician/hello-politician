@@ -2,6 +2,7 @@ import React from 'react'
 import { Button } from 'react-bootstrap'
 import Page from '../components/pages'
 import styled from 'styled-components';
+import MembersOfParliamentButton from '../components/membersOfParliamentButton';
 
 
 const PageContainer = styled.div`
@@ -33,6 +34,7 @@ const Index = () => (
     <Button variant="flat" size="xxl">
     View Source
   </Button>
+  <MembersOfParliamentButton/>
   </PageContainer>
   </Page>
 )
