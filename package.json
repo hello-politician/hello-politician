@@ -21,6 +21,7 @@
   "homepage": "https://github.com/waltzaround/hello-politician#readme",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
+    "evergreen-ui": "^4.18.3",
     "next": "^9.0.5",
     "next-images": "^1.1.2",
     "node-sass": "^4.12.0",
