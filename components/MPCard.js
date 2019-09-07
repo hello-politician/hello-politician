@@ -27,11 +27,11 @@ const MPName = styled.h2`
   margin: 0;
   margin-top: 15px;
   margin-left: 20px;
-  @media (max-width: 1024px) { 
+  @media (max-width: 1024px) {
     min-width: 240px;
     margin-left: 5px;
     font-size: 1rem;
-    }
+  }
 `;
 
 const Electorate = styled.h3`
@@ -55,9 +55,9 @@ const Party = styled.h3`
   letter-spacing: -0.53px;
   line-height: 21px;
   padding-top: 15px;
-  @media (max-width: 1024px) { 
+  @media (max-width: 1024px) {
     font-size: 0.7rem;
-    }
+  }
 `;
 
 const FlexDiv = styled.div`
@@ -66,9 +66,9 @@ const FlexDiv = styled.div`
   justify-content: center;
   align-items: center;
   min-width: 250px;
-  @media (max-width: 1024px) { 
+  @media (max-width: 1024px) {
     min-width: 150px;
-    }
+  }
 `;
 
 const TimeServed = styled.h3`
@@ -78,9 +78,9 @@ const TimeServed = styled.h3`
   letter-spacing: -0.53px;
   line-height: 21px;
   margin: 0px;
-  @media (max-width: 1024px) { 
+  @media (max-width: 1024px) {
     font-size: 0.7rem;
-    }
+  }
 `;
 
 const Icon = styled.div`
@@ -91,18 +91,36 @@ const Icon = styled.div`
   width: 40px;
 `;
 
+const partyLogos = [
+  "actSmall.jpg",
+  "greenSmall.jpg",
+  "labour.png",
+  "national.,jpg",
+  "nzFirstSmall,png"
+];
+
+const getImageName = arr => str => arr.find(e => e.includes(str));
+
+const getPartyLogoImageName = getImageName(partyLogos);
+
 const MPCard = ({ mp }) => (
   <Card>
     <div>
-      <CardImg image={mp.image} />
+      <CardImg
+        image={
+          mp.image
+            ? mp.image
+            : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ardern_Cropped.png/220px-Ardern_Cropped.png"
+        }
+      />
     </div>
     <div>
-      <MPName>{mp.name}</MPName>
-      <Electorate>{mp.electorate}</Electorate>
+      <MPName>{mp.Contact}</MPName>
+      <Electorate>{mp.Electorate}</Electorate>
     </div>
     <FlexDiv>
-      <Icon image="/static/images/labour.png" />
-      <Party>Labour Party</Party>
+      <Icon image={`/static/images/${getPartyLogoImageName(mp.Party)}`} />
+      <Party>{mp.Party}</Party>
     </FlexDiv>
     <FlexDiv>
       <Icon image="/static/images/labour.png" />

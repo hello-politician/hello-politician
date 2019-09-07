@@ -2,6 +2,9 @@ import React from 'react'
 import { Button } from 'react-bootstrap'
 import Page from '../components/pages'
 import styled from 'styled-components';
+import MembersOfParliamentButton from '../components/membersOfParliamentButton';
+import MPList from '../components/MPList';
+import PopulatedMPList from '../components/PopulatedMPList';
 
 
 const PageContainer = styled.div`
@@ -33,6 +36,8 @@ const Index = () => (
     <Button variant="flat" size="xxl">
     View Source
   </Button>
+  <MembersOfParliamentButton/>
+  <PopulatedMPList/>
   </PageContainer>
   </Page>
 )
