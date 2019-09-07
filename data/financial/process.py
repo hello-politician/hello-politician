@@ -27,7 +27,12 @@ def addNewField(content, currentIndex):
                 if content[indexContent] in catagory:
                     break
                 else:
-                    item.append(content[indexContent])
+                    # itemList = content[indexContent].decode("utf-8")
+                    itemList = content[indexContent].replace(u"\u2009"," ")
+                    itemList = content[indexContent].replace(u"\u2019","'")
+                    itemList = content[indexContent].replace(u"\u2013 ","-")
+                    if not itemList.isdigit():
+                        item.append(itemList)
             data[0][currentIndex][currentCategoryName] = item
         
 def mutateData(content):
@@ -38,12 +43,10 @@ def mutateData(content):
         currentIndex += 1
 
 for i in range(0,117):
-
     fileStream = open('%sMP-%i.txt'%(sys.argv[2],i),'r')
     content = fileStream.read().splitlines()
     mutateData(content)
     fileStream.close()
-    # for line in content:
 
 with open(sys.argv[3], 'w') as outfile:
     json.dump(data[0], outfile)
