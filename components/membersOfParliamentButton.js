@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from 'react-bootstrap'
+
 
 export default class MembersOfParliamentButton extends React.Component {
 
@@ -29,7 +29,7 @@ export default class MembersOfParliamentButton extends React.Component {
   
   render() {
     return (
-        <Button variant='primary' onClick={this.retrieveMembersOfParliament}>Show me Parliament!</Button>
+        <button variant='primary' onClick={this.retrieveMembersOfParliament}>Show me Parliament!</button>
       )
   }
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from 'react-bootstrap'
+
 import Page from '../components/pages'
 import styled from 'styled-components';
 import MembersOfParliamentButton from '../components/membersOfParliamentButton';
@@ -34,10 +34,10 @@ const Index = () => (
     
    <PersonCard name="jajajajaja" />
 
-    <Button variant='primary'>Primary</Button>
-    <Button variant="flat" size="xxl">
+    <button variant='primary'>Primary</button>
+    <button variant="flat" size="xxl">
     View Source
-  </Button>
+  </button>
   <MembersOfParliamentButton/>
   <PopulatedMPList/>
   </PageContainer>
