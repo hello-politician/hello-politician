@@ -47,7 +47,7 @@ const Hero = () => (
     <MainHero>
         <HeroContainer>
     <HeroText>Learn about your politicians.</HeroText>
-    <HeroSubtitle>Polly shows you stuff about your politicians  :D</HeroSubtitle>
+    <HeroSubtitle>🥳 Polly shows you stuff about your politicians 🥳</HeroSubtitle>
         </HeroContainer>
         <SearchContainer><SearchInput style={{fontSize: '32px'}} placeholder="Try a name or location" width="100%" height="80px" /></SearchContainer>
 </MainHero>
