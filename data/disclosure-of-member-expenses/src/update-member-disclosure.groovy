@@ -83,3 +83,4 @@ println json_beauty
 File file = new File(outFile)
 file.write(json_beauty)
 
+System.exit(0)
