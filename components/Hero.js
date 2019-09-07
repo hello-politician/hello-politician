@@ -4,7 +4,7 @@ import {SearchInput } from 'evergreen-ui'
 const MainHero = styled.div`
 width: 100vw;
 height: 20rem;
-margin-bottom: 5rem;
+margin-bottom: 4rem;
 background-color: #3B4354;
 box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
 

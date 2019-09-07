@@ -57,7 +57,7 @@ export default class MembersOfParliamentButton extends React.Component {
   render() {
     return (
       <Button onClick={this.retrieveMembersOfParliament}>
-        Show me Parliament!
+        Debug Button
       </Button>
     );
   }
