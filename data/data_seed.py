@@ -14,8 +14,11 @@ def main():
     content = content.replace('REGISTER OF PECUNIARY AND OTHER SPECIFIED INTERESTS OF MEMBERS OF PARLIAMENT: SUMMARY OF','')
     content = content.replace('ANNUAL RETURNS J. 7','')
     
-    content = content.encode('utf-8').strip()
+    # content = content.encode('utf-8').strip()
     content = content.replace("^Hon ","")
+    content = content.replace(" * Interest rate payable in relation to the debt is less than the normal market interest rate","")
+    content = content.replace("that applied at the time the debt was incurred or, if the terms of the debt have been","")
+    content = content.replace("amended, at the time of that amendment.","")
     content = content.replace("^Dr ","")
 
     content = content.splitlines()
@@ -28,8 +31,8 @@ def main():
             if fileStream is not None: 
                 fileStream.close()
             fileStream  = open('MP-%i.txt' % (index),'w')
-	    line = line.replace("Hon ","")
-	    line = line.replace("Dr ","")
+            line = line.replace("Hon ","")
+            line = line.replace("Dr ","")
             fileStream.write(line + "\n")
             index +=1 
         else :
