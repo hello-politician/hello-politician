@@ -1,6 +1,15 @@
 import React from 'react'
-import Card from 'react-bootstrap/Card'
+import styled from 'styled-components'
 const images = require.context("../images/parliament/")
+
+const CardImg = styled.div`
+  height: 100px;
+  width: 100px;
+  background: ${({ image }) => `url(${image}) no-repeat`};
+  background-size: cover;
+  border-radius: 5px;
+  margin: -8px 0;
+`;
 
 export default class MPImage extends React.Component{
   calculateImageName() {
@@ -17,7 +26,6 @@ export default class MPImage extends React.Component{
   }
 
   render() {
-    return <Card.Img src={(this.calculateImageName())}/>
-    
+    return <CardImg image={(this.calculateImageName())}/>
   }
 }
