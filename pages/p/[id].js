@@ -5,6 +5,8 @@ import styled from 'styled-components'
 import Page from '../../components/pages'
 import ExpensesComponent from '../../components/expensesComponent'
 import CompanyDirectorShip from '../../components/CompanyDirectorShip'
+import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
+import {InfoCard, CardHeading} from '../../components/styledComponents/cardStyles'
 
 const Header = styled.header`
   width: 100vw;
@@ -80,15 +82,6 @@ const ContentCard = styled.div`
   padding: 1rem;
 `
 
-const InfoCard = styled.div`
-  background: #2d3341;
-  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
-  border-radius: 8px;
-  padding: 1rem;
-  margin-bottom: 2rem;
-  min-height: 8rem;
-`
-
 const StatSection = styled.div``
 const StatContainer = styled.div`
   margin-top: 1.5rem;
@@ -111,14 +104,6 @@ const StatIcon = styled.img`
   width: 2rem;
   float: left;
   margin-right: 0.5rem;
-`
-
-const CardHeading = styled.div`
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #ffffff;
-  letter-spacing: -0.53px;
-  margin-bottom: 1rem;
 `
 
 const ItemLink = styled.a`
@@ -154,6 +139,8 @@ export default class Post extends React.Component {
   render(){
     const { data } = this.state
     const { Contact, Party, 'disclosure-costs': cost, Electorate } = data
+    const costHeadings = cost ? Object.keys(cost) : ['Loading...']
+    const costValues = cost ? Object.values(cost) : [{'accommodation-cost': 'Loading...', 'travel-cost': 'Loading...', 'total-cost': 'Loading...'}]
     const location = Electorate ? Electorate : 'List MP'
     const imageURL = Contact ? `/static/${Contact.replace(/\s/g, "")}.jpg` : 'http://lorempixel.com/120/120/people/'
     return (
@@ -255,29 +242,12 @@ export default class Post extends React.Component {
                   </Table.Body>
                 </Table.Body>
               </InfoCard>
-              <InfoCard>
-                <CardHeading>Stat 2</CardHeading>
-                <Table.Body>
-                  <Table.Head>
-                    <Table.TextCell flexBasis={240} flexGrow={0}>
-                      <strong>Donor</strong>
-                    </Table.TextCell>
-                    <Table.TextCell rightView>
-                      <strong> Flex me col 2</strong>
-                    </Table.TextCell>
-                 
-                  </Table.Head>
-                  <Table.Body>
-                    <Table.Row>
-                      <Table.TextCell flexBasis={240} flexGrow={0}>
-                        Fixed width
-                      </Table.TextCell >
-                      <Table.TextCell rightView>Flex me col 2</Table.TextCell>
-            
-                    </Table.Row>
-                  </Table.Body>
-                </Table.Body>
-              </InfoCard>
+              <ExpenseDisclosureCard 
+              heading = {costHeadings[0]}
+              accomodationCost = {costValues[0]['accommodation-cost']}
+              travelCost = {costValues[0]['travel-cost']}
+              totalCost = {costValues[0]['total-cost']}
+              />
             </AccountingColumns>
             <InfoCard>
               <CardHeading>Stat 3</CardHeading>
