@@ -20,6 +20,7 @@ const MPName = styled.h2`
   margin-left: 20px;
   @media (max-width: 1024px) {
     min-width: 240px;
+    margin-top: 0px;
     margin-left: 5px;
     font-size: 1rem;
   }
