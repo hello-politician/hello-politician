@@ -4,7 +4,7 @@ import styled from "styled-components";
 const listMPs = [
   {
     id: 1,
-    name: "Jacinda Ardern",
+    name: "Anahila Kanongata'a-Suisuiki",
     electorate: "Mount Albert",
     image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ardern_Cropped.png/220px-Ardern_Cropped.png"
@@ -32,15 +32,8 @@ const listMPs = [
   }
 ];
 
-const Container = styled.div`
-  max-width: 600px;
-  margin: 0 auto;
-`;
-
 const MPList = ({ mpList }) => (
-  <Container fluid>
-    {listMPs && listMPs.map(mp => <MPCard key={mp.id} mp={mp} />)}
-  </Container>
+  <>{listMPs && listMPs.map(mp => <MPCard key={mp.id} mp={mp} />)}</>
 );
 
 export default MPList;
