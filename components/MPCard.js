@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import MPImage from './MPImage'
 const Card = styled.div`
   display: flex;
   flex-wrap: wrap;
@@ -7,15 +7,6 @@ const Card = styled.div`
   background-color: #2d3341;
   box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
   margin: 30px 0;
-`;
-
-const CardImg = styled.div`
-  height: 100px;
-  width: 100px;
-  background: ${({ image }) => `url(${image}) no-repeat`};
-  background-size: cover;
-  border-radius: 5px;
-  margin: -8px 0;
 `;
 
 const MPName = styled.h2`
@@ -106,13 +97,7 @@ const getPartyLogoImageName = getImageName(partyLogos);
 const MPCard = ({ mp }) => (
   <Card>
     <div>
-      <CardImg
-        image={
-          mp.image
-            ? mp.image
-            : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ardern_Cropped.png/220px-Ardern_Cropped.png"
-        }
-      />
+      <MPImage mpName={mp.Contact} />
     </div>
     <div>
       <MPName>{mp.Contact}</MPName>
