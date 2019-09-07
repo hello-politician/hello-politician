@@ -1,5 +1,8 @@
-import React, { Component } from 'react';
-import Card from 'react-bootstrap/Card';
+import React from 'react';
+import styled from 'styled-components'
+
+const Card = styled.div`
+`
 
 class ExpensesCard extends React.Component {
   render() {
