@@ -21,6 +21,8 @@ def addNewField(content, currentIndex):
         item = []
         if content[index] in catagory:
             currentCategoryName = content[index]
+            currentCategoryName = ''.join([character for character in currentCategoryName if not character.isdigit()]) 
+            currentCategoryName = currentCategoryName[1:]
             for indexContent in range(index + 1,end):
                 if content[indexContent] in catagory:
                     break
