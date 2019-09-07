@@ -1,6 +1,6 @@
 import Card from "react-bootstrap/Card";
 import styled from "styled-components";
-
+import MPImage from './MPImage'
 const CardGrid = styled.div`
   display: grid;
   grid-template-columns: 100px auto;
@@ -9,7 +9,7 @@ const CardGrid = styled.div`
 const MPCard = ({ mp }) => (
     <Card className="m-2">
       <CardGrid>
-        <Card.Img src={mp.image ? mp.image : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ardern_Cropped.png/220px-Ardern_Cropped.png"} />
+        <MPImage mpName={mp.Contact} />
         <Card.Body>
           <h5>{mp.Contact}</h5>
           <p style={{fontSize: 16}}>{mp.Electorate}</p>
