@@ -8,6 +8,7 @@ import CompanyDirectorShip from '../../components/CompanyDirectorShip'
 import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
 import {InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon} from '../../components/styledComponents/cardStyles'
 import CampaignDonationsCard from '../../components/CampaignDonationsCard'
+import { AvailableData } from '../../components/AvailableData'
 import PecuniaryCard from '../../components/PecuniaryCards'
 
 const Header = styled.header`
@@ -151,34 +152,7 @@ export default class Post extends React.Component {
           </HeaderContainer>
         </Header>
         <BodyGrid>
-          <ContentCard>
-            <CardHeading>Available Data</CardHeading>
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-  
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-          </ContentCard>
+          <AvailableData currentMPData={this.state.data}/>
           <StatSection>
             <PecuniaryCard 
               heading="This is a heading"
