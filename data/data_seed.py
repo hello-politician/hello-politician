@@ -28,6 +28,8 @@ def main():
             if fileStream is not None: 
                 fileStream.close()
             fileStream  = open('MP-%i.txt' % (index),'w')
+	    line = line.replace("Hon ","")
+	    line = line.replace("Dr ","")
             fileStream.write(line + "\n")
             index +=1 
         else :
@@ -43,7 +45,6 @@ def main():
             oldMp = mp['Contact'].split(",")
             newMp = reversed(oldMp)
             mp["Contact"] = " ".join(newMp)
-
 
 
     print('Done')
