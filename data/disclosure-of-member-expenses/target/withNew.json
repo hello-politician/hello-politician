@@ -1,0 +1,2982 @@
+[
+    {
+        "Parliament Email": "Amy.Adams@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Selwyn",
+        "Contact": " Amy Adams",
+        "Electorate": "Selwyn",
+        "Party": "National Party",
+        "id": 0,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9642,
+                "total-cost": 17965
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7532,
+                "total-cost": 15855
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6399,
+                "total-cost": 13533
+            }
+        }
+    },
+    {
+        "Parliament Email": "Kiri.Allan@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Kiri Allan",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 1,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10673,
+                "total-cost": 18996
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9020,
+                "total-cost": 17343
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7061,
+                "total-cost": 14195
+            }
+        }
+    },
+    {
+        "Parliament Email": "Virginia.Andersen@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Virginia Andersen",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 2
+    },
+    {
+        "Parliament Email": "Jacinda.Ardern@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "Member for Mt Albert",
+        "Contact": " Jacinda Ardern",
+        "Electorate": "Mt Albert",
+        "Party": "Labour Party",
+        "id": 3,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "ksb@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Kanwaljit Singh Bakshi",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 4,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6491,
+                "total-cost": 13625
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8439,
+                "travel-cost": 8695,
+                "total-cost": 17134
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10537,
+                "total-cost": 18860
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3458,
+                "total-cost": 10592
+            }
+        }
+    },
+    {
+        "Parliament Email": "Darroch.Ball@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Darroch Ball",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 5,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 3523,
+                "total-cost": 8517
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5257,
+                "travel-cost": 1643,
+                "total-cost": 6900
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4281,
+                "travel-cost": 4139,
+                "total-cost": 8420
+            }
+        }
+    },
+    {
+        "Parliament Email": "Maggie.Barry@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for North Shore",
+        "Contact": " Maggie Barry",
+        "Electorate": "North Shore",
+        "Party": "National Party",
+        "id": 6,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5886,
+                "total-cost": 14209
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3966,
+                "total-cost": 11100
+            }
+        }
+    },
+    {
+        "Parliament Email": "Andrew.Bayly@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Hunua",
+        "Contact": " Andrew Bayly",
+        "Electorate": "Hunua",
+        "Party": "National Party",
+        "id": 7,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10479,
+                "total-cost": 18802
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7083,
+                "total-cost": 15406
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 2149,
+                "total-cost": 9283
+            }
+        }
+    },
+    {
+        "Parliament Email": "David.Bennett@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Hamilton East",
+        "Contact": " David Bennett",
+        "Electorate": "Hamilton East",
+        "Party": "National Party",
+        "id": 8,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5800,
+                "travel-cost": 7630,
+                "total-cost": 13430
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3703,
+                "travel-cost": 5548,
+                "total-cost": 9251
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 917,
+                "travel-cost": 4546,
+                "total-cost": 5463
+            }
+        }
+    },
+    {
+        "Parliament Email": "Paula.Bennett@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Upper Harbour",
+        "Contact": " Paula Bennett",
+        "Electorate": "Upper Harbour",
+        "Party": "National Party",
+        "id": 9,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8689,
+                "travel-cost": 7800,
+                "total-cost": 16489
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 8254,
+                "total-cost": 15388
+            }
+        }
+    },
+    {
+        "Parliament Email": "Dan.Bidois@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Northcote",
+        "Contact": " Daniel Bidois",
+        "Electorate": "Northcote",
+        "Party": "National Party",
+        "id": 10,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4142,
+                "total-cost": 12465
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5134,
+                "travel-cost": 5863,
+                "total-cost": 10997
+            }
+        }
+    },
+    {
+        "Parliament Email": "Christopher.Bishop@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Hutt South",
+        "Contact": " Christopher Bishop",
+        "Electorate": "Hutt South",
+        "Party": "National Party",
+        "id": 11,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3968,
+                "total-cost": 3968
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 5398,
+                "total-cost": 5398
+            }
+        }
+    },
+    {
+        "Parliament Email": "Simon.Bridges@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Tauranga",
+        "Contact": " Simon Bridges",
+        "Electorate": "Tauranga",
+        "Party": "National Party",
+        "id": 12
+    },
+    {
+        "Parliament Email": "Simeon.Brown@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Pakuranga",
+        "Contact": " Simeon Brown",
+        "Electorate": "Pakuranga",
+        "Party": "National Party",
+        "id": 13,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6292,
+                "total-cost": 14615
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7422,
+                "total-cost": 15745
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5420,
+                "total-cost": 12554
+            }
+        }
+    },
+    {
+        "Parliament Email": "Gerry.Brownlee@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Ilam",
+        "Contact": " Gerry Brownlee",
+        "Electorate": "Ilam",
+        "Party": "National Party",
+        "id": 14,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8757,
+                "total-cost": 17080
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10860,
+                "total-cost": 19183
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7868,
+                "total-cost": 15002
+            }
+        }
+    },
+    {
+        "Parliament Email": "David.Carter@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "List Member",
+        "Contact": " David Carter",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 15,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 13676,
+                "total-cost": 21999
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12570,
+                "total-cost": 20893
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5683,
+                "total-cost": 12817
+            }
+        }
+    },
+    {
+        "Parliament Email": "David.Clark@parliament.govt.nz",
+        "Salutation/Title": "Hon. Dr.",
+        "Job Title": "Member for Dunedin North",
+        "Contact": " David Clark",
+        "Electorate": "Dunedin North",
+        "Party": "Labour Party",
+        "id": 16,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Tamati.Coffey@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Waiariki",
+        "Contact": " Tamati Coffey",
+        "Electorate": "Waiariki",
+        "Party": "Labour Party",
+        "id": 17,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 4333,
+                "total-cost": 10159
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 6447,
+                "total-cost": 12273
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 8090,
+                "total-cost": 13084
+            }
+        }
+    },
+    {
+        "Parliament Email": "Judith.Collins@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Papakura",
+        "Contact": " Judith Collins",
+        "Electorate": "Papakura",
+        "Party": "National Party",
+        "id": 18,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5405,
+                "total-cost": 13728
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6168,
+                "total-cost": 14491
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6480,
+                "total-cost": 13614
+            }
+        }
+    },
+    {
+        "Parliament Email": "Liz.Craig@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "List Member",
+        "Contact": " Elizabeth Craig",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 19
+    },
+    {
+        "Parliament Email": "Clare.Curran@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Dunedin South",
+        "Contact": " Clare Curran",
+        "Electorate": "Dunedin South",
+        "Party": "Labour Party",
+        "id": 20,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4364,
+                "total-cost": 12687
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3443,
+                "total-cost": 11766
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5429,
+                "total-cost": 12563
+            }
+        }
+    },
+    {
+        "Parliament Email": "Marama.Davidson@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Marama Davidson",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 21,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9956,
+                "total-cost": 17090
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 6412,
+                "travel-cost": 4590,
+                "total-cost": 11002
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 13132,
+                "total-cost": 21455
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 10472,
+                "total-cost": 17606
+            }
+        }
+    },
+    {
+        "Parliament Email": "Kelvin.Davis@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Te Tai Tokerau",
+        "Contact": " Kelvin Davis",
+        "Electorate": "Te Tai Tokerau",
+        "Party": "Labour Party",
+        "id": 22,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jacqui.Dean@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Waitaki",
+        "Contact": " Jacqui Dean",
+        "Electorate": "Waitaki",
+        "Party": "National Party",
+        "id": 23,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8821,
+                "total-cost": 17144
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6368,
+                "total-cost": 14691
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5618,
+                "total-cost": 12752
+            }
+        }
+    },
+    {
+        "Parliament Email": "matthew.doocey@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Waimakariri",
+        "Contact": " Matthew Doocey",
+        "Electorate": "Waimakariri",
+        "Party": "National Party",
+        "id": 24,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8454,
+                "total-cost": 16777
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5254,
+                "total-cost": 13577
+            }
+        }
+    },
+    {
+        "Parliament Email": "Sarah.Dowie@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Invercargill",
+        "Contact": " Sarah Dowie",
+        "Electorate": "Invercargill",
+        "Party": "National Party",
+        "id": 25,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5731,
+                "total-cost": 14054
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5268,
+                "total-cost": 13591
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5404,
+                "total-cost": 12538
+            }
+        }
+    },
+    {
+        "Parliament Email": "Ruth.Dyson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Port Hills",
+        "Contact": " Ruth Dyson",
+        "Electorate": "Port Hills",
+        "Party": "Labour Party",
+        "id": 26,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6901,
+                "total-cost": 15224
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8524,
+                "total-cost": 16847
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4075,
+                "total-cost": 11209
+            }
+        }
+    },
+    {
+        "Parliament Email": "Paul.Eagle@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Rongotai",
+        "Contact": " Paul Eagle",
+        "Electorate": "Rongotai",
+        "Party": "Labour Party",
+        "id": 27,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 8056,
+                "total-cost": 8056
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6868,
+                "total-cost": 6868
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 9200,
+                "total-cost": 9200
+            }
+        }
+    },
+    {
+        "Parliament Email": "kris.faafoi@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Mana",
+        "Contact": " Kris Faafoi",
+        "Electorate": "Mana",
+        "Party": "Labour Party",
+        "id": 28,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Andrew.Falloon@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Rangitata",
+        "Contact": " Andrew Falloon",
+        "Electorate": "Rangitata",
+        "Party": "National Party",
+        "id": 29,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6167,
+                "total-cost": 14490
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5901,
+                "total-cost": 14224
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6289,
+                "total-cost": 13423
+            }
+        }
+    },
+    {
+        "Parliament Email": "JulieAnne.Genter@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Julie Anne Genter",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 30
+    },
+    {
+        "Parliament Email": "Golriz.Ghahraman@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Golriz Ghahraman",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 31
+    },
+    {
+        "Parliament Email": "Paul.Goldsmith@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Paul Goldsmith",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 32,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7530,
+                "total-cost": 15853
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6658,
+                "total-cost": 14981
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7725,
+                "total-cost": 14859
+            }
+        }
+    },
+    {
+        "Parliament Email": "Nathan.Guy@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Otaki",
+        "Contact": " Nathan Guy",
+        "Electorate": "Otaki",
+        "Party": "National Party",
+        "id": 33,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3637,
+                "total-cost": 11960
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4825,
+                "total-cost": 13148
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4711,
+                "total-cost": 11845
+            }
+        }
+    },
+    {
+        "Parliament Email": "Joanne.Hayes@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Joanne Hayes",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 34,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7032,
+                "total-cost": 15355
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7786,
+                "total-cost": 16109
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7663,
+                "total-cost": 14797
+            }
+        }
+    },
+    {
+        "Parliament Email": "Peeni.Henare@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Tamaki Makaurau",
+        "Contact": " Peeni Henare",
+        "Electorate": "Tamaki Makaurau",
+        "Party": "Labour Party",
+        "id": 35,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Harete.Hipango@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Whanganui",
+        "Contact": " Harete Hipango",
+        "Electorate": "Whanganui",
+        "Party": "National Party",
+        "id": 36,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7210,
+                "travel-cost": 9524,
+                "total-cost": 16734
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5483,
+                "travel-cost": 4517,
+                "total-cost": 10000
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1696,
+                "travel-cost": 3583,
+                "total-cost": 5279
+            }
+        }
+    },
+    {
+        "Parliament Email": "Chris.Hipkins@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Rimutaka",
+        "Contact": " Chris Hipkins",
+        "Electorate": "Rimutaka",
+        "Party": "Labour Party",
+        "id": 37,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Brett.Hudson@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Brett Hudson",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 38,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 483,
+                "total-cost": 483
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3609,
+                "total-cost": 3609
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1164,
+                "total-cost": 1164
+            }
+        }
+    },
+    {
+        "Parliament Email": "gareth.hughes@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Gareth Hughes",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 39,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 12820,
+                "total-cost": 12820
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 8259,
+                "total-cost": 8259
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 7096,
+                "total-cost": 7096
+            }
+        }
+    },
+    {
+        "Parliament Email": "Raymond.Huo@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Raymond Huo",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 40,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5300,
+                "travel-cost": 10787,
+                "total-cost": 16087
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3392,
+                "travel-cost": 6420,
+                "total-cost": 9812
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4005,
+                "travel-cost": 3593,
+                "total-cost": 7598
+            }
+        }
+    },
+    {
+        "Parliament Email": "Willie.Jackson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Willie Jackson",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 41,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Shane.Jones@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Shane Jones",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 42,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Anahila.Kanongata'a-Suisuiki@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Anahila Kanongata'a-Suisuiki",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 43,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7401,
+                "total-cost": 14535
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7623,
+                "total-cost": 15946
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6429,
+                "total-cost": 14752
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9809,
+                "total-cost": 16943
+            }
+        }
+    },
+    {
+        "Parliament Email": "Nikki.Kaye@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Auckland Central",
+        "Contact": " Nikki Kaye",
+        "Electorate": "Auckland Central",
+        "Party": "National Party",
+        "id": 44,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8852,
+                "total-cost": 17175
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 11070,
+                "total-cost": 19393
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5415,
+                "total-cost": 12549
+            }
+        }
+    },
+    {
+        "Parliament Email": "Matt.King@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Northland",
+        "Contact": " Matt King",
+        "Electorate": "Northland",
+        "Party": "National Party",
+        "id": 45,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6692,
+                "total-cost": 15015
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10999,
+                "total-cost": 19322
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4598,
+                "total-cost": 11732
+            }
+        }
+    },
+    {
+        "Parliament Email": "Nuk.Korako@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Nuk Korako",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 46,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5011,
+                "travel-cost": 5162,
+                "total-cost": 10173
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5125,
+                "total-cost": 13448
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9829,
+                "total-cost": 16963
+            }
+        }
+    },
+    {
+        "Parliament Email": "Barbara.Kuriger@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Taranaki-King Country",
+        "Contact": " Barbara Kuriger",
+        "Electorate": "Taranaki-King Country",
+        "Party": "National Party",
+        "id": 47,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 8552,
+                "total-cost": 13546
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 5526,
+                "total-cost": 11352
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 7328,
+                "total-cost": 13154
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 4018,
+                "total-cost": 9012
+            }
+        }
+    },
+    {
+        "Parliament Email": "Denise.Lee@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Maungakiekie",
+        "Contact": " Denise Lee",
+        "Electorate": "Maungakiekie",
+        "Party": "National Party",
+        "id": 48,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 3632,
+                "travel-cost": 5441,
+                "total-cost": 9073
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 4657,
+                "travel-cost": 5900,
+                "total-cost": 10557
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 2756,
+                "travel-cost": 3423,
+                "total-cost": 6179
+            }
+        }
+    },
+    {
+        "Parliament Email": "Melissa.Lee@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Melissa Lee",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 49,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4939,
+                "total-cost": 13262
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7554,
+                "total-cost": 15877
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4536,
+                "total-cost": 11670
+            }
+        }
+    },
+    {
+        "Parliament Email": "Iain.Lees-Galloway@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Palmerston North",
+        "Contact": " Iain Lees-Galloway",
+        "Electorate": "Palmerston North",
+        "Party": "Labour Party",
+        "id": 50,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Andrew.Little@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Andrew Little",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 51,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jan.Logie@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Jan Logie",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 52,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Agnes.Loheni@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Agnes Loheni",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 53,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 4105,
+                "travel-cost": 10364,
+                "total-cost": 14469
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1848,
+                "travel-cost": 5024,
+                "total-cost": 6872
+            }
+        }
+    },
+    {
+        "Parliament Email": "Maria.Lubeck@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Maria Lubeck",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 54
+    },
+    {
+        "Parliament Email": "Jo.Luxton@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Jo Luxton",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 55,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6296,
+                "total-cost": 14619
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6402,
+                "total-cost": 14725
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5852,
+                "total-cost": 12986
+            }
+        }
+    },
+    {
+        "Parliament Email": "Tim.Macindoe@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Hamilton West",
+        "Contact": " Tim Macindoe",
+        "Electorate": "Hamilton West",
+        "Party": "National Party",
+        "id": 56,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 6276,
+                "travel-cost": 4213,
+                "total-cost": 10489
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3342,
+                "travel-cost": 20765,
+                "total-cost": 24107
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1837,
+                "travel-cost": 8351,
+                "total-cost": 10188
+            }
+        }
+    },
+    {
+        "Parliament Email": "Nanaia.Mahuta@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Hauraki-Waikato",
+        "Contact": " Nanaia Mahuta",
+        "Electorate": "Hauraki-Waikato",
+        "Party": "Labour Party",
+        "id": 57,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Trevor.Mallard@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "List Member",
+        "Contact": " Trevor Mallard",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 58
+    },
+    {
+        "Parliament Email": "Jennifer.Marcroft@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Jennifer Marcroft",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 59
+    },
+    {
+        "Parliament Email": "Ron.Mark@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Ron Mark",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 60,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Tracey.Martin@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Tracey Martin",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 61,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Kieran.McAnulty@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Kieran McAnulty",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 62,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 2543,
+                "total-cost": 9677
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3693,
+                "total-cost": 12016
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4174,
+                "total-cost": 12497
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 1521,
+                "total-cost": 8655
+            }
+        }
+    },
+    {
+        "Parliament Email": "Todd.McClay@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Rotorua",
+        "Contact": " Todd McClay",
+        "Electorate": "Rotorua",
+        "Party": "National Party",
+        "id": 63,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8493,
+                "total-cost": 16816
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7244,
+                "total-cost": 15567
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6885,
+                "total-cost": 14019
+            }
+        }
+    },
+    {
+        "Parliament Email": "Ian.Mckelvie@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Rangitikei",
+        "Contact": " Ian McKelvie",
+        "Electorate": "Rangitikei",
+        "Party": "National Party",
+        "id": 64,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4552,
+                "total-cost": 12875
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5406,
+                "total-cost": 13729
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3754,
+                "total-cost": 10888
+            }
+        }
+    },
+    {
+        "Parliament Email": "Clayton.Mitchell@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Clayton Mitchell",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 65,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 4585,
+                "total-cost": 10411
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 4512,
+                "total-cost": 10338
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 8087,
+                "total-cost": 13081
+            }
+        }
+    },
+    {
+        "Parliament Email": "Mark.Mitchell@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Rodney",
+        "Contact": " Mark Mitchell",
+        "Electorate": "Rodney",
+        "Party": "National Party",
+        "id": 66,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7875,
+                "total-cost": 16198
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7436,
+                "total-cost": 15759
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4910,
+                "total-cost": 12044
+            }
+        }
+    },
+    {
+        "Parliament Email": "Todd.Muller@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Bay of Plenty",
+        "Contact": " Todd Muller",
+        "Electorate": "Bay of Plenty",
+        "Party": "National Party",
+        "id": 67,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 9221,
+                "total-cost": 15047
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 6509,
+                "travel-cost": 5125,
+                "total-cost": 11634
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 7084,
+                "total-cost": 12078
+            }
+        }
+    },
+    {
+        "Parliament Email": "Stuart.Nash@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Napier",
+        "Contact": " Stuart Nash",
+        "Electorate": "Napier",
+        "Party": "Labour Party",
+        "id": 68,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Alfred.Ngaro@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Alfred Ngaro",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 69,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9391,
+                "total-cost": 17714
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9834,
+                "total-cost": 18157
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7472,
+                "total-cost": 14606
+            }
+        }
+    },
+    {
+        "Parliament Email": "Damien.O'Connor@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for West Coast-Tasman",
+        "Contact": " Damien O'Connor",
+        "Electorate": "West Coast-Tasman",
+        "Party": "Labour Party",
+        "id": 70,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "greg.oconnor@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Ohariu",
+        "Contact": " Gregory O'Connor",
+        "Electorate": "Ohariu",
+        "Party": "Labour Party",
+        "id": 71,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 814,
+                "total-cost": 814
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 2132,
+                "total-cost": 2132
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1841,
+                "total-cost": 1841
+            }
+        }
+    },
+    {
+        "Parliament Email": "simon.oconnor@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Tamaki",
+        "Contact": " Simon O'Connor",
+        "Electorate": "Tamaki",
+        "Party": "National Party",
+        "id": 72,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12984,
+                "total-cost": 21307
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8546,
+                "total-cost": 16869
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3614,
+                "total-cost": 10748
+            }
+        }
+    },
+    {
+        "Parliament Email": "David.Parker@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " David Parker",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 73,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Parmjeet.Parmar@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "List Member",
+        "Contact": " Parmjeet Parmar",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 74,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6025,
+                "total-cost": 13159
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6221,
+                "total-cost": 14544
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4494,
+                "total-cost": 12817
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3171,
+                "total-cost": 10305
+            }
+        }
+    },
+    {
+        "Parliament Email": "Mark.Patterson@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Mark Patterson",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 75,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12702,
+                "total-cost": 21025
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12481,
+                "total-cost": 20804
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7528,
+                "total-cost": 14662
+            }
+        }
+    },
+    {
+        "Parliament Email": "chris.penk@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Helensville",
+        "Contact": " Chris Penk",
+        "Electorate": "Helensville",
+        "Party": "National Party",
+        "id": 76,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6170,
+                "total-cost": 14493
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6021,
+                "total-cost": 14344
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 2639,
+                "total-cost": 9773
+            }
+        }
+    },
+    {
+        "Parliament Email": "Winston.Peters@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "List Member",
+        "Contact": " Winston Peters",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 77,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Willow-Jean.Prime@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Willow-Jean Prime",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 78,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8532,
+                "total-cost": 16855
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10229,
+                "total-cost": 18552
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4577,
+                "total-cost": 11711
+            }
+        }
+    },
+    {
+        "Parliament Email": "Maureen.Pugh@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Maureen Pugh",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 79,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10270,
+                "total-cost": 18593
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6960,
+                "total-cost": 14094
+            }
+        }
+    },
+    {
+        "Parliament Email": "Priyanca.Radhakrishnan@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Priyanca Radhakrishnan",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 80,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 10217,
+                "total-cost": 17351
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7534,
+                "total-cost": 15857
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7877,
+                "total-cost": 16200
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5506,
+                "total-cost": 12640
+            }
+        }
+    },
+    {
+        "Parliament Email": "Shane.Reti@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "Member for Whangarei",
+        "Contact": " Shane Reti",
+        "Electorate": "Whangarei",
+        "Party": "National Party",
+        "id": 81,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8901,
+                "total-cost": 17224
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10109,
+                "total-cost": 18432
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 5622,
+                "travel-cost": 12207,
+                "total-cost": 17829
+            }
+        }
+    },
+    {
+        "Parliament Email": "Grant.Robertson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Wellington Central",
+        "Contact": " Grant Robertson",
+        "Electorate": "Wellington Central",
+        "Party": "Labour Party",
+        "id": 82,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jami-Lee.Ross@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Botany",
+        "Contact": " Jami-Lee Ross",
+        "Electorate": "Botany",
+        "Party": "Independent",
+        "id": 83,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7295,
+                "travel-cost": 4749,
+                "total-cost": 12044
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5940,
+                "travel-cost": 671,
+                "total-cost": 6611
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4203,
+                "total-cost": 11337
+            }
+        }
+    },
+    {
+        "Parliament Email": "Adrian.Rurawhe@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Te Tai Hauauru",
+        "Contact": " Adrian Rurawhe",
+        "Electorate": "Te Tai Hauauru",
+        "Party": "Labour Party",
+        "id": 84,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 5549,
+                "travel-cost": 8165,
+                "total-cost": 13714
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5844,
+                "total-cost": 14167
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4089,
+                "total-cost": 12412
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3952,
+                "total-cost": 11086
+            }
+        }
+    },
+    {
+        "Parliament Email": "Deborah.Russell@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "Member for New Lynn",
+        "Contact": " Deborah Russell",
+        "Electorate": "New Lynn",
+        "Party": "Labour Party",
+        "id": 85,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6071,
+                "total-cost": 13205
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8565,
+                "total-cost": 16888
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5649,
+                "total-cost": 13972
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3484,
+                "total-cost": 10618
+            }
+        }
+    },
+    {
+        "Parliament Email": "Eugenie.Sage@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Eugenie Sage",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 86,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jenny.Salesa@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Manukau East",
+        "Contact": " Jenny Salesa",
+        "Electorate": "Manukau East",
+        "Party": "Labour Party",
+        "id": 87,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Alastair.Scott@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Wairarapa",
+        "Contact": " Alastair Scott",
+        "Electorate": "Wairarapa",
+        "Party": "National Party",
+        "id": 88,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 4751,
+                "total-cost": 4751
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3428,
+                "total-cost": 3428
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3251,
+                "total-cost": 3251
+            }
+        }
+    },
+    {
+        "Parliament Email": "Carmel.Sepuloni@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Kelston",
+        "Contact": " Carmel Sepuloni",
+        "Electorate": "Kelston",
+        "Party": "Labour Party",
+        "id": 89,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "David.Seymour@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Epsom",
+        "Contact": " David Seymour",
+        "Electorate": "Epsom",
+        "Party": "ACT New Zealand",
+        "id": 90,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 6790,
+                "travel-cost": 8037,
+                "total-cost": 14827
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 6790,
+                "travel-cost": 10042,
+                "total-cost": 16832
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 5820,
+                "travel-cost": 7717,
+                "total-cost": 13537
+            }
+        }
+    },
+    {
+        "Parliament Email": "James.Shaw@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " James Shaw",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 91,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Scott.Simpson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Coromandel",
+        "Contact": " Scott Simpson",
+        "Electorate": "Coromandel",
+        "Party": "National Party",
+        "id": 92,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7406,
+                "travel-cost": 6739,
+                "total-cost": 14145
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3517,
+                "travel-cost": 5442,
+                "total-cost": 8959
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 2410,
+                "travel-cost": 3556,
+                "total-cost": 5966
+            }
+        }
+    },
+    {
+        "Parliament Email": "Aupito.william.sio@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Mangere",
+        "Contact": " Aupito William Sio",
+        "Electorate": "Mangere",
+        "Party": "Labour Party",
+        "id": 93,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Nick.Smith@parliament.govt.nz",
+        "Salutation/Title": "Hon. Dr.",
+        "Job Title": "Member for Nelson",
+        "Contact": " Nick Smith",
+        "Electorate": "Nelson",
+        "Party": "National Party",
+        "id": 94,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7756,
+                "total-cost": 16079
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 11996,
+                "total-cost": 20319
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 11368,
+                "total-cost": 18502
+            }
+        }
+    },
+    {
+        "Parliament Email": "Stuart.Smith@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Kaikoura",
+        "Contact": " Stuart Smith",
+        "Electorate": "Kaikoura",
+        "Party": "National Party",
+        "id": 95,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10286,
+                "total-cost": 18609
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7429,
+                "total-cost": 15752
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7342,
+                "total-cost": 14476
+            }
+        }
+    },
+    {
+        "Parliament Email": "erica.stanford@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for East Coast Bays",
+        "Contact": " Erica Stanford",
+        "Electorate": "East Coast Bays",
+        "Party": "National Party",
+        "id": 96,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8996,
+                "total-cost": 17319
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8462,
+                "total-cost": 16785
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4277,
+                "total-cost": 11411
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jamie.Strange@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Jamie Strange",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 97,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9676,
+                "total-cost": 17999
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 7266,
+                "travel-cost": 10465,
+                "total-cost": 17731
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9041,
+                "total-cost": 16175
+            }
+        }
+    },
+    {
+        "Parliament Email": "Chloe.Swarbrick@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Chl\ufffde Swarbrick",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 98
+    },
+    {
+        "Parliament Email": "Fletcher.Tabuteau@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Fletcher Tabuteau",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 99,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jan.Tinetti@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Jan Tinetti",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 100,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7779,
+                "total-cost": 16102
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9571,
+                "total-cost": 17894
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3770,
+                "total-cost": 10904
+            }
+        }
+    },
+    {
+        "Parliament Email": "Rino.Tirikatene@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Te Tai Tonga",
+        "Contact": " Rino Tirikatene",
+        "Electorate": "Te Tai Tonga",
+        "Party": "Labour Party",
+        "id": 101,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 11185,
+                "total-cost": 11185
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6259,
+                "total-cost": 6259
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 11361,
+                "total-cost": 11361
+            }
+        }
+    },
+    {
+        "Parliament Email": "Anne.Tolley@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for East Coast",
+        "Contact": " Anne Tolley",
+        "Electorate": "East Coast",
+        "Party": "National Party",
+        "id": 102
+    },
+    {
+        "Parliament Email": "Philip.Twyford@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Te Atatu",
+        "Contact": " Philip Twyford",
+        "Electorate": "Te Atatu",
+        "Party": "Labour Party",
+        "id": 103,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Louise.Upston@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Taupo",
+        "Contact": " Louise Upston",
+        "Electorate": "Taupo",
+        "Party": "National Party",
+        "id": 104,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 13856,
+                "total-cost": 22179
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12038,
+                "total-cost": 20361
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5839,
+                "total-cost": 12973
+            }
+        }
+    },
+    {
+        "Parliament Email": "Tim.vandeMolen@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Waikato",
+        "Contact": " Timothy van de Molen",
+        "Electorate": "Waikato",
+        "Party": "National Party",
+        "id": 105,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6620,
+                "total-cost": 13754
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5260,
+                "total-cost": 13583
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4361,
+                "total-cost": 12684
+            }
+        }
+    },
+    {
+        "Parliament Email": "Nicky.Wagner@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Nicky Wagner",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 106,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7276,
+                "total-cost": 15599
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10378,
+                "total-cost": 18701
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5262,
+                "total-cost": 12396
+            }
+        }
+    },
+    {
+        "Parliament Email": "Hamish.Walker@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Clutha-Southland",
+        "Contact": " Hamish Walker",
+        "Electorate": "Clutha-Southland",
+        "Party": "National Party",
+        "id": 107,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7607,
+                "total-cost": 15930
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9793,
+                "total-cost": 18116
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5528,
+                "total-cost": 12662
+            }
+        }
+    },
+    {
+        "Parliament Email": "Louisa.Wall@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Manurewa",
+        "Contact": " Louisa Wall",
+        "Electorate": "Manurewa",
+        "Party": "Labour Party",
+        "id": 108,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5656,
+                "total-cost": 13979
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5569,
+                "total-cost": 13892
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7376,
+                "total-cost": 14510
+            }
+        }
+    },
+    {
+        "Parliament Email": "Angie.Warren-Clark@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Angie Warren-Clark",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 109,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6603,
+                "total-cost": 13737
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4701,
+                "total-cost": 13024
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9076,
+                "total-cost": 17399
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5167,
+                "total-cost": 12301
+            }
+        }
+    },
+    {
+        "Parliament Email": "Duncan.Webb@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "Member for Christchurch Central",
+        "Contact": " Duncan Webb",
+        "Electorate": "Christchurch Central",
+        "Party": "Labour Party",
+        "id": 110,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4185,
+                "total-cost": 12508
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3167,
+                "total-cost": 11490
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5134,
+                "total-cost": 12268
+            }
+        }
+    },
+    {
+        "Parliament Email": "Meka.Whaitiri@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Ikaroa-Rawhiti",
+        "Contact": " Meka Whaitiri",
+        "Electorate": "Ikaroa-Rawhiti",
+        "Party": "Labour Party",
+        "id": 111,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9314,
+                "total-cost": 17637
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 7984,
+                "travel-cost": 13030,
+                "total-cost": 21014
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6796,
+                "total-cost": 13930
+            }
+        }
+    },
+    {
+        "Parliament Email": "poto.williams@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Christchurch East",
+        "Contact": " Poto Williams",
+        "Electorate": "Christchurch East",
+        "Party": "Labour Party",
+        "id": 112,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7848,
+                "travel-cost": 11599,
+                "total-cost": 19447
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 4832,
+                "travel-cost": 7290,
+                "total-cost": 12122
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4281,
+                "travel-cost": 7286,
+                "total-cost": 11567
+            }
+        }
+    },
+    {
+        "Parliament Email": "Nicola.Willis@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": " Nicola Willis",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 113,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1620,
+                "total-cost": 1620
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 4517,
+                "total-cost": 4517
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 5273,
+                "total-cost": 5273
+            }
+        }
+    },
+    {
+        "Parliament Email": "Michael.Wood@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Mt Roskill",
+        "Contact": " Michael Wood",
+        "Electorate": "Mt Roskill",
+        "Party": "Labour Party",
+        "id": 114,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Michael.Woodhouse@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": " Michael Woodhouse",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 115,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7097,
+                "total-cost": 14231
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4814,
+                "total-cost": 13137
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8639,
+                "total-cost": 16962
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9174,
+                "total-cost": 16308
+            }
+        }
+    },
+    {
+        "Parliament Email": "Megan.Woods@parliament.govt.nz",
+        "Salutation/Title": "Hon. Dr.",
+        "Job Title": "Member for Wigram",
+        "Contact": " Megan Woods",
+        "Electorate": "Wigram",
+        "Party": "Labour Party",
+        "id": 116,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jian.Yang@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "List Member",
+        "Contact": " Jian Yang",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 117,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5763,
+                "travel-cost": 3560,
+                "total-cost": 9323
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 4624,
+                "travel-cost": 3917,
+                "total-cost": 8541
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1654,
+                "travel-cost": 2771,
+                "total-cost": 4425
+            }
+        }
+    },
+    {
+        "Parliament Email": "Jonathan.Young@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for New Plymouth",
+        "Contact": " Jonathan Young",
+        "Electorate": "New Plymouth",
+        "Party": "National Party",
+        "id": 118,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6850,
+                "total-cost": 15173
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5983,
+                "total-cost": 14306
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7429,
+                "total-cost": 14563
+            }
+        }
+    },
+    {
+        "Parliament Email": "Lawrence.Yule@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Tukituki",
+        "Contact": " Lawrence Yule",
+        "Electorate": "Tukituki",
+        "Party": "National Party",
+        "id": 119,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 3661,
+                "travel-cost": 8619,
+                "total-cost": 12280
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 2071,
+                "travel-cost": 7227,
+                "total-cost": 9298
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1107,
+                "travel-cost": 6469,
+                "total-cost": 7576
+            }
+        }
+    }
+]

@@ -8,15 +8,25 @@
         "Party": "National Party",
         "id": 0,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9642,
+                "total-cost": 17965
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7532,
+                "total-cost": 15855
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6399,
+                "total-cost": 13533
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 9787,
                 "total-cost": 16921
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 373,
-                "total-cost": 373
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -33,7 +43,12 @@
                 "travel-cost": 466,
                 "total-cost": 466
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 373,
+                "total-cost": 373
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 5155,
                 "total-cost": 10166
@@ -49,12 +64,27 @@
         "Party": "Labour Party",
         "id": 1,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10673,
+                "total-cost": 18996
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9020,
+                "total-cost": 17343
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7061,
+                "total-cost": 14195
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 8209,
                 "travel-cost": 7185,
                 "total-cost": 15394
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 6526,
                 "travel-cost": 16235,
                 "total-cost": 22761
@@ -79,10 +109,20 @@
         "Party": "Labour Party",
         "id": 3,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 3326,
-                "total-cost": 9770
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -98,6 +138,11 @@
                 "accommodation-cost": 6444,
                 "travel-cost": 15779,
                 "total-cost": 22223
+            },
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 3326,
+                "total-cost": 9770
             }
         }
     },
@@ -110,15 +155,30 @@
         "Party": "National Party",
         "id": 4,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6491,
+                "total-cost": 13625
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8439,
+                "travel-cost": 8695,
+                "total-cost": 17134
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10537,
+                "total-cost": 18860
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3458,
+                "total-cost": 10592
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 4964,
                 "total-cost": 12098
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 6537,
-                "total-cost": 12981
             },
             "[Members Expense Disclosure - April to June 2017]": {
                 "accommodation-cost": 7518,
@@ -130,7 +190,12 @@
                 "travel-cost": 7538,
                 "total-cost": 13982
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 6537,
+                "total-cost": 12981
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 9784,
                 "total-cost": 18058
@@ -146,20 +211,25 @@
         "Party": "NZ First",
         "id": 5,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2016]": {
-                "accommodation-cost": 7600,
-                "travel-cost": 7015,
-                "total-cost": 14615
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 3523,
+                "total-cost": 8517
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5257,
+                "travel-cost": 1643,
+                "total-cost": 6900
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4281,
+                "travel-cost": 4139,
+                "total-cost": 8420
             },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 683,
                 "total-cost": 5677
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4626,
-                "travel-cost": 4947,
-                "total-cost": 9573
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 8769,
@@ -171,12 +241,22 @@
                 "travel-cost": 6166,
                 "total-cost": 12356
             },
+            "[Members Expense Disclosure - January to March 2016]": {
+                "accommodation-cost": 7600,
+                "travel-cost": 7015,
+                "total-cost": 14615
+            },
             "[Members Expense Disclosure - July to September 2017]": {
                 "accommodation-cost": 4820,
                 "travel-cost": 5466,
                 "total-cost": 10286
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4626,
+                "travel-cost": 4947,
+                "total-cost": 9573
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8326,
                 "travel-cost": 1470,
                 "total-cost": 9796
@@ -192,15 +272,20 @@
         "Party": "National Party",
         "id": 6,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5886,
+                "total-cost": 14209
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3966,
+                "total-cost": 11100
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 3993,
                 "total-cost": 8987
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 837,
-                "total-cost": 837
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -217,7 +302,12 @@
                 "travel-cost": 221,
                 "total-cost": 221
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 837,
+                "total-cost": 837
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3508,
                 "travel-cost": 4066,
                 "total-cost": 7574
@@ -233,15 +323,25 @@
         "Party": "National Party",
         "id": 7,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10479,
+                "total-cost": 18802
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7083,
+                "total-cost": 15406
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 2149,
+                "total-cost": 9283
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5663,
                 "total-cost": 12797
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 4864,
-                "total-cost": 11308
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -258,7 +358,12 @@
                 "travel-cost": 4166,
                 "total-cost": 10610
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 4864,
+                "total-cost": 11308
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 4110,
                 "total-cost": 12384
@@ -274,15 +379,25 @@
         "Party": "National Party",
         "id": 8,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5800,
+                "travel-cost": 7630,
+                "total-cost": 13430
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3703,
+                "travel-cost": 5548,
+                "total-cost": 9251
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 917,
+                "travel-cost": 4546,
+                "total-cost": 5463
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 3826,
                 "travel-cost": 3477,
                 "total-cost": 7303
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 0,
-                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 3470,
@@ -299,7 +414,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1322,
                 "travel-cost": 4480,
                 "total-cost": 5802
@@ -315,15 +435,20 @@
         "Party": "National Party",
         "id": 9,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8689,
+                "travel-cost": 7800,
+                "total-cost": 16489
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 8254,
+                "total-cost": 15388
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7878,
                 "travel-cost": 8691,
                 "total-cost": 16569
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 0,
-                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -340,7 +465,12 @@
                 "travel-cost": 414,
                 "total-cost": 414
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 4841,
                 "travel-cost": 3117,
                 "total-cost": 7958
@@ -354,7 +484,19 @@
         "Contact": " Daniel Bidois",
         "Electorate": "Northcote",
         "Party": "National Party",
-        "id": 10
+        "id": 10,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4142,
+                "total-cost": 12465
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5134,
+                "travel-cost": 5863,
+                "total-cost": 10997
+            }
+        }
     },
     {
         "Parliament Email": "Christopher.Bishop@parliament.govt.nz",
@@ -365,6 +507,16 @@
         "Party": "National Party",
         "id": 11,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3968,
+                "total-cost": 3968
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 5398,
+                "total-cost": 5398
+            },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
                 "travel-cost": 2718,
@@ -406,7 +558,7 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 4680,
                 "total-cost": 9691
@@ -422,12 +574,27 @@
         "Party": "National Party",
         "id": 13,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6292,
+                "total-cost": 14615
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7422,
+                "total-cost": 15745
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5420,
+                "total-cost": 12554
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 3892,
                 "total-cost": 11026
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 7614,
                 "travel-cost": 8567,
                 "total-cost": 16181
@@ -443,15 +610,25 @@
         "Party": "National Party",
         "id": 14,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8757,
+                "total-cost": 17080
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10860,
+                "total-cost": 19183
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7868,
+                "total-cost": 15002
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 8079,
                 "total-cost": 15213
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 1661,
-                "total-cost": 1661
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -468,7 +645,12 @@
                 "travel-cost": 2697,
                 "total-cost": 2697
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1661,
+                "total-cost": 1661
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 4162,
                 "travel-cost": 7114,
                 "total-cost": 11276
@@ -484,15 +666,25 @@
         "Party": "National Party",
         "id": 15,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 13676,
+                "total-cost": 21999
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12570,
+                "total-cost": 20893
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5683,
+                "total-cost": 12817
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5701,
                 "total-cost": 12835
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 9436,
-                "travel-cost": 5863,
-                "total-cost": 15299
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 11008,
@@ -509,7 +701,12 @@
                 "travel-cost": 9001,
                 "total-cost": 18437
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 9436,
+                "travel-cost": 5863,
+                "total-cost": 15299
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 10214,
                 "travel-cost": 8870,
                 "total-cost": 19084
@@ -525,15 +722,25 @@
         "Party": "Labour Party",
         "id": 16,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 5669,
-                "total-cost": 10180
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -550,7 +757,12 @@
                 "travel-cost": 12663,
                 "total-cost": 17174
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 5669,
+                "total-cost": 10180
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 1675,
                 "total-cost": 3900
@@ -566,12 +778,27 @@
         "Party": "Labour Party",
         "id": 17,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 4333,
+                "total-cost": 10159
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 6447,
+                "total-cost": 12273
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 8090,
+                "total-cost": 13084
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 3737,
                 "travel-cost": 7789,
                 "total-cost": 11526
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1496,
                 "travel-cost": 6530,
                 "total-cost": 8026
@@ -587,15 +814,25 @@
         "Party": "National Party",
         "id": 18,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5405,
+                "total-cost": 13728
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6168,
+                "total-cost": 14491
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6480,
+                "total-cost": 13614
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 4996,
                 "total-cost": 12130
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 840,
-                "total-cost": 840
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -612,7 +849,12 @@
                 "travel-cost": 931,
                 "total-cost": 931
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 840,
+                "total-cost": 840
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 2830,
                 "total-cost": 7841
@@ -637,15 +879,25 @@
         "Party": "Labour Party",
         "id": 20,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4364,
+                "total-cost": 12687
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3443,
+                "total-cost": 11766
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5429,
+                "total-cost": 12563
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 7135,
-                "total-cost": 13579
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 6674,
@@ -662,7 +914,12 @@
                 "travel-cost": 5399,
                 "total-cost": 11843
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 7135,
+                "total-cost": 13579
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 3703,
                 "total-cost": 6881
@@ -678,15 +935,30 @@
         "Party": "Green Party",
         "id": 21,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9956,
+                "total-cost": 17090
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 6412,
+                "travel-cost": 4590,
+                "total-cost": 11002
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 13132,
+                "total-cost": 21455
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 10472,
+                "total-cost": 17606
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 9779,
                 "total-cost": 16913
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 4091,
-                "total-cost": 10535
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -703,7 +975,12 @@
                 "travel-cost": 10773,
                 "total-cost": 17217
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 4091,
+                "total-cost": 10535
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 10191,
                 "total-cost": 18465
@@ -719,15 +996,25 @@
         "Party": "Labour Party",
         "id": 22,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 6022,
-                "total-cost": 12466
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -744,7 +1031,12 @@
                 "travel-cost": 10030,
                 "total-cost": 16474
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 6022,
+                "total-cost": 12466
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2918,
                 "travel-cost": 4422,
                 "total-cost": 7340
@@ -760,15 +1052,25 @@
         "Party": "National Party",
         "id": 23,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8821,
+                "total-cost": 17144
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6368,
+                "total-cost": 14691
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5618,
+                "total-cost": 12752
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5095,
                 "total-cost": 12229
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 398,
-                "total-cost": 398
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -785,7 +1087,12 @@
                 "travel-cost": 1227,
                 "total-cost": 1227
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 398,
+                "total-cost": 398
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 2832,
                 "total-cost": 7843
@@ -801,6 +1108,16 @@
         "Party": "National Party",
         "id": 24,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8454,
+                "total-cost": 16777
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5254,
+                "total-cost": 13577
+            },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 4963,
                 "travel-cost": 7753,
@@ -817,15 +1134,25 @@
         "Party": "National Party",
         "id": 25,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5731,
+                "total-cost": 14054
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5268,
+                "total-cost": 13591
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5404,
+                "total-cost": 12538
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 4754,
                 "total-cost": 9748
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 3928,
-                "total-cost": 8439
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -842,7 +1169,12 @@
                 "travel-cost": 6495,
                 "total-cost": 11006
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 3928,
+                "total-cost": 8439
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5792,
                 "travel-cost": 8651,
                 "total-cost": 14443
@@ -858,15 +1190,25 @@
         "Party": "Labour Party",
         "id": 26,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6901,
+                "total-cost": 15224
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8524,
+                "total-cost": 16847
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4075,
+                "total-cost": 11209
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 4028,
                 "total-cost": 11162
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 4481,
-                "total-cost": 10925
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -883,7 +1225,12 @@
                 "travel-cost": 3534,
                 "total-cost": 9978
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 4481,
+                "total-cost": 10925
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 12658,
                 "total-cost": 20932
@@ -899,12 +1246,27 @@
         "Party": "Labour Party",
         "id": 27,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 8056,
+                "total-cost": 8056
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6868,
+                "total-cost": 6868
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 9200,
+                "total-cost": 9200
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 5184,
                 "total-cost": 5184
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 4865,
                 "total-cost": 4865
@@ -920,15 +1282,25 @@
         "Party": "Labour Party",
         "id": 28,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
                 "accommodation-cost": 0,
-                "travel-cost": 5261,
-                "total-cost": 5261
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -945,7 +1317,12 @@
                 "travel-cost": 2250,
                 "total-cost": 2250
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 5261,
+                "total-cost": 5261
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
@@ -961,12 +1338,27 @@
         "Party": "National Party",
         "id": 29,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6167,
+                "total-cost": 14490
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5901,
+                "total-cost": 14224
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6289,
+                "total-cost": 13423
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5201,
                 "total-cost": 12335
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 7814,
                 "travel-cost": 6908,
                 "total-cost": 14722
@@ -1007,15 +1399,25 @@
         "Party": "National Party",
         "id": 32,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7530,
+                "total-cost": 15853
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6658,
+                "total-cost": 14981
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7725,
+                "total-cost": 14859
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6921,
                 "total-cost": 14055
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 671,
-                "total-cost": 671
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1032,7 +1434,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 671,
+                "total-cost": 671
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 5605,
                 "total-cost": 10616
@@ -1048,15 +1455,25 @@
         "Party": "National Party",
         "id": 33,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3637,
+                "total-cost": 11960
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4825,
+                "total-cost": 13148
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4711,
+                "total-cost": 11845
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 4199,
                 "total-cost": 11333
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 2446,
-                "total-cost": 2446
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1073,7 +1490,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 2446,
+                "total-cost": 2446
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 496,
                 "total-cost": 5507
@@ -1089,15 +1511,25 @@
         "Party": "National Party",
         "id": 34,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7032,
+                "total-cost": 15355
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7786,
+                "total-cost": 16109
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7663,
+                "total-cost": 14797
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 8366,
                 "total-cost": 15500
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 5277,
-                "total-cost": 11721
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -1114,7 +1546,12 @@
                 "travel-cost": 7101,
                 "total-cost": 13545
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 5277,
+                "total-cost": 11721
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 6932,
                 "total-cost": 15206
@@ -1130,15 +1567,20 @@
         "Party": "Labour Party",
         "id": 35,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 2339,
-                "travel-cost": 3871,
-                "total-cost": 6210
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7765,
@@ -1155,7 +1597,12 @@
                 "travel-cost": 4462,
                 "total-cost": 7436
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 2339,
+                "travel-cost": 3871,
+                "total-cost": 6210
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 717,
                 "travel-cost": 1748,
                 "total-cost": 2465
@@ -1171,12 +1618,27 @@
         "Party": "National Party",
         "id": 36,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7210,
+                "travel-cost": 9524,
+                "total-cost": 16734
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5483,
+                "travel-cost": 4517,
+                "total-cost": 10000
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1696,
+                "travel-cost": 3583,
+                "total-cost": 5279
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 3227,
                 "travel-cost": 4874,
                 "total-cost": 8101
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5775,
                 "travel-cost": 1327,
                 "total-cost": 7102
@@ -1192,15 +1654,25 @@
         "Party": "Labour Party",
         "id": 37,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
                 "accommodation-cost": 0,
-                "travel-cost": 2101,
-                "total-cost": 2101
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1217,7 +1689,12 @@
                 "travel-cost": 5810,
                 "total-cost": 5810
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 2101,
+                "total-cost": 2101
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 672,
                 "total-cost": 672
@@ -1233,15 +1710,25 @@
         "Party": "National Party",
         "id": 38,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 483,
+                "total-cost": 483
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3609,
+                "total-cost": 3609
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1164,
+                "total-cost": 1164
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 1039,
                 "total-cost": 1039
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 677,
-                "total-cost": 677
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1258,7 +1745,12 @@
                 "travel-cost": 1586,
                 "total-cost": 1586
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 677,
+                "total-cost": 677
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 2425,
                 "total-cost": 2425
@@ -1274,15 +1766,25 @@
         "Party": "Green Party",
         "id": 39,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 12820,
+                "total-cost": 12820
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 8259,
+                "total-cost": 8259
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 7096,
+                "total-cost": 7096
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 5506,
                 "total-cost": 5506
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 6694,
-                "total-cost": 6694
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1299,7 +1801,12 @@
                 "travel-cost": 9438,
                 "total-cost": 9438
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6694,
+                "total-cost": 6694
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 1453,
                 "total-cost": 1453
@@ -1315,15 +1822,25 @@
         "Party": "Labour Party",
         "id": 40,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5300,
+                "travel-cost": 10787,
+                "total-cost": 16087
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3392,
+                "travel-cost": 6420,
+                "total-cost": 9812
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4005,
+                "travel-cost": 3593,
+                "total-cost": 7598
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 5113,
                 "travel-cost": 5375,
                 "total-cost": 10488
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 330,
-                "travel-cost": 1854,
-                "total-cost": 2184
             },
             "[Members Expense Disclosure - April to June 2017]": {
                 "accommodation-cost": 3805,
@@ -1335,7 +1852,12 @@
                 "travel-cost": 3259,
                 "total-cost": 4575
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 330,
+                "travel-cost": 1854,
+                "total-cost": 2184
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1005,
                 "travel-cost": 7336,
                 "total-cost": 8341
@@ -1351,12 +1873,27 @@
         "Party": "Labour Party",
         "id": 41,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 374,
                 "travel-cost": 0,
                 "total-cost": 374
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1791,
                 "travel-cost": 5149,
                 "total-cost": 6940
@@ -1372,12 +1909,27 @@
         "Party": "NZ First",
         "id": 42,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 256,
                 "travel-cost": 4340,
                 "total-cost": 4596
@@ -1393,12 +1945,32 @@
         "Party": "Labour Party",
         "id": 43,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7401,
+                "total-cost": 14535
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7623,
+                "total-cost": 15946
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6429,
+                "total-cost": 14752
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9809,
+                "total-cost": 16943
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 6974,
                 "travel-cost": 4592,
                 "total-cost": 11566
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2874,
                 "travel-cost": 10557,
                 "total-cost": 13431
@@ -1414,15 +1986,25 @@
         "Party": "National Party",
         "id": 44,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8852,
+                "total-cost": 17175
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 11070,
+                "total-cost": 19393
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5415,
+                "total-cost": 12549
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 4572,
                 "total-cost": 11706
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 0,
-                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1439,7 +2021,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 2760,
                 "total-cost": 7771
@@ -1455,12 +2042,27 @@
         "Party": "National Party",
         "id": 45,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6692,
+                "total-cost": 15015
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10999,
+                "total-cost": 19322
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4598,
+                "total-cost": 11732
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 7850,
                 "total-cost": 14984
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 6931,
                 "travel-cost": 10282,
                 "total-cost": 17213
@@ -1476,15 +2078,25 @@
         "Party": "National Party",
         "id": 46,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5011,
+                "travel-cost": 5162,
+                "total-cost": 10173
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5125,
+                "total-cost": 13448
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9829,
+                "total-cost": 16963
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 7656,
                 "total-cost": 14790
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 7907,
-                "total-cost": 14351
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -1501,7 +2113,12 @@
                 "travel-cost": 4643,
                 "total-cost": 11087
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 7907,
+                "total-cost": 14351
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 9830,
                 "total-cost": 18104
@@ -1517,15 +2134,30 @@
         "Party": "National Party",
         "id": 47,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 8552,
+                "total-cost": 13546
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 5526,
+                "total-cost": 11352
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 7328,
+                "total-cost": 13154
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 4018,
+                "total-cost": 9012
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 5048,
                 "total-cost": 10042
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 3725,
-                "total-cost": 8236
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -1542,7 +2174,12 @@
                 "travel-cost": 5230,
                 "total-cost": 9741
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 3725,
+                "total-cost": 8236
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5792,
                 "travel-cost": 5570,
                 "total-cost": 11362
@@ -1558,12 +2195,27 @@
         "Party": "National Party",
         "id": 48,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 3632,
+                "travel-cost": 5441,
+                "total-cost": 9073
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 4657,
+                "travel-cost": 5900,
+                "total-cost": 10557
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 2756,
+                "travel-cost": 3423,
+                "total-cost": 6179
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 2709,
                 "travel-cost": 6216,
                 "total-cost": 8925
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2993,
                 "travel-cost": 9381,
                 "total-cost": 12374
@@ -1579,15 +2231,25 @@
         "Party": "National Party",
         "id": 49,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4939,
+                "total-cost": 13262
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7554,
+                "total-cost": 15877
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4536,
+                "total-cost": 11670
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5695,
                 "total-cost": 12829
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 3966,
-                "total-cost": 10410
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -1604,7 +2266,12 @@
                 "travel-cost": 5709,
                 "total-cost": 12153
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 3966,
+                "total-cost": 10410
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 6097,
                 "total-cost": 14371
@@ -1620,15 +2287,30 @@
         "Party": "Labour Party",
         "id": 50,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - July to September 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 4343,
-                "total-cost": 8854
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -1645,7 +2327,12 @@
                 "travel-cost": 5251,
                 "total-cost": 9762
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 4343,
+                "total-cost": 8854
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 632,
                 "total-cost": 2857
@@ -1661,10 +2348,20 @@
         "Party": "Labour Party",
         "id": 51,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2017]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
-                "travel-cost": 2799,
-                "total-cost": 2799
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1680,6 +2377,11 @@
                 "accommodation-cost": 0,
                 "travel-cost": 11494,
                 "total-cost": 11494
+            },
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 2799,
+                "total-cost": 2799
             }
         }
     },
@@ -1692,15 +2394,25 @@
         "Party": "Green Party",
         "id": 52,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
                 "accommodation-cost": 0,
-                "travel-cost": 6111,
-                "total-cost": 6111
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -1717,7 +2429,12 @@
                 "travel-cost": 6465,
                 "total-cost": 6465
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6111,
+                "total-cost": 6111
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 428,
                 "total-cost": 428
@@ -1731,7 +2448,19 @@
         "Contact": " Agnes Loheni",
         "Electorate": "",
         "Party": "National Party",
-        "id": 53
+        "id": 53,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 4105,
+                "travel-cost": 10364,
+                "total-cost": 14469
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1848,
+                "travel-cost": 5024,
+                "total-cost": 6872
+            }
+        }
     },
     {
         "Parliament Email": "Maria.Lubeck@parliament.govt.nz",
@@ -1751,12 +2480,27 @@
         "Party": "Labour Party",
         "id": 55,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6296,
+                "total-cost": 14619
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6402,
+                "total-cost": 14725
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5852,
+                "total-cost": 12986
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5555,
                 "total-cost": 12689
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 6897,
                 "travel-cost": 9483,
                 "total-cost": 16380
@@ -1772,15 +2516,25 @@
         "Party": "National Party",
         "id": 56,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 6276,
+                "travel-cost": 4213,
+                "total-cost": 10489
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3342,
+                "travel-cost": 20765,
+                "total-cost": 24107
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1837,
+                "travel-cost": 8351,
+                "total-cost": 10188
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4030,
                 "travel-cost": 1701,
                 "total-cost": 5731
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 3304,
-                "travel-cost": 5081,
-                "total-cost": 8385
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5122,
@@ -1797,7 +2551,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 3304,
+                "travel-cost": 5081,
+                "total-cost": 8385
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 3760,
                 "total-cost": 3760
@@ -1813,15 +2572,25 @@
         "Party": "Labour Party",
         "id": 57,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 5028,
-                "total-cost": 11472
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -1838,7 +2607,12 @@
                 "travel-cost": 8588,
                 "total-cost": 15032
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 5028,
+                "total-cost": 11472
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 3406,
                 "total-cost": 6584
@@ -1879,7 +2653,7 @@
                 "travel-cost": 9155,
                 "total-cost": 9155
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 4417,
                 "total-cost": 4417
@@ -1904,20 +2678,25 @@
         "Party": "NZ First",
         "id": 60,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2016]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 1914,
-                "total-cost": 8358
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6113,
-                "travel-cost": 1575,
-                "total-cost": 7688
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7848,
@@ -1929,12 +2708,22 @@
                 "travel-cost": 1309,
                 "total-cost": 8827
             },
+            "[Members Expense Disclosure - January to March 2016]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 1914,
+                "total-cost": 8358
+            },
             "[Members Expense Disclosure - July to September 2017]": {
                 "accommodation-cost": 6444,
                 "travel-cost": 3449,
                 "total-cost": 9893
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6113,
+                "travel-cost": 1575,
+                "total-cost": 7688
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 617,
                 "total-cost": 3795
@@ -1950,20 +2739,25 @@
         "Party": "NZ First",
         "id": 61,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2016]": {
-                "accommodation-cost": 4848,
-                "travel-cost": 3502,
-                "total-cost": 8350
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4025,
-                "travel-cost": 4855,
-                "total-cost": 8880
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -1975,12 +2769,22 @@
                 "travel-cost": 6128,
                 "total-cost": 10639
             },
+            "[Members Expense Disclosure - January to March 2016]": {
+                "accommodation-cost": 4848,
+                "travel-cost": 3502,
+                "total-cost": 8350
+            },
             "[Members Expense Disclosure - July to September 2017]": {
                 "accommodation-cost": 3782,
                 "travel-cost": 5104,
                 "total-cost": 8886
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4025,
+                "travel-cost": 4855,
+                "total-cost": 8880
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1868,
                 "travel-cost": 2933,
                 "total-cost": 4801
@@ -1996,12 +2800,32 @@
         "Party": "Labour Party",
         "id": 62,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 2543,
+                "total-cost": 9677
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3693,
+                "total-cost": 12016
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4174,
+                "total-cost": 12497
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 1521,
+                "total-cost": 8655
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7470,
                 "travel-cost": 3941,
                 "total-cost": 11411
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 4984,
                 "travel-cost": 999,
                 "total-cost": 5983
@@ -2017,15 +2841,25 @@
         "Party": "National Party",
         "id": 63,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8493,
+                "total-cost": 16816
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7244,
+                "total-cost": 15567
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6885,
+                "total-cost": 14019
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6349,
                 "total-cost": 13483
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 319,
-                "total-cost": 319
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -2042,7 +2876,12 @@
                 "travel-cost": 424,
                 "total-cost": 424
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 319,
+                "total-cost": 319
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 4568,
                 "total-cost": 9579
@@ -2058,15 +2897,25 @@
         "Party": "National Party",
         "id": 64,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4552,
+                "total-cost": 12875
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5406,
+                "total-cost": 13729
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3754,
+                "total-cost": 10888
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 1905,
                 "total-cost": 9039
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 2660,
-                "total-cost": 9104
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2083,7 +2932,12 @@
                 "travel-cost": 2186,
                 "total-cost": 8630
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 2660,
+                "total-cost": 9104
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 2547,
                 "total-cost": 10821
@@ -2099,20 +2953,25 @@
         "Party": "NZ First",
         "id": 65,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2016]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 8628,
-                "total-cost": 13139
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 4585,
+                "total-cost": 10411
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 4512,
+                "total-cost": 10338
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 8087,
+                "total-cost": 13081
             },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 7302,
                 "total-cost": 12296
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 8750,
-                "total-cost": 13261
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -2124,12 +2983,22 @@
                 "travel-cost": 6951,
                 "total-cost": 12213
             },
+            "[Members Expense Disclosure - January to March 2016]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 8628,
+                "total-cost": 13139
+            },
             "[Members Expense Disclosure - July to September 2017]": {
                 "accommodation-cost": 4511,
                 "travel-cost": 6642,
                 "total-cost": 11153
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 8750,
+                "total-cost": 13261
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5792,
                 "travel-cost": 7519,
                 "total-cost": 13311
@@ -2145,15 +3014,25 @@
         "Party": "National Party",
         "id": 66,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7875,
+                "total-cost": 16198
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7436,
+                "total-cost": 15759
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4910,
+                "total-cost": 12044
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 4668,
                 "total-cost": 11802
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 612,
-                "total-cost": 612
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2170,7 +3049,12 @@
                 "travel-cost": 1873,
                 "total-cost": 1873
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 612,
+                "total-cost": 612
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 5002,
                 "total-cost": 10013
@@ -2186,15 +3070,25 @@
         "Party": "National Party",
         "id": 67,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5826,
+                "travel-cost": 9221,
+                "total-cost": 15047
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 6509,
+                "travel-cost": 5125,
+                "total-cost": 11634
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4994,
+                "travel-cost": 7084,
+                "total-cost": 12078
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 6474,
                 "total-cost": 11468
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 6008,
-                "total-cost": 10519
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5023,
@@ -2211,7 +3105,12 @@
                 "travel-cost": 5279,
                 "total-cost": 9790
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 6008,
+                "total-cost": 10519
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5792,
                 "travel-cost": 17754,
                 "total-cost": 23546
@@ -2227,15 +3126,25 @@
         "Party": "Labour Party",
         "id": 68,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 5680,
-                "total-cost": 12124
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2252,7 +3161,12 @@
                 "travel-cost": 8489,
                 "total-cost": 14933
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 5680,
+                "total-cost": 12124
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 2356,
                 "total-cost": 5534
@@ -2268,15 +3182,25 @@
         "Party": "National Party",
         "id": 69,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9391,
+                "total-cost": 17714
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9834,
+                "total-cost": 18157
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7472,
+                "total-cost": 14606
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6701,
                 "total-cost": 13835
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 1074,
-                "total-cost": 1074
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2293,7 +3217,12 @@
                 "travel-cost": 885,
                 "total-cost": 885
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1074,
+                "total-cost": 1074
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 3916,
                 "total-cost": 8927
@@ -2309,15 +3238,30 @@
         "Party": "Labour Party",
         "id": 70,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - July to September 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 7022,
-                "total-cost": 11533
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2017]": {
                 "accommodation-cost": 5262,
@@ -2329,7 +3273,12 @@
                 "travel-cost": 7313,
                 "total-cost": 11824
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 7022,
+                "total-cost": 11533
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 2351,
                 "total-cost": 4576
@@ -2345,12 +3294,27 @@
         "Party": "Labour Party",
         "id": 71,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 814,
+                "total-cost": 814
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 2132,
+                "total-cost": 2132
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1841,
+                "total-cost": 1841
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 2120,
                 "total-cost": 2120
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
@@ -2366,15 +3330,25 @@
         "Party": "National Party",
         "id": 72,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12984,
+                "total-cost": 21307
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8546,
+                "total-cost": 16869
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3614,
+                "total-cost": 10748
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 14948,
                 "travel-cost": 5346,
                 "total-cost": 20294
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 4275,
-                "total-cost": 10719
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2391,7 +3365,12 @@
                 "travel-cost": 4149,
                 "total-cost": 10593
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 4275,
+                "total-cost": 10719
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 460,
                 "travel-cost": 13642,
                 "total-cost": 14102
@@ -2407,15 +3386,25 @@
         "Party": "Labour Party",
         "id": 73,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 9832,
-                "total-cost": 14343
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -2432,7 +3421,12 @@
                 "travel-cost": 16537,
                 "total-cost": 21048
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 9832,
+                "total-cost": 14343
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 3917,
                 "total-cost": 6142
@@ -2448,15 +3442,30 @@
         "Party": "National Party",
         "id": 74,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6025,
+                "total-cost": 13159
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6221,
+                "total-cost": 14544
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4494,
+                "total-cost": 12817
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3171,
+                "total-cost": 10305
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 8335,
                 "total-cost": 15469
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 3770,
-                "total-cost": 10214
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2473,7 +3482,12 @@
                 "travel-cost": 4505,
                 "total-cost": 10949
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 3770,
+                "total-cost": 10214
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 4103,
                 "total-cost": 12377
@@ -2489,12 +3503,27 @@
         "Party": "NZ First",
         "id": 75,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12702,
+                "total-cost": 21025
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12481,
+                "total-cost": 20804
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7528,
+                "total-cost": 14662
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4388,
                 "travel-cost": 8606,
                 "total-cost": 12994
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1028,
                 "travel-cost": 13013,
                 "total-cost": 14041
@@ -2510,12 +3539,27 @@
         "Party": "National Party",
         "id": 76,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6170,
+                "total-cost": 14493
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6021,
+                "total-cost": 14344
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 2639,
+                "total-cost": 9773
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6211,
                 "total-cost": 13345
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 4924,
                 "travel-cost": 9540,
                 "total-cost": 14464
@@ -2531,20 +3575,25 @@
         "Party": "NZ First",
         "id": 77,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2016]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 3514,
-                "total-cost": 9958
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 6186,
-                "total-cost": 12630
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2556,12 +3605,22 @@
                 "travel-cost": 9278,
                 "total-cost": 16796
             },
+            "[Members Expense Disclosure - January to March 2016]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 3514,
+                "total-cost": 9958
+            },
             "[Members Expense Disclosure - July to September 2017]": {
                 "accommodation-cost": 6444,
                 "travel-cost": 8862,
                 "total-cost": 15306
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 6186,
+                "total-cost": 12630
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 3499,
                 "total-cost": 6677
@@ -2577,12 +3636,27 @@
         "Party": "Labour Party",
         "id": 78,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8532,
+                "total-cost": 16855
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10229,
+                "total-cost": 18552
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4577,
+                "total-cost": 11711
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6221,
                 "total-cost": 13355
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5247,
                 "travel-cost": 14371,
                 "total-cost": 19618
@@ -2598,15 +3672,20 @@
         "Party": "National Party",
         "id": 79,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10270,
+                "total-cost": 18593
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6960,
+                "total-cost": 14094
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 2200,
                 "total-cost": 2200
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 4931,
-                "total-cost": 11375
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 9630,
@@ -2622,6 +3701,11 @@
                 "accommodation-cost": 6444,
                 "travel-cost": 4499,
                 "total-cost": 10943
+            },
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 4931,
+                "total-cost": 11375
             }
         }
     },
@@ -2634,6 +3718,26 @@
         "Party": "Labour Party",
         "id": 80,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 10217,
+                "total-cost": 17351
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7534,
+                "total-cost": 15857
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7877,
+                "total-cost": 16200
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5506,
+                "total-cost": 12640
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 6975,
                 "travel-cost": 8542,
@@ -2650,15 +3754,25 @@
         "Party": "National Party",
         "id": 81,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8901,
+                "total-cost": 17224
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10109,
+                "total-cost": 18432
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 5622,
+                "travel-cost": 12207,
+                "total-cost": 17829
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6284,
                 "total-cost": 13418
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 3852,
-                "total-cost": 10296
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2675,7 +3789,12 @@
                 "travel-cost": 4888,
                 "total-cost": 11332
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 3852,
+                "total-cost": 10296
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 10225,
                 "total-cost": 18499
@@ -2691,15 +3810,25 @@
         "Party": "Labour Party",
         "id": 82,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
                 "accommodation-cost": 0,
-                "travel-cost": 5094,
-                "total-cost": 5094
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -2716,7 +3845,12 @@
                 "travel-cost": 11922,
                 "total-cost": 11922
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 5094,
+                "total-cost": 5094
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 248,
                 "total-cost": 248
@@ -2732,15 +3866,25 @@
         "Party": "Independent",
         "id": 83,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7295,
+                "travel-cost": 4749,
+                "total-cost": 12044
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 5940,
+                "travel-cost": 671,
+                "total-cost": 6611
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4203,
+                "total-cost": 11337
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 5845,
                 "total-cost": 10839
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 3359,
-                "total-cost": 7870
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -2757,7 +3901,12 @@
                 "travel-cost": 5205,
                 "total-cost": 9716
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 3359,
+                "total-cost": 7870
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5792,
                 "travel-cost": 6362,
                 "total-cost": 12154
@@ -2773,15 +3922,30 @@
         "Party": "Labour Party",
         "id": 84,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 5549,
+                "travel-cost": 8165,
+                "total-cost": 13714
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5844,
+                "total-cost": 14167
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4089,
+                "total-cost": 12412
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3952,
+                "total-cost": 11086
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 3053,
                 "travel-cost": 5117,
                 "total-cost": 8170
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 1763,
-                "total-cost": 8207
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -2798,7 +3962,12 @@
                 "travel-cost": 6264,
                 "total-cost": 12708
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 1763,
+                "total-cost": 8207
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 6311,
                 "travel-cost": 3907,
                 "total-cost": 10218
@@ -2814,12 +3983,32 @@
         "Party": "Labour Party",
         "id": 85,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6071,
+                "total-cost": 13205
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8565,
+                "total-cost": 16888
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5649,
+                "total-cost": 13972
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3484,
+                "total-cost": 10618
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 5945,
                 "travel-cost": 4126,
                 "total-cost": 10071
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 6223,
                 "travel-cost": 13003,
                 "total-cost": 19226
@@ -2835,15 +4024,25 @@
         "Party": "Green Party",
         "id": 86,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 7700,
-                "total-cost": 12211
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -2860,7 +4059,12 @@
                 "travel-cost": 11044,
                 "total-cost": 15555
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 7700,
+                "total-cost": 12211
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 1249,
                 "total-cost": 3474
@@ -2876,15 +4080,25 @@
         "Party": "Labour Party",
         "id": 87,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 1487,
-                "travel-cost": 7428,
-                "total-cost": 8915
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2017]": {
                 "accommodation-cost": 7081,
@@ -2896,7 +4110,12 @@
                 "travel-cost": 5573,
                 "total-cost": 12017
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 1487,
+                "travel-cost": 7428,
+                "total-cost": 8915
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 6997,
                 "total-cost": 10175
@@ -2912,15 +4131,25 @@
         "Party": "National Party",
         "id": 88,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 4751,
+                "total-cost": 4751
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3428,
+                "total-cost": 3428
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 3251,
+                "total-cost": 3251
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 4287,
                 "total-cost": 4287
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 1468,
-                "total-cost": 1468
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -2937,7 +4166,12 @@
                 "travel-cost": 1485,
                 "total-cost": 1485
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1468,
+                "total-cost": 1468
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 2335,
                 "total-cost": 2335
@@ -2953,15 +4187,30 @@
         "Party": "Labour Party",
         "id": 89,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - July to September 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 6628,
-                "total-cost": 11139
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -2978,7 +4227,12 @@
                 "travel-cost": 4160,
                 "total-cost": 8671
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 6628,
+                "total-cost": 11139
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 3201,
                 "total-cost": 5426
@@ -2994,22 +4248,32 @@
         "Party": "ACT New Zealand",
         "id": 90,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2016]": {
-                "accommodation-cost": 0,
-                "travel-cost": 0,
-                "total-cost": 0
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 6790,
+                "travel-cost": 8037,
+                "total-cost": 14827
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 6790,
+                "travel-cost": 10042,
+                "total-cost": 16832
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 5820,
+                "travel-cost": 7717,
+                "total-cost": 13537
             },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 5820,
                 "travel-cost": 8831,
                 "total-cost": 14651
             },
-            "[Members Expense Disclosure - January to March 2017]": {
+            "[Members Expense Disclosure - April to June 2017]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - April to June 2017]": {
+            "[Members Expense Disclosure - January to March 2016]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
@@ -3019,7 +4283,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 4088,
                 "travel-cost": 4637,
                 "total-cost": 8725
@@ -3035,15 +4304,25 @@
         "Party": "Green Party",
         "id": 91,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
                 "accommodation-cost": 0,
-                "travel-cost": 6786,
-                "total-cost": 6786
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -3060,7 +4339,12 @@
                 "travel-cost": 15403,
                 "total-cost": 15403
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6786,
+                "total-cost": 6786
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 0,
                 "travel-cost": 1729,
                 "total-cost": 1729
@@ -3076,15 +4360,25 @@
         "Party": "National Party",
         "id": 92,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7406,
+                "travel-cost": 6739,
+                "total-cost": 14145
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 3517,
+                "travel-cost": 5442,
+                "total-cost": 8959
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 2410,
+                "travel-cost": 3556,
+                "total-cost": 5966
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 4994,
                 "travel-cost": 4888,
                 "total-cost": 9882
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 5040,
-                "total-cost": 9551
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -3101,7 +4395,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 5040,
+                "total-cost": 9551
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3508,
                 "travel-cost": 3631,
                 "total-cost": 7139
@@ -3117,12 +4416,27 @@
         "Party": "Labour Party",
         "id": 93,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
             "[Members Expense Disclosure - July to September 2017]": {
                 "accommodation-cost": 1977,
                 "travel-cost": 7509,
                 "total-cost": 9486
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1405,
                 "travel-cost": 2100,
                 "total-cost": 3505
@@ -3138,15 +4452,25 @@
         "Party": "National Party",
         "id": 94,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7756,
+                "total-cost": 16079
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 11996,
+                "total-cost": 20319
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 11368,
+                "total-cost": 18502
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 7873,
                 "total-cost": 15007
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 715,
-                "total-cost": 715
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -3163,7 +4487,12 @@
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 715,
+                "total-cost": 715
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3907,
                 "travel-cost": 7240,
                 "total-cost": 11147
@@ -3179,15 +4508,25 @@
         "Party": "National Party",
         "id": 95,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10286,
+                "total-cost": 18609
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7429,
+                "total-cost": 15752
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7342,
+                "total-cost": 14476
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6916,
                 "total-cost": 14050
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 13216,
-                "total-cost": 19660
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7661,
@@ -3204,7 +4543,12 @@
                 "travel-cost": 9160,
                 "total-cost": 15604
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 13216,
+                "total-cost": 19660
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 7085,
                 "total-cost": 15359
@@ -3220,12 +4564,27 @@
         "Party": "National Party",
         "id": 96,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8996,
+                "total-cost": 17319
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8462,
+                "total-cost": 16785
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 4277,
+                "total-cost": 11411
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 2661,
                 "total-cost": 9795
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5351,
                 "travel-cost": 9050,
                 "total-cost": 14401
@@ -3241,12 +4600,27 @@
         "Party": "Labour Party",
         "id": 97,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9676,
+                "total-cost": 17999
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 7266,
+                "travel-cost": 10465,
+                "total-cost": 17731
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9041,
+                "total-cost": 16175
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 8512,
                 "travel-cost": 3988,
                 "total-cost": 12500
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3065,
                 "travel-cost": 12345,
                 "total-cost": 15410
@@ -3271,20 +4645,30 @@
         "Party": "NZ First",
         "id": 99,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2016]": {
-                "accommodation-cost": 4511,
-                "travel-cost": 5592,
-                "total-cost": 10103
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4731,
-                "travel-cost": 7551,
-                "total-cost": 12282
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 5262,
@@ -3296,12 +4680,22 @@
                 "travel-cost": 5757,
                 "total-cost": 11019
             },
+            "[Members Expense Disclosure - January to March 2016]": {
+                "accommodation-cost": 4511,
+                "travel-cost": 5592,
+                "total-cost": 10103
+            },
             "[Members Expense Disclosure - July to September 2017]": {
                 "accommodation-cost": 4511,
                 "travel-cost": 5348,
                 "total-cost": 9859
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4731,
+                "travel-cost": 7551,
+                "total-cost": 12282
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 2425,
                 "total-cost": 4650
@@ -3317,12 +4711,27 @@
         "Party": "Labour Party",
         "id": 100,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7779,
+                "total-cost": 16102
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9571,
+                "total-cost": 17894
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 3770,
+                "total-cost": 10904
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5774,
                 "total-cost": 12908
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 7729,
                 "travel-cost": 9305,
                 "total-cost": 17034
@@ -3338,15 +4747,25 @@
         "Party": "Labour Party",
         "id": 101,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 11185,
+                "total-cost": 11185
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6259,
+                "total-cost": 6259
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 11361,
+                "total-cost": 11361
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 3567,
                 "travel-cost": 7872,
                 "total-cost": 11439
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4258,
-                "travel-cost": 10380,
-                "total-cost": 14638
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 4511,
@@ -3363,7 +4782,12 @@
                 "travel-cost": 15515,
                 "total-cost": 19381
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4258,
+                "travel-cost": 10380,
+                "total-cost": 14638
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 4964,
                 "travel-cost": 5415,
                 "total-cost": 10379
@@ -3404,7 +4828,7 @@
                 "travel-cost": 184,
                 "total-cost": 184
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 6814,
                 "travel-cost": 4388,
                 "total-cost": 11202
@@ -3420,6 +4844,21 @@
         "Party": "Labour Party",
         "id": 103,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
@@ -3430,7 +4869,7 @@
                 "travel-cost": 10420,
                 "total-cost": 14550
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 165,
                 "travel-cost": 1450,
                 "total-cost": 1615
@@ -3446,15 +4885,25 @@
         "Party": "National Party",
         "id": 104,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 13856,
+                "total-cost": 22179
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 12038,
+                "total-cost": 20361
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5839,
+                "total-cost": 12973
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 6346,
                 "total-cost": 13480
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 1470,
-                "total-cost": 1470
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -3471,7 +4920,12 @@
                 "travel-cost": 514,
                 "total-cost": 514
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1470,
+                "total-cost": 1470
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 7392,
                 "total-cost": 12403
@@ -3485,7 +4939,24 @@
         "Contact": " Timothy van de Molen",
         "Electorate": "Waikato",
         "Party": "National Party",
-        "id": 105
+        "id": 105,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6620,
+                "total-cost": 13754
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5260,
+                "total-cost": 13583
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4361,
+                "total-cost": 12684
+            }
+        }
     },
     {
         "Parliament Email": "Nicky.Wagner@parliament.govt.nz",
@@ -3496,15 +4967,25 @@
         "Party": "National Party",
         "id": 106,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7276,
+                "total-cost": 15599
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 10378,
+                "total-cost": 18701
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5262,
+                "total-cost": 12396
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 10892,
                 "total-cost": 18026
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 0,
-                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -3521,7 +5002,12 @@
                 "travel-cost": 1069,
                 "total-cost": 1069
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 3146,
                 "total-cost": 8157
@@ -3537,12 +5023,27 @@
         "Party": "National Party",
         "id": 107,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 7607,
+                "total-cost": 15930
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9793,
+                "total-cost": 18116
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5528,
+                "total-cost": 12662
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 3614,
                 "travel-cost": 8963,
                 "total-cost": 12577
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1778,
                 "travel-cost": 10941,
                 "total-cost": 12719
@@ -3558,15 +5059,25 @@
         "Party": "Labour Party",
         "id": 108,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5656,
+                "total-cost": 13979
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5569,
+                "total-cost": 13892
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7376,
+                "total-cost": 14510
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 5373,
                 "total-cost": 12507
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 5589,
-                "total-cost": 12033
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -3583,7 +5094,12 @@
                 "travel-cost": 3829,
                 "total-cost": 10273
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 5589,
+                "total-cost": 12033
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 8146,
                 "total-cost": 16420
@@ -3597,7 +5113,29 @@
         "Contact": " Angie Warren-Clark",
         "Electorate": "",
         "Party": "Labour Party",
-        "id": 109
+        "id": 109,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6603,
+                "total-cost": 13737
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4701,
+                "total-cost": 13024
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9076,
+                "total-cost": 17399
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5167,
+                "total-cost": 12301
+            }
+        }
     },
     {
         "Parliament Email": "Duncan.Webb@parliament.govt.nz",
@@ -3608,12 +5146,27 @@
         "Party": "Labour Party",
         "id": 110,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4185,
+                "total-cost": 12508
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 3167,
+                "total-cost": 11490
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 5134,
+                "total-cost": 12268
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 4634,
                 "total-cost": 11768
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3997,
                 "travel-cost": 8780,
                 "total-cost": 12777
@@ -3629,15 +5182,25 @@
         "Party": "Labour Party",
         "id": 111,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 9314,
+                "total-cost": 17637
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 7984,
+                "travel-cost": 13030,
+                "total-cost": 21014
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 6796,
+                "total-cost": 13930
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 4386,
-                "travel-cost": 4608,
-                "total-cost": 8994
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7570,
@@ -3654,7 +5217,12 @@
                 "travel-cost": 8853,
                 "total-cost": 13364
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 4386,
+                "travel-cost": 4608,
+                "total-cost": 8994
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 2225,
                 "travel-cost": 2733,
                 "total-cost": 4958
@@ -3670,15 +5238,25 @@
         "Party": "Labour Party",
         "id": 112,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 7848,
+                "travel-cost": 11599,
+                "total-cost": 19447
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 4832,
+                "travel-cost": 7290,
+                "total-cost": 12122
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 4281,
+                "travel-cost": 7286,
+                "total-cost": 11567
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 5534,
                 "travel-cost": 9617,
                 "total-cost": 15151
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 11278,
-                "total-cost": 17722
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -3695,7 +5273,12 @@
                 "travel-cost": 5691,
                 "total-cost": 12135
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 11278,
+                "total-cost": 17722
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 9762,
                 "total-cost": 18036
@@ -3709,7 +5292,24 @@
         "Contact": " Nicola Willis",
         "Electorate": "",
         "Party": "National Party",
-        "id": 113
+        "id": 113,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1620,
+                "total-cost": 1620
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 4517,
+                "total-cost": 4517
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 5273,
+                "total-cost": 5273
+            }
+        }
     },
     {
         "Parliament Email": "Michael.Wood@parliament.govt.nz",
@@ -3720,15 +5320,20 @@
         "Party": "Labour Party",
         "id": 114,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 5676,
-                "travel-cost": 4838,
-                "total-cost": 10514
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2017]": {
                 "accommodation-cost": 7518,
@@ -3740,7 +5345,12 @@
                 "travel-cost": 5100,
                 "total-cost": 9396
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 5676,
+                "travel-cost": 4838,
+                "total-cost": 10514
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 2545,
                 "total-cost": 5723
@@ -3756,15 +5366,30 @@
         "Party": "National Party",
         "id": 115,
         "disclosure-costs": {
+            "[Members Expense Disclosure - July to September 2018]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7097,
+                "total-cost": 14231
+            },
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 4814,
+                "total-cost": 13137
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 8639,
+                "total-cost": 16962
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 9174,
+                "total-cost": 16308
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 8231,
                 "total-cost": 15365
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 0,
-                "travel-cost": 2661,
-                "total-cost": 2661
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 0,
@@ -3781,7 +5406,12 @@
                 "travel-cost": 1100,
                 "total-cost": 1100
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 0,
+                "travel-cost": 2661,
+                "total-cost": 2661
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 5011,
                 "travel-cost": 3801,
                 "total-cost": 8812
@@ -3797,15 +5427,25 @@
         "Party": "Labour Party",
         "id": 116,
         "disclosure-costs": {
-            "[Members Expense Disclosure - January to March 2018]": {
+            "[Members Expense Disclosure - April to June 2019]": {
                 "accommodation-cost": 0,
                 "travel-cost": 0,
                 "total-cost": 0
             },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 7149,
-                "total-cost": 13593
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
+            },
+            "[Members Expense Disclosure - January to March 2018]": {
+                "accommodation-cost": 0,
+                "travel-cost": 0,
+                "total-cost": 0
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -3822,7 +5462,12 @@
                 "travel-cost": 6095,
                 "total-cost": 12539
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 7149,
+                "total-cost": 13593
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3178,
                 "travel-cost": 1606,
                 "total-cost": 4784
@@ -3838,15 +5483,25 @@
         "Party": "National Party",
         "id": 117,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 5763,
+                "travel-cost": 3560,
+                "total-cost": 9323
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 4624,
+                "travel-cost": 3917,
+                "total-cost": 8541
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1654,
+                "travel-cost": 2771,
+                "total-cost": 4425
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 2704,
                 "travel-cost": 2086,
                 "total-cost": 4790
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 991,
-                "travel-cost": 4830,
-                "total-cost": 5821
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 4957,
@@ -3863,7 +5518,12 @@
                 "travel-cost": 4001,
                 "total-cost": 6479
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 991,
+                "travel-cost": 4830,
+                "total-cost": 5821
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 3101,
                 "travel-cost": 4960,
                 "total-cost": 8061
@@ -3879,15 +5539,25 @@
         "Party": "National Party",
         "id": 118,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 6850,
+                "total-cost": 15173
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 8323,
+                "travel-cost": 5983,
+                "total-cost": 14306
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 7134,
+                "travel-cost": 7429,
+                "total-cost": 14563
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 7134,
                 "travel-cost": 9196,
                 "total-cost": 16330
-            },
-            "[Members Expense Disclosure - January to March 2017]": {
-                "accommodation-cost": 6444,
-                "travel-cost": 8165,
-                "total-cost": 14609
             },
             "[Members Expense Disclosure - April to June 2016]": {
                 "accommodation-cost": 7518,
@@ -3904,7 +5574,12 @@
                 "travel-cost": 4153,
                 "total-cost": 10597
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - January to March 2017]": {
+                "accommodation-cost": 6444,
+                "travel-cost": 8165,
+                "total-cost": 14609
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 8274,
                 "travel-cost": 5925,
                 "total-cost": 14199
@@ -3920,12 +5595,27 @@
         "Party": "National Party",
         "id": 119,
         "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2019]": {
+                "accommodation-cost": 3661,
+                "travel-cost": 8619,
+                "total-cost": 12280
+            },
+            "[Members Expense Disclosure - 1 October to 31 December 2018]": {
+                "accommodation-cost": 2071,
+                "travel-cost": 7227,
+                "total-cost": 9298
+            },
+            "[Members Expense Disclosure - January to March 2019]": {
+                "accommodation-cost": 1107,
+                "travel-cost": 6469,
+                "total-cost": 7576
+            },
             "[Members Expense Disclosure - January to March 2018]": {
                 "accommodation-cost": 3172,
                 "travel-cost": 4784,
                 "total-cost": 7956
             },
-            "[\"Members Expense Disclosure - 1 October to 31 December 2017 ]": {
+            "[Members Expense Disclosure - 1 October to 31 December 2017 ]": {
                 "accommodation-cost": 1825,
                 "travel-cost": 7885,
                 "total-cost": 9710

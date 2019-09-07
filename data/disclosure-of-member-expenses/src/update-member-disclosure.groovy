@@ -67,7 +67,7 @@ dir.eachFileRecurse(FileType.FILES) { membersDisclosureFile ->
 						costsMap.put('travel-cost', travelCost)
 						costsMap.put('total-cost', totalCost)
 						def disclosureCostsMap = member.get('disclosure-costs')
-						disclosureCostsMap.put(dataSet.toString(), costsMap)
+						disclosureCostsMap.put(dataSet.toString().replace('"', ''), costsMap)
 
 
 					}
