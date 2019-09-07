@@ -49,7 +49,6 @@ const dataCategory = [ 'Company directorships and controlling interests',
 
 const listItem = (data) => {
   return Object.keys(data).map((key,index) => {
-    if (dataCategory.includes(key)) console.log('Found ', key)
     return dataCategory.includes(key) && (
       <StatContainer>
         <StatIcon src='http://lorempixel.com/32/32/technics/' />
