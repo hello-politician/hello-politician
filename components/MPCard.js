@@ -1,5 +1,6 @@
 import styled from "styled-components";
-import MPImage from "./MPImage";
+import MPImage from './MPImage'
+import Link from 'next/link'
 const Card = styled.div`
   display: flex;
   flex-wrap: wrap;
@@ -117,23 +118,26 @@ const getImageName = arr => str => {
 const getPartyLogoImageName = getImageName(partyLogos);
 
 const MPCard = ({ mp }) => (
-  <Card>
-    <div>
-      <MPImage mpName={mp.Contact} />
-    </div>
-    <div>
-      <MPName>{mp.Contact}</MPName>
-      <Electorate>{mp.Electorate ? mp.Electorate : 'List MP'}</Electorate>
-    </div>
-    <FlexDiv>
-      <Icon image={`/static/images/${getPartyLogoImageName(mp.Party)}`} />
-      <Party>{mp.Party}</Party>
-    </FlexDiv>
-    <FlexDiv>
-      <ClockIcon image="/static/images/clock.svg" />
-      <TimeServed>2016 - Present 4 years, 12 months</TimeServed>
-    </FlexDiv>
-  </Card>
+  <Link href="/p/[id]" as={`/p/${mp.id}`}><a>
+    <Card>
+      <div>
+        <MPImage mpName={mp.Contact} />
+      </div>
+      <div>
+        <MPName>{mp.Contact}</MPName>
+        <Electorate>{mp.Electorate}</Electorate>
+      </div>
+      <FlexDiv>
+        <Icon image={`/static/images/${getPartyLogoImageName(mp.Party)}`} />
+        <Party>{mp.Party}</Party>
+      </FlexDiv>
+      <FlexDiv>
+        <Icon image="/static/images/clock.svg" />
+        <TimeServed>2016 - Present 4 years, 12 months</TimeServed>
+      </FlexDiv>
+    </Card>
+  </a>
+  </Link>
 );
 
 export default MPCard;

@@ -1,4 +1,8 @@
 import React from 'react'
+<<<<<<< HEAD
+=======
+
+>>>>>>> bb05ac7baac82e3eb6064a18328dc55adaf3ec00
 import Page from '../components/pages'
 import styled from 'styled-components';
 import MembersOfParliamentButton from '../components/membersOfParliamentButton';
@@ -36,10 +40,17 @@ const Index = () => (
         <p>2014-2018</p>
     </div>
 
+<<<<<<< HEAD
     <div>
         <h2>Helen Clark</h2>
         <p>2014-2018</p>
     </div>
+=======
+    <button variant='primary'>Primary</button>
+    <button variant="flat" size="xxl">
+    View Source
+  </button>
+>>>>>>> bb05ac7baac82e3eb6064a18328dc55adaf3ec00
   <MembersOfParliamentButton/>
   <PopulatedMPList/>
   </PageContainer>
