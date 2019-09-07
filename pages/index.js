@@ -9,7 +9,7 @@ import Hero from '../components/Hero'
 
 const PageContainer = styled.div`
   margin: 0 auto;
-  width: 50rem;
+  width: 60rem;
   height: 10rem;
   text-align: center;
 `
@@ -27,9 +27,10 @@ const Index = () => (
       <Hero />
     <PageContainer>
 
-      <MembersOfParliamentButton />
+  
 
       <PopulatedMPList />
+      <MembersOfParliamentButton />
     </PageContainer>
   </Page>
 )
