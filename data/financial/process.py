@@ -45,3 +45,4 @@ for i in range(0,117):
 
 with open(sys.argv[3], 'w') as outfile:
     json.dump(data[0], outfile)
+    outfile.close()

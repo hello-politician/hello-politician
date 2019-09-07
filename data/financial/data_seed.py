@@ -38,7 +38,7 @@ def main():
         else :
             if line.isdigit() or line.strip() != '' : 
                 fileStream.write(line+ "\n")
-
+    fileStream.close()
 
     ## read in list of mps/ as json. 
     ## get the first element, swap the names and get rid of the comma.
