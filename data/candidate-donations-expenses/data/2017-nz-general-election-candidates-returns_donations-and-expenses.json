@@ -1,0 +1,4072 @@
+[
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Auckland Central",
+   "SURNAME": "VAN VELDEN",
+   "FIRST_NAMES": "Brooke",
+   "FULL_NAME": "Brooke Van Velden",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 875.57,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Bay of Plenty",
+   "SURNAME": "CARLEY",
+   "FIRST_NAMES": "Bruce",
+   "FULL_NAME": "Bruce Carley",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Botany",
+   "SURNAME": "SINGH",
+   "FIRST_NAMES": "Sam",
+   "FULL_NAME": "Sam Singh",
+   "TOTAL_DONATIONS": 2300,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Christchurch East",
+   "SURNAME": "SEVERIN",
+   "FIRST_NAMES": "Toni",
+   "FULL_NAME": "Toni Severin",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Dunedin North",
+   "SURNAME": "PURCHAS",
+   "FIRST_NAMES": "Sam",
+   "FULL_NAME": "Sam Purchas",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Dunedin South",
+   "SURNAME": "DOUGHTY",
+   "FIRST_NAMES": "Daniel",
+   "FULL_NAME": "Daniel Doughty",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "East Coast Bays",
+   "SURNAME": "BERRY",
+   "FIRST_NAMES": "Stephen",
+   "FULL_NAME": "Stephen Berry",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Epsom",
+   "SURNAME": "SEYMOUR",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Seymour",
+   "TOTAL_DONATIONS": 14600.57,
+   "TOTAL_EXPENSES": 14600.57,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Hamilton East",
+   "SURNAME": "McDOWALL",
+   "FIRST_NAMES": "James",
+   "FULL_NAME": "James Mcdowall",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 582.16,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Helensville",
+   "SURNAME": "EVANS",
+   "FIRST_NAMES": "Alex",
+   "FULL_NAME": "Alex Evans",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Hunua",
+   "SURNAME": "SMITH",
+   "FIRST_NAMES": "Anthony",
+   "FULL_NAME": "Anthony Smith",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Hutt South",
+   "SURNAME": "PARKINS",
+   "FIRST_NAMES": "Andy",
+   "FULL_NAME": "Andy Parkins",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Ilam",
+   "SURNAME": "GILBERT",
+   "FIRST_NAMES": "Paul",
+   "FULL_NAME": "Paul Gilbert",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "EVANS",
+   "FIRST_NAMES": "Richard",
+   "FULL_NAME": "Richard Evans",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1222.41,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Mana",
+   "SURNAME": "NG",
+   "FIRST_NAMES": "Shan",
+   "FULL_NAME": "Shan Ng",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Manukau East",
+   "SURNAME": "SINGH",
+   "FIRST_NAMES": "Bhupinder",
+   "FULL_NAME": "Bhupinder Singh",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Nelson",
+   "SURNAME": "HUFFLETT",
+   "FIRST_NAMES": "Paul Charles",
+   "FULL_NAME": "Paul Charles Hufflett",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "WELLS",
+   "FIRST_NAMES": "Richard",
+   "FULL_NAME": "Richard Wells",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "New Plymouth",
+   "SURNAME": "CARLSON",
+   "FIRST_NAMES": "Anneka",
+   "FULL_NAME": "Anneka Carlson",
+   "TOTAL_DONATIONS": 9822,
+   "TOTAL_EXPENSES": 4822.67,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "North Shore",
+   "SURNAME": "KEARNEY",
+   "FIRST_NAMES": "Nick",
+   "FULL_NAME": "Nick Kearney",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Northcote",
+   "SURNAME": "KRONFELD",
+   "FIRST_NAMES": "Tim",
+   "FULL_NAME": "Tim Kronfeld",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Northland",
+   "SURNAME": "NELSON",
+   "FIRST_NAMES": "Craig",
+   "FULL_NAME": "Craig Nelson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Ōhāriu",
+   "SURNAME": "MOORE",
+   "FIRST_NAMES": "Andie",
+   "FULL_NAME": "Andie Moore",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Ōtaki",
+   "SURNAME": "GRATTAN",
+   "FIRST_NAMES": "Wayne Desmond",
+   "FULL_NAME": "Wayne Desmond Grattan",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1017,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Port Hills",
+   "SURNAME": "FOX",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Fox",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Rangitata",
+   "SURNAME": "CORBETT",
+   "FIRST_NAMES": "Tom",
+   "FULL_NAME": "Tom Corbett",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 394.13,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Rangitīkei",
+   "SURNAME": "WILSON",
+   "FIRST_NAMES": "Neil",
+   "FULL_NAME": "Neil Wilson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Rimutaka",
+   "SURNAME": "O'SULLIVAN",
+   "FIRST_NAMES": "Grae",
+   "FULL_NAME": "Grae O'Sullivan",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Rongotai",
+   "SURNAME": "SOLE",
+   "FIRST_NAMES": "Chris",
+   "FULL_NAME": "Chris Sole",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Selwyn",
+   "SURNAME": "DAVIDSON",
+   "FIRST_NAMES": "Brian",
+   "FULL_NAME": "Brian Davidson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Tāmaki",
+   "SURNAME": "MILNE",
+   "FIRST_NAMES": "Mike",
+   "FULL_NAME": "Mike Milne",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "PEDERSEN",
+   "FIRST_NAMES": "Stuart",
+   "FULL_NAME": "Stuart Pedersen",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Te Atatū",
+   "SURNAME": "FLETCHER",
+   "FIRST_NAMES": "Stephen",
+   "FULL_NAME": "Stephen Fletcher",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Upper Harbour",
+   "SURNAME": "HAYCOCK",
+   "FIRST_NAMES": "Bruce",
+   "FULL_NAME": "Bruce Haycock",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "HAWKINS",
+   "FIRST_NAMES": "Stuart",
+   "FULL_NAME": "Stuart Hawkins",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Wairarapa",
+   "SURNAME": "GREENSLADE",
+   "FIRST_NAMES": "Roger",
+   "FULL_NAME": "Roger Greenslade",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 50,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Wellington Central",
+   "SURNAME": "WARREN",
+   "FIRST_NAMES": "Michael",
+   "FULL_NAME": "Michael Warren",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "West Coast-Tasman",
+   "SURNAME": "MARKLAND",
+   "FIRST_NAMES": "Zeb",
+   "FULL_NAME": "Zeb Markland",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Whanganui",
+   "SURNAME": "DAVIDSON",
+   "FIRST_NAMES": "Alan",
+   "FULL_NAME": "Alan Davidson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Whangarei",
+   "SURNAME": "GRIEVE",
+   "FIRST_NAMES": "Robin",
+   "FULL_NAME": "Robin Grieve",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "ACT New Zealand",
+   "ELECTORATE": "Wigram",
+   "SURNAME": "KNIGHTS",
+   "FIRST_NAMES": "Ruth",
+   "FULL_NAME": "Ruth Knights",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Aotearoa Legalise Cannabis Party",
+   "ELECTORATE": "Christchurch Central",
+   "SURNAME": "SHUFFLEBOTHAM",
+   "FIRST_NAMES": "Janine",
+   "FULL_NAME": "Janine Shufflebotham",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Aotearoa Legalise Cannabis Party",
+   "ELECTORATE": "Christchurch East",
+   "SURNAME": "LAMBERT",
+   "FIRST_NAMES": "Paula",
+   "FULL_NAME": "Paula Lambert",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Aotearoa Legalise Cannabis Party",
+   "ELECTORATE": "Dunedin South",
+   "SURNAME": "McDERMOTT",
+   "FIRST_NAMES": "Adrian",
+   "FULL_NAME": "Adrian Mcdermott",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Aotearoa Legalise Cannabis Party",
+   "ELECTORATE": "Kelston",
+   "SURNAME": "LYE",
+   "FIRST_NAMES": "Jeff",
+   "FULL_NAME": "Jeff Lye",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Aotearoa Legalise Cannabis Party",
+   "ELECTORATE": "Te Tai Tokerau",
+   "SURNAME": "HERBERT",
+   "FIRST_NAMES": "Maki",
+   "FULL_NAME": "Maki Herbert",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 859,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Aotearoa Legalise Cannabis Party",
+   "ELECTORATE": "Te Tai Tonga",
+   "SURNAME": "MIHAERE KINGI",
+   "FIRST_NAMES": "Emma-Jane",
+   "FULL_NAME": "Emma-Jane Mihaere Kingi",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Ban1080",
+   "ELECTORATE": "Clutha-Southland",
+   "SURNAME": "ADAMS",
+   "FIRST_NAMES": "Brian Alan",
+   "FULL_NAME": "Brian Alan Adams",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Ban1080",
+   "ELECTORATE": "Coromandel",
+   "SURNAME": "GRAF",
+   "FIRST_NAMES": "Clyde",
+   "FULL_NAME": "Clyde Graf",
+   "TOTAL_DONATIONS": 3595.13,
+   "TOTAL_EXPENSES": 3595.13,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Ban1080",
+   "ELECTORATE": "West Coast-Tasman",
+   "SURNAME": "SALTER",
+   "FIRST_NAMES": "Peter",
+   "FULL_NAME": "Peter Salter",
+   "TOTAL_DONATIONS": 3998,
+   "TOTAL_EXPENSES": 3998,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Auckland Central",
+   "SURNAME": "GREENFIELD",
+   "FIRST_NAMES": "Stephen",
+   "FULL_NAME": "Stephen Greenfield",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1277.49,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Christchurch East",
+   "SURNAME": "BROSNAN",
+   "FIRST_NAMES": "Chris",
+   "FULL_NAME": "Chris Brosnan",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Clutha-Southland",
+   "SURNAME": "ASHTON",
+   "FIRST_NAMES": "Lachie",
+   "FULL_NAME": "Lachie Ashton",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Epsom",
+   "SURNAME": "BAKER",
+   "FIRST_NAMES": "Leighton",
+   "FULL_NAME": "Leighton Baker",
+   "TOTAL_DONATIONS": 12500,
+   "TOTAL_EXPENSES": 15090.2,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Helensville",
+   "SURNAME": "WHYTE",
+   "FIRST_NAMES": "Brendan",
+   "FULL_NAME": "Brendan Whyte",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Ilam",
+   "SURNAME": "FRAUENSTEIN",
+   "FIRST_NAMES": "Martin",
+   "FULL_NAME": "Martin Frauenstein",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1781.72,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "GREENSLADE",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Greenslade",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Kelston",
+   "SURNAME": "KNOTT",
+   "FIRST_NAMES": "Warren",
+   "FULL_NAME": "Warren Knott",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 48.1,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Māngere",
+   "SURNAME": "STITT",
+   "FIRST_NAMES": "Kevin",
+   "FULL_NAME": "Kevin Stitt",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 41.04,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Manurewa",
+   "SURNAME": "IKILEI",
+   "FIRST_NAMES": "Elliot",
+   "FULL_NAME": "Elliot Ikilei",
+   "TOTAL_DONATIONS": 10000,
+   "TOTAL_EXPENSES": 5042.97,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Mt Albert",
+   "SURNAME": "JOHNSON",
+   "FIRST_NAMES": "Jeff",
+   "FULL_NAME": "Jeff Johnson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 51.84,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "DAVIE",
+   "FIRST_NAMES": "Kathryn",
+   "FULL_NAME": "Kathryn Davie",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 308.78,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Napier",
+   "SURNAME": "DAY",
+   "FIRST_NAMES": "Laurence",
+   "FULL_NAME": "Laurence Day",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Nelson",
+   "SURNAME": "GUTSCHLAG",
+   "FIRST_NAMES": "Simon",
+   "FULL_NAME": "Simon Gutschlag",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "DAVIE",
+   "FIRST_NAMES": "Paul",
+   "FULL_NAME": "Paul Davie",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 308.78,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Northland",
+   "SURNAME": "TAYLOR",
+   "FIRST_NAMES": "Mel",
+   "FULL_NAME": "Mel Taylor",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Rangitīkei",
+   "SURNAME": "BACKHOUSE",
+   "FIRST_NAMES": "Cedric",
+   "FULL_NAME": "Cedric Backhouse",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1015.3,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Rimutaka",
+   "SURNAME": "LYNCH",
+   "FIRST_NAMES": "Philip",
+   "FULL_NAME": "Philip Lynch",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Rongotai",
+   "SURNAME": "WELSH",
+   "FIRST_NAMES": "Bruce",
+   "FULL_NAME": "Bruce Welsh",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 10584.6,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Rotorua",
+   "SURNAME": "PATTERSON",
+   "FIRST_NAMES": "Owen",
+   "FULL_NAME": "Owen Patterson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Taranaki-King Country",
+   "SURNAME": "THOMSON",
+   "FIRST_NAMES": "Allan",
+   "FULL_NAME": "Allan Thomson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 207,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Taupō",
+   "SURNAME": "SHUKER",
+   "FIRST_NAMES": "Denis",
+   "FULL_NAME": "Denis Shuker",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Te Atatū",
+   "SURNAME": "JOHNSON",
+   "FIRST_NAMES": "Marilyn",
+   "FULL_NAME": "Marilyn Johnson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 34.56,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Tukituki",
+   "SURNAME": "LARKINS",
+   "FIRST_NAMES": "Roger",
+   "FULL_NAME": "Roger Larkins",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "PRICE",
+   "FIRST_NAMES": "Benjamin",
+   "FULL_NAME": "Benjamin Price",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Waitaki",
+   "SURNAME": "LUM",
+   "FIRST_NAMES": "Raymond",
+   "FULL_NAME": "Raymond Lum",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Conservative",
+   "ELECTORATE": "Whangarei",
+   "SURNAME": "TAYLOR",
+   "FIRST_NAMES": "Jim",
+   "FULL_NAME": "Jim Taylor",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "McCASKEY",
+   "FIRST_NAMES": "John",
+   "FULL_NAME": "John Mccaskey",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "LEITCH",
+   "FIRST_NAMES": "Andrew",
+   "FULL_NAME": "Andrew Leitch",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Napier",
+   "SURNAME": "MATTHYS",
+   "FIRST_NAMES": "Karl",
+   "FULL_NAME": "Karl Matthys",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "MacARTHUR",
+   "FIRST_NAMES": "Scott",
+   "FULL_NAME": "Scott Macarthur",
+   "TOTAL_DONATIONS": 6108.5,
+   "TOTAL_EXPENSES": 12239.53,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Northcote",
+   "SURNAME": "CHEEL",
+   "FIRST_NAMES": "Tricia",
+   "FULL_NAME": "Tricia Cheel",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 987,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Port Hills",
+   "SURNAME": "GRIBBEN",
+   "FIRST_NAMES": "Gary",
+   "FULL_NAME": "Gary Gribben",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "JOBSIS",
+   "FIRST_NAMES": "Jason",
+   "FULL_NAME": "Jason Jobsis",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Tukituki",
+   "SURNAME": "RYAN",
+   "FIRST_NAMES": "Dick",
+   "FULL_NAME": "Dick Ryan",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "ADCOCK-WHITE",
+   "FIRST_NAMES": "Peter",
+   "FULL_NAME": "Peter Adcock-White",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Waitaki",
+   "SURNAME": "VAN WIEREN",
+   "FIRST_NAMES": "Hessel",
+   "FULL_NAME": "Hessel Van Wieren",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 262.01,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "West Coast-Tasman",
+   "SURNAME": "COLLIN",
+   "FIRST_NAMES": "Jack",
+   "FULL_NAME": "Jack Collin",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 22,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Whangarei",
+   "SURNAME": "LEITCH",
+   "FIRST_NAMES": "Chris",
+   "FULL_NAME": "Chris Leitch",
+   "TOTAL_DONATIONS": 18179.2,
+   "TOTAL_EXPENSES": 22564.33,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Wigram",
+   "SURNAME": "RING",
+   "FIRST_NAMES": "John",
+   "FULL_NAME": "John Ring",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Auckland Central",
+   "SURNAME": "ROCHE",
+   "FIRST_NAMES": "Denise",
+   "FULL_NAME": "Denise Roche",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 5475.55,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Botany",
+   "SURNAME": "ZHU",
+   "FIRST_NAMES": "Julie",
+   "FULL_NAME": "Julie Zhu",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 645.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Christchurch Central",
+   "SURNAME": "RICHARDSON",
+   "FIRST_NAMES": "Peter",
+   "FULL_NAME": "Peter Richardson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 91.07,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Christchurch East",
+   "SURNAME": "SWEET",
+   "FIRST_NAMES": "Cathy",
+   "FULL_NAME": "Cathy Sweet",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 185.53,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Clutha-Southland",
+   "SURNAME": "GOLDSMITH",
+   "FIRST_NAMES": "Rachael",
+   "FULL_NAME": "Rachael Goldsmith",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 162.2,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Coromandel",
+   "SURNAME": "SUMMERFIELD",
+   "FIRST_NAMES": "Scott",
+   "FULL_NAME": "Scott Summerfield",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2416.79,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Dunedin North",
+   "SURNAME": "BOULD",
+   "FIRST_NAMES": "Niki",
+   "FULL_NAME": "Niki Bould",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 402.32,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Dunedin South",
+   "SURNAME": "GALLAGHER",
+   "FIRST_NAMES": "Shane",
+   "FULL_NAME": "Shane Gallagher",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 237.11,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "East Coast",
+   "SURNAME": "HUGHES",
+   "FIRST_NAMES": "Gareth",
+   "FULL_NAME": "Gareth Hughes",
+   "TOTAL_DONATIONS": 1500,
+   "TOTAL_EXPENSES": 924.34,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "East Coast Bays",
+   "SURNAME": "MAYNE",
+   "FIRST_NAMES": "Nicholas",
+   "FULL_NAME": "Nicholas Mayne",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 198.5,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Epsom",
+   "SURNAME": "COATES",
+   "FIRST_NAMES": "Barry",
+   "FULL_NAME": "Barry Coates",
+   "TOTAL_DONATIONS": 8500,
+   "TOTAL_EXPENSES": 6195.46,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Hamilton East",
+   "SURNAME": "TAYLOR",
+   "FIRST_NAMES": "Sam",
+   "FULL_NAME": "Sam Taylor",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 447.71,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Hamilton West",
+   "SURNAME": "WRIGLEY",
+   "FIRST_NAMES": "Jo",
+   "FULL_NAME": "Jo Wrigley",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1160.66,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Helensville",
+   "SURNAME": "HOLT",
+   "FIRST_NAMES": "Hayley Doreen",
+   "FULL_NAME": "Hayley Doreen Holt",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1058.27,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Hunua",
+   "SURNAME": "McCABE",
+   "FIRST_NAMES": "Phil",
+   "FULL_NAME": "Phil Mccabe",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Hutt South",
+   "SURNAME": "HORROCKS",
+   "FIRST_NAMES": "Virginia",
+   "FULL_NAME": "Virginia Horrocks",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti",
+   "SURNAME": "KEREKERE",
+   "FIRST_NAMES": "Elizabeth",
+   "FULL_NAME": "Elizabeth Kerekere",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 605.76,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Ilam",
+   "SURNAME": "LEE",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Lee",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1804.04,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Invercargill",
+   "SURNAME": "SURENDRAN",
+   "FIRST_NAMES": "Rochelle",
+   "FULL_NAME": "Rochelle Surendran",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 276.66,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "McCUBBIN",
+   "FIRST_NAMES": "Richard",
+   "FULL_NAME": "Richard Mccubbin",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 647.64,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Kelston",
+   "SURNAME": "SMITH",
+   "FIRST_NAMES": "Nicola",
+   "FULL_NAME": "Nicola Smith",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 241,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Mana",
+   "SURNAME": "LOGIE",
+   "FIRST_NAMES": "Jan",
+   "FULL_NAME": "Jan Logie",
+   "TOTAL_DONATIONS": 1533.1,
+   "TOTAL_EXPENSES": 1235.87,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Māngere",
+   "SURNAME": "DYETT",
+   "FIRST_NAMES": "Elaine",
+   "FULL_NAME": "Elaine Dyett",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 142.03,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Manukau East",
+   "SURNAME": "SINGH",
+   "FIRST_NAMES": "Raj",
+   "FULL_NAME": "Raj Singh",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 4125.07,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Manurewa",
+   "SURNAME": "TUIONO",
+   "FIRST_NAMES": "Teanau",
+   "FULL_NAME": "Teanau Tuiono",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 517.89,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Maungakiekie",
+   "SURNAME": "SWARBRICK",
+   "FIRST_NAMES": "Chlöe",
+   "FULL_NAME": "Chlöe Swarbrick",
+   "TOTAL_DONATIONS": 9100,
+   "TOTAL_EXPENSES": 4110.97,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Mt Albert",
+   "SURNAME": "GENTER",
+   "FIRST_NAMES": "Julie Anne",
+   "FULL_NAME": "Julie Anne Genter",
+   "TOTAL_DONATIONS": 6000,
+   "TOTAL_EXPENSES": 3103.17,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "MENENDEZ MARCH",
+   "FIRST_NAMES": "Ricardo",
+   "FULL_NAME": "Ricardo Menendez March",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 201.97,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Napier",
+   "SURNAME": "RUSDEN",
+   "FIRST_NAMES": "Damon",
+   "FULL_NAME": "Damon Rusden",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 279.71,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Nelson",
+   "SURNAME": "LAWREY",
+   "FIRST_NAMES": "Matt",
+   "FULL_NAME": "Matt Lawrey",
+   "TOTAL_DONATIONS": 14331.25,
+   "TOTAL_EXPENSES": 17855.49,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "TAMU",
+   "FIRST_NAMES": "Leilani Leafaitulagi",
+   "FULL_NAME": "Leilani Leafaitulagi Tamu",
+   "TOTAL_DONATIONS": 3200,
+   "TOTAL_EXPENSES": 702.43,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "New Plymouth",
+   "SURNAME": "BRAMHALL",
+   "FIRST_NAMES": "Stuart Jeanne",
+   "FULL_NAME": "Stuart Jeanne Bramhall",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 160,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Northcote",
+   "SURNAME": "JAUNG",
+   "FIRST_NAMES": "Rebekah",
+   "FULL_NAME": "Rebekah Jaung",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 557.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Northland",
+   "SURNAME": "HUGHES",
+   "FIRST_NAMES": "Peter",
+   "FULL_NAME": "Peter Hughes",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Ōhāriu",
+   "SURNAME": "WOODLEY",
+   "FIRST_NAMES": "Tane",
+   "FULL_NAME": "Tane Woodley",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 194.06,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Ōtaki",
+   "SURNAME": "FERGUSON",
+   "FIRST_NAMES": "Sam",
+   "FULL_NAME": "Sam Ferguson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 570.12,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Pakuranga",
+   "SURNAME": "HUNT",
+   "FIRST_NAMES": "Guy",
+   "FULL_NAME": "Guy Hunt",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 849.47,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Palmerston North",
+   "SURNAME": "NASH",
+   "FIRST_NAMES": "Thomas",
+   "FULL_NAME": "Thomas Nash",
+   "TOTAL_DONATIONS": 4512,
+   "TOTAL_EXPENSES": 1039.41,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Port Hills",
+   "SURNAME": "SAGE",
+   "FIRST_NAMES": "Eugenie",
+   "FULL_NAME": "Eugenie Sage",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 137.79,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Rangitata",
+   "SURNAME": "MATHERS",
+   "FIRST_NAMES": "Mojo",
+   "FULL_NAME": "Mojo Mathers",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 602.34,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Rangitīkei",
+   "SURNAME": "McCANDLESS",
+   "FIRST_NAMES": "Robin Campbell",
+   "FULL_NAME": "Robin Campbell Mccandless",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1545,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Rimutaka",
+   "SURNAME": "GRAND-MEYER",
+   "FIRST_NAMES": "Stefan",
+   "FULL_NAME": "Stefan Grand-Meyer",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 248.04,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Rodney",
+   "SURNAME": "BURNARD",
+   "FIRST_NAMES": "Harrison",
+   "FULL_NAME": "Harrison Burnard",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Rongotai",
+   "SURNAME": "CROSSEN",
+   "FIRST_NAMES": "Teall",
+   "FULL_NAME": "Teall Crossen",
+   "TOTAL_DONATIONS": 1570,
+   "TOTAL_EXPENSES": 2360.2,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Rotorua",
+   "SURNAME": "GILLIES",
+   "FIRST_NAMES": "Richard",
+   "FULL_NAME": "Richard Gillies",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Selwyn",
+   "SURNAME": "HORN",
+   "FIRST_NAMES": "Chrys",
+   "FULL_NAME": "Chrys Horn",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Tāmaki",
+   "SURNAME": "LECKINGER",
+   "FIRST_NAMES": "Richard",
+   "FULL_NAME": "Richard Leckinger",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Tāmaki Makaurau",
+   "SURNAME": "DAVIDSON",
+   "FIRST_NAMES": "Marama",
+   "FULL_NAME": "Marama Davidson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1557.75,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Taranaki-King Country",
+   "SURNAME": "MOORE",
+   "FIRST_NAMES": "Robert",
+   "FULL_NAME": "Robert Moore",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 273.41,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Taupō",
+   "SURNAME": "SANDILANDS",
+   "FIRST_NAMES": "Julie",
+   "FULL_NAME": "Julie Sandilands",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "HODGE",
+   "FIRST_NAMES": "Emma-Leigh",
+   "FULL_NAME": "Emma-Leigh Hodge",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 178.07,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Te Atatū",
+   "SURNAME": "GHAHRAMAN",
+   "FIRST_NAMES": "Golriz",
+   "FULL_NAME": "Golriz Ghahraman",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 464.81,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Te Tai Hauāuru",
+   "SURNAME": "McDONALD",
+   "FIRST_NAMES": "Jack",
+   "FULL_NAME": "Jack Mcdonald",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 520.53,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Te Tai Tokerau",
+   "SURNAME": "RUDOLPH",
+   "FIRST_NAMES": "Godfrey James",
+   "FULL_NAME": "Godfrey James Rudolph",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 967.75,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Te Tai Tonga",
+   "SURNAME": "TUREI",
+   "FIRST_NAMES": "Metiria",
+   "FULL_NAME": "Metiria Turei",
+   "TOTAL_DONATIONS": 3500,
+   "TOTAL_EXPENSES": 5107.08,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Tukituki",
+   "SURNAME": "PERLEY",
+   "FIRST_NAMES": "Christopher John",
+   "FULL_NAME": "Christopher John Perley",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 74.17,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Upper Harbour",
+   "SURNAME": "GOODHUE",
+   "FIRST_NAMES": "James",
+   "FULL_NAME": "James Goodhue",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1116.34,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Waikato",
+   "SURNAME": "STEVENSON",
+   "FIRST_NAMES": "Philippa",
+   "FULL_NAME": "Philippa Stevenson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 344.47,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "BERRY",
+   "FIRST_NAMES": "Nikki",
+   "FULL_NAME": "Nikki Berry",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Wairarapa",
+   "SURNAME": "HART",
+   "FIRST_NAMES": "John",
+   "FULL_NAME": "John Hart",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1565.81,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Waitaki",
+   "SURNAME": "WALL",
+   "FIRST_NAMES": "Pat",
+   "FULL_NAME": "Pat Wall",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Wellington Central",
+   "SURNAME": "SHAW",
+   "FIRST_NAMES": "James",
+   "FULL_NAME": "James Shaw",
+   "TOTAL_DONATIONS": 5570,
+   "TOTAL_EXPENSES": 1598.98,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "West Coast-Tasman",
+   "SURNAME": "FULTON",
+   "FIRST_NAMES": "Kate",
+   "FULL_NAME": "Kate Fulton",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 592.38,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Whanganui",
+   "SURNAME": "PATRICK",
+   "FIRST_NAMES": "Nicola",
+   "FULL_NAME": "Nicola Patrick",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 461.99,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Whangarei",
+   "SURNAME": "HOLWELL",
+   "FIRST_NAMES": "Ash",
+   "FULL_NAME": "Ash Holwell",
+   "TOTAL_DONATIONS": 1840,
+   "TOTAL_EXPENSES": 1973.59,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Green Party",
+   "ELECTORATE": "Wigram",
+   "SURNAME": "WESLEY",
+   "FIRST_NAMES": "Richard",
+   "FULL_NAME": "Richard Wesley",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Auckland Central",
+   "SURNAME": "WHITE",
+   "FIRST_NAMES": "Helen Ione",
+   "FULL_NAME": "Helen Ione White",
+   "TOTAL_DONATIONS": 22612.95,
+   "TOTAL_EXPENSES": 19705.6,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Bay of Plenty",
+   "SURNAME": "WARREN-CLARK",
+   "FIRST_NAMES": "Angie",
+   "FULL_NAME": "Angie Warren-Clark",
+   "TOTAL_DONATIONS": 6730,
+   "TOTAL_EXPENSES": 3648.77,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Botany",
+   "SURNAME": "MAMEDOV",
+   "FIRST_NAMES": "Tofik",
+   "FULL_NAME": "Tofik Mamedov",
+   "TOTAL_DONATIONS": 8633.65,
+   "TOTAL_EXPENSES": 3089.64,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Christchurch Central",
+   "SURNAME": "WEBB",
+   "FIRST_NAMES": "Duncan",
+   "FULL_NAME": "Duncan Webb",
+   "TOTAL_DONATIONS": 43655.09,
+   "TOTAL_EXPENSES": 19014.18,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Christchurch East",
+   "SURNAME": "WILLIAMS",
+   "FIRST_NAMES": "Poto",
+   "FULL_NAME": "Poto Williams",
+   "TOTAL_DONATIONS": 13500,
+   "TOTAL_EXPENSES": 11848.11,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Clutha-Southland",
+   "SURNAME": "CHAPMAN",
+   "FIRST_NAMES": "Cherie Joy",
+   "FULL_NAME": "Cherie Joy Chapman",
+   "TOTAL_DONATIONS": 4808.4,
+   "TOTAL_EXPENSES": 1109.24,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Coromandel",
+   "SURNAME": "BLOMFIELD",
+   "FIRST_NAMES": "Nathaniel James",
+   "FULL_NAME": "Nathaniel James Blomfield",
+   "TOTAL_DONATIONS": 10918.3,
+   "TOTAL_EXPENSES": 4445.12,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin North",
+   "SURNAME": "CLARK",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Clark",
+   "TOTAL_DONATIONS": 12044,
+   "TOTAL_EXPENSES": 1997.5,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin South",
+   "SURNAME": "CURRAN",
+   "FIRST_NAMES": "Clare",
+   "FULL_NAME": "Clare Curran",
+   "TOTAL_DONATIONS": 8407.25,
+   "TOTAL_EXPENSES": 5652.26,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast",
+   "SURNAME": "ALLAN",
+   "FIRST_NAMES": "Kiri",
+   "FULL_NAME": "Kiri Allan",
+   "TOTAL_DONATIONS": 38374.89,
+   "TOTAL_EXPENSES": 12163.7,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast Bays",
+   "SURNAME": "CHEN",
+   "FIRST_NAMES": "Naisi",
+   "FULL_NAME": "Naisi Chen",
+   "TOTAL_DONATIONS": 5424.6,
+   "TOTAL_EXPENSES": 5743.55,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom",
+   "SURNAME": "PARKER",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Parker",
+   "TOTAL_DONATIONS": 32190.3,
+   "TOTAL_EXPENSES": 2778.78,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hamilton East",
+   "SURNAME": "STRANGE",
+   "FIRST_NAMES": "Jamie",
+   "FULL_NAME": "Jamie Strange",
+   "TOTAL_DONATIONS": 2400,
+   "TOTAL_EXPENSES": 10704.49,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hamilton West",
+   "SURNAME": "SHARMA",
+   "FIRST_NAMES": "Gaurav",
+   "FULL_NAME": "Gaurav Sharma",
+   "TOTAL_DONATIONS": 4758.3,
+   "TOTAL_EXPENSES": 3910.67,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hauraki-Waikato",
+   "SURNAME": "MAHUTA",
+   "FIRST_NAMES": "Nanaia",
+   "FULL_NAME": "Nanaia Mahuta",
+   "TOTAL_DONATIONS": 9230.71,
+   "TOTAL_EXPENSES": 7560.86,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Helensville",
+   "SURNAME": "TAOGAGA",
+   "FIRST_NAMES": "Kurt",
+   "FULL_NAME": "Kurt Taogaga",
+   "TOTAL_DONATIONS": 5424.6,
+   "TOTAL_EXPENSES": 624.99,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hunua",
+   "SURNAME": "KAUR",
+   "FIRST_NAMES": "Baljit",
+   "FULL_NAME": "Baljit Kaur",
+   "TOTAL_DONATIONS": 2450,
+   "TOTAL_EXPENSES": 2745.25,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hutt South",
+   "SURNAME": "ANDERSEN",
+   "FIRST_NAMES": "Ginny",
+   "FULL_NAME": "Ginny Andersen",
+   "TOTAL_DONATIONS": 17000,
+   "TOTAL_EXPENSES": 22934.43,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti",
+   "SURNAME": "WHAITIRI",
+   "FIRST_NAMES": "Meka",
+   "FULL_NAME": "Meka Whaitiri",
+   "TOTAL_DONATIONS": 24680.69,
+   "TOTAL_EXPENSES": 13314.72,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ilam",
+   "SURNAME": "RIMELL",
+   "FIRST_NAMES": "Anthony Peter",
+   "FULL_NAME": "Anthony Peter Rimell",
+   "TOTAL_DONATIONS": 6364.06,
+   "TOTAL_EXPENSES": 3199.37,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Invercargill",
+   "SURNAME": "CRAIG",
+   "FIRST_NAMES": "Liz",
+   "FULL_NAME": "Liz Craig",
+   "TOTAL_DONATIONS": 5000,
+   "TOTAL_EXPENSES": 8073.87,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "WALKER",
+   "FIRST_NAMES": "Janette",
+   "FULL_NAME": "Janette Walker",
+   "TOTAL_DONATIONS": 8225.51,
+   "TOTAL_EXPENSES": 6222.47,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Kelston",
+   "SURNAME": "SEPULONI",
+   "FIRST_NAMES": "Carmel Jean",
+   "FULL_NAME": "Carmel Jean Sepuloni",
+   "TOTAL_DONATIONS": 2000,
+   "TOTAL_EXPENSES": 10281.34,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mana",
+   "SURNAME": "FAAFOI",
+   "FIRST_NAMES": "Kris",
+   "FULL_NAME": "Kris Faafoi",
+   "TOTAL_DONATIONS": 33496,
+   "TOTAL_EXPENSES": 7125.13,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Māngere",
+   "SURNAME": "SIO",
+   "FIRST_NAMES": "Aupito Tofae Sua William",
+   "FULL_NAME": "Aupito Tofae Sua William Sio",
+   "TOTAL_DONATIONS": 24764.6,
+   "TOTAL_EXPENSES": 10007.07,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Manukau East",
+   "SURNAME": "SALESA",
+   "FIRST_NAMES": "Jenny",
+   "FULL_NAME": "Jenny Salesa",
+   "TOTAL_DONATIONS": 20024.6,
+   "TOTAL_EXPENSES": 18413.4,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Manurewa",
+   "SURNAME": "WALL",
+   "FIRST_NAMES": "Louisa",
+   "FULL_NAME": "Louisa Wall",
+   "TOTAL_DONATIONS": 14453.25,
+   "TOTAL_EXPENSES": 7042.95,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Maungakiekie",
+   "SURNAME": "RADHAKRISHNAN",
+   "FIRST_NAMES": "Priyanca",
+   "FULL_NAME": "Priyanca Radhakrishnan",
+   "TOTAL_DONATIONS": 21959,
+   "TOTAL_EXPENSES": 14352.61,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert",
+   "SURNAME": "ARDERN",
+   "FIRST_NAMES": "Jacinda",
+   "FULL_NAME": "Jacinda Ardern",
+   "TOTAL_DONATIONS": 47400,
+   "TOTAL_EXPENSES": 6740.94,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "WOOD",
+   "FIRST_NAMES": "Michael Philip",
+   "FULL_NAME": "Michael Philip Wood",
+   "TOTAL_DONATIONS": 10424,
+   "TOTAL_EXPENSES": 7017.31,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier",
+   "SURNAME": "NASH",
+   "FIRST_NAMES": "Stuart",
+   "FULL_NAME": "Stuart Nash",
+   "TOTAL_DONATIONS": 27500,
+   "TOTAL_EXPENSES": 19941.12,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Nelson",
+   "SURNAME": "BOYACK",
+   "FIRST_NAMES": "Rachel",
+   "FULL_NAME": "Rachel Boyack",
+   "TOTAL_DONATIONS": 26051.73,
+   "TOTAL_EXPENSES": 8503.37,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "RUSSELL",
+   "FIRST_NAMES": "Deborah",
+   "FULL_NAME": "Deborah Russell",
+   "TOTAL_DONATIONS": 20424.6,
+   "TOTAL_EXPENSES": 7595.85,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Plymouth",
+   "SURNAME": "HADDOCK",
+   "FIRST_NAMES": "Corie",
+   "FULL_NAME": "Corie Haddock",
+   "TOTAL_DONATIONS": 21000,
+   "TOTAL_EXPENSES": 18931.22,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "North Shore",
+   "SURNAME": "UDANGA",
+   "FIRST_NAMES": "Romy",
+   "FULL_NAME": "Romy Udanga",
+   "TOTAL_DONATIONS": 15073.9,
+   "TOTAL_EXPENSES": 7818.09,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northcote",
+   "SURNAME": "HALBERT",
+   "FIRST_NAMES": "Shanan",
+   "FULL_NAME": "Shanan Halbert",
+   "TOTAL_DONATIONS": 19503.19,
+   "TOTAL_EXPENSES": 15206.93,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northland",
+   "SURNAME": "PRIME",
+   "FIRST_NAMES": "Willow-Jean",
+   "FULL_NAME": "Willow-Jean Prime",
+   "TOTAL_DONATIONS": 4552.83,
+   "TOTAL_EXPENSES": 5923.84,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōhāriu",
+   "SURNAME": "O'CONNOR",
+   "FIRST_NAMES": "Greg",
+   "FULL_NAME": "Greg O'Connor",
+   "TOTAL_DONATIONS": 23218,
+   "TOTAL_EXPENSES": 18606.69,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōtaki",
+   "SURNAME": "McCANN",
+   "FIRST_NAMES": "Rob",
+   "FULL_NAME": "Rob Mccann",
+   "TOTAL_DONATIONS": 14675.8,
+   "TOTAL_EXPENSES": 14675.8,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Pakuranga",
+   "SURNAME": "KIRKER",
+   "FIRST_NAMES": "Barry",
+   "FULL_NAME": "Barry Kirker",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1158.59,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Palmerston North",
+   "SURNAME": "LEES-GALLOWAY",
+   "FIRST_NAMES": "Iain Francis",
+   "FULL_NAME": "Iain Francis Lees-Galloway",
+   "TOTAL_DONATIONS": 6450,
+   "TOTAL_EXPENSES": 12317.73,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Papakura",
+   "SURNAME": "PABLA",
+   "FIRST_NAMES": "Jesse",
+   "FULL_NAME": "Jesse Pabla",
+   "TOTAL_DONATIONS": 2000,
+   "TOTAL_EXPENSES": 9050.32,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Port Hills",
+   "SURNAME": "DYSON",
+   "FIRST_NAMES": "Ruth",
+   "FULL_NAME": "Ruth Dyson",
+   "TOTAL_DONATIONS": 6989.1,
+   "TOTAL_EXPENSES": 8973.93,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rangitata",
+   "SURNAME": "LUXTON",
+   "FIRST_NAMES": "Jo",
+   "FULL_NAME": "Jo Luxton",
+   "TOTAL_DONATIONS": 19845,
+   "TOTAL_EXPENSES": 8234.84,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rangitīkei",
+   "SURNAME": "WARREN",
+   "FIRST_NAMES": "Heather",
+   "FULL_NAME": "Heather Warren",
+   "TOTAL_DONATIONS": 15000,
+   "TOTAL_EXPENSES": 1403.69,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rimutaka",
+   "SURNAME": "HIPKINS",
+   "FIRST_NAMES": "Chris",
+   "FULL_NAME": "Chris Hipkins",
+   "TOTAL_DONATIONS": 1775,
+   "TOTAL_EXPENSES": 3835.53,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rodney",
+   "SURNAME": "LUBECK",
+   "FIRST_NAMES": "Marja",
+   "FULL_NAME": "Marja Lubeck",
+   "TOTAL_DONATIONS": 11973.06,
+   "TOTAL_EXPENSES": 5032.19,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rongotai",
+   "SURNAME": "EAGLE",
+   "FIRST_NAMES": "Paul",
+   "FULL_NAME": "Paul Eagle",
+   "TOTAL_DONATIONS": 4000,
+   "TOTAL_EXPENSES": 15745.47,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rotorua",
+   "SURNAME": "SANDFORD",
+   "FIRST_NAMES": "Ben",
+   "FULL_NAME": "Ben Sandford",
+   "TOTAL_DONATIONS": 11061.4,
+   "TOTAL_EXPENSES": 10986.92,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Selwyn",
+   "SURNAME": "CONDON",
+   "FIRST_NAMES": "Tony",
+   "FULL_NAME": "Tony Condon",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 784.5,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tāmaki",
+   "SURNAME": "McDONALD",
+   "FIRST_NAMES": "Sam",
+   "FULL_NAME": "Sam Mcdonald",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1091.25,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tāmaki Makaurau",
+   "SURNAME": "HENARE",
+   "FIRST_NAMES": "Peeni",
+   "FULL_NAME": "Peeni Henare",
+   "TOTAL_DONATIONS": 23302.21,
+   "TOTAL_EXPENSES": 14860.61,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Taranaki-King Country",
+   "SURNAME": "HUMPHREY",
+   "FIRST_NAMES": "Hilary",
+   "FULL_NAME": "Hilary Humphrey",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 837.13,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Taupō",
+   "SURNAME": "AL-BUSTANJI",
+   "FIRST_NAMES": "Ala'",
+   "FULL_NAME": "Ala' Al-Bustanji",
+   "TOTAL_DONATIONS": 3328.3,
+   "TOTAL_EXPENSES": 706.47,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "TINETTI",
+   "FIRST_NAMES": "Jan",
+   "FULL_NAME": "Jan Tinetti",
+   "TOTAL_DONATIONS": 15409,
+   "TOTAL_EXPENSES": 6212.9,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Atatū",
+   "SURNAME": "TWYFORD",
+   "FIRST_NAMES": "Phil",
+   "FULL_NAME": "Phil Twyford",
+   "TOTAL_DONATIONS": 16000,
+   "TOTAL_EXPENSES": 16247.61,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Hauāuru",
+   "SURNAME": "RURAWHE",
+   "FIRST_NAMES": "Adrian Paki",
+   "FULL_NAME": "Adrian Paki Rurawhe",
+   "TOTAL_DONATIONS": 20902.21,
+   "TOTAL_EXPENSES": 18330.84,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau",
+   "SURNAME": "DAVIS",
+   "FIRST_NAMES": "Kelvin",
+   "FULL_NAME": "Kelvin Davis",
+   "TOTAL_DONATIONS": 50404.41,
+   "TOTAL_EXPENSES": 20326.43,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tonga",
+   "SURNAME": "TIRIKATENE",
+   "FIRST_NAMES": "Rino",
+   "FULL_NAME": "Rino Tirikatene",
+   "TOTAL_DONATIONS": 7902.21,
+   "TOTAL_EXPENSES": 7930.61,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tukituki",
+   "SURNAME": "LORCK",
+   "FIRST_NAMES": "Anna",
+   "FULL_NAME": "Anna Lorck",
+   "TOTAL_DONATIONS": 67504.6,
+   "TOTAL_EXPENSES": 21354.07,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Upper Harbour",
+   "SURNAME": "AN",
+   "FIRST_NAMES": "Jin",
+   "FULL_NAME": "Jin An",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2514.93,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waiariki",
+   "SURNAME": "COFFEY",
+   "FIRST_NAMES": "Tamati",
+   "FULL_NAME": "Tamati Coffey",
+   "TOTAL_DONATIONS": 21502.71,
+   "TOTAL_EXPENSES": 24787.61,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waikato",
+   "SURNAME": "LOADER",
+   "FIRST_NAMES": "Brooke",
+   "FULL_NAME": "Brooke Loader",
+   "TOTAL_DONATIONS": 4594.3,
+   "TOTAL_EXPENSES": 2407.03,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "ROSEWARNE",
+   "FIRST_NAMES": "Dan",
+   "FULL_NAME": "Dan Rosewarne",
+   "TOTAL_DONATIONS": 2000,
+   "TOTAL_EXPENSES": 3523.51,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wairarapa",
+   "SURNAME": "McANULTY",
+   "FIRST_NAMES": "Kieran",
+   "FULL_NAME": "Kieran Mcanulty",
+   "TOTAL_DONATIONS": 9000,
+   "TOTAL_EXPENSES": 12488.43,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waitaki",
+   "SURNAME": "ALLAN",
+   "FIRST_NAMES": "Zélie",
+   "FULL_NAME": "Zélie Allan",
+   "TOTAL_DONATIONS": 6478.52,
+   "TOTAL_EXPENSES": 7808.5,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wellington Central",
+   "SURNAME": "ROBERTSON",
+   "FIRST_NAMES": "Grant",
+   "FULL_NAME": "Grant Robertson",
+   "TOTAL_DONATIONS": 17000,
+   "TOTAL_EXPENSES": 10710.18,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "West Coast-Tasman",
+   "SURNAME": "O'CONNOR",
+   "FIRST_NAMES": "Damien",
+   "FULL_NAME": "Damien O'Connor",
+   "TOTAL_DONATIONS": 26655.38,
+   "TOTAL_EXPENSES": 18854.07,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Whanganui",
+   "SURNAME": "LEWIS",
+   "FIRST_NAMES": "Steph",
+   "FULL_NAME": "Steph Lewis",
+   "TOTAL_DONATIONS": 31487.04,
+   "TOTAL_EXPENSES": 12150.69,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Whangarei",
+   "SURNAME": "SAVAGE",
+   "FIRST_NAMES": "Tony John",
+   "FULL_NAME": "Tony John Savage",
+   "TOTAL_DONATIONS": 15390,
+   "TOTAL_EXPENSES": 11754.83,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wigram",
+   "SURNAME": "WOODS",
+   "FIRST_NAMES": "Megan",
+   "FULL_NAME": "Megan Woods",
+   "TOTAL_DONATIONS": 23250,
+   "TOTAL_EXPENSES": 16862.14,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "MANA",
+   "ELECTORATE": "Māngere",
+   "SURNAME": "PAPALI'I",
+   "FIRST_NAMES": "Papalii James",
+   "FULL_NAME": "Papalii James Papali'I",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 862.5,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau",
+   "SURNAME": "HARAWIRA",
+   "FIRST_NAMES": "Hone",
+   "FULL_NAME": "Hone Harawira",
+   "TOTAL_DONATIONS": 38411.43,
+   "TOTAL_EXPENSES": 24730.38,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Bay of Plenty",
+   "SURNAME": "BENNETT",
+   "FIRST_NAMES": "Raewyn",
+   "FULL_NAME": "Raewyn Bennett",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Botany",
+   "SURNAME": "KANG",
+   "FIRST_NAMES": "Wetex",
+   "FULL_NAME": "Wetex Kang",
+   "TOTAL_DONATIONS": 2000,
+   "TOTAL_EXPENSES": 24613.3,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "East Coast",
+   "SURNAME": "VERCOE",
+   "FIRST_NAMES": "Rihi",
+   "FULL_NAME": "Rihi Vercoe",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 200,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Hamilton West",
+   "SURNAME": "SAMUJH",
+   "FIRST_NAMES": "Boris",
+   "FULL_NAME": "Boris Samujh",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 680.6,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Hauraki-Waikato",
+   "SURNAME": "PAPA",
+   "FIRST_NAMES": "Stanley Rahui",
+   "FULL_NAME": "Stanley Rahui Papa",
+   "TOTAL_DONATIONS": 21463.85,
+   "TOTAL_EXPENSES": 22109.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti",
+   "SURNAME": "FOX",
+   "FIRST_NAMES": "Marama",
+   "FULL_NAME": "Marama Fox",
+   "TOTAL_DONATIONS": 26518.6,
+   "TOTAL_EXPENSES": 19226.84,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Kelston",
+   "SURNAME": "WHITLOCK",
+   "FIRST_NAMES": "Cinnamon",
+   "FULL_NAME": "Cinnamon Whitlock",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2174.1,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Māngere",
+   "SURNAME": "TOFILAU-TEVAGA",
+   "FIRST_NAMES": "Esther",
+   "FULL_NAME": "Esther Tofilau-Tevaga",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1880.25,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Manukau East",
+   "SURNAME": "ESERA",
+   "FIRST_NAMES": "Tuilagi Saipele",
+   "FULL_NAME": "Tuilagi Saipele Esera",
+   "TOTAL_DONATIONS": 3000,
+   "TOTAL_EXPENSES": 4781.06,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Manurewa",
+   "SURNAME": "HOHAIA",
+   "FIRST_NAMES": "Tasha",
+   "FULL_NAME": "Tasha Hohaia",
+   "TOTAL_DONATIONS": 2210,
+   "TOTAL_EXPENSES": 11075.79,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Maungakiekie",
+   "SURNAME": "LUA",
+   "FIRST_NAMES": "Manase",
+   "FULL_NAME": "Manase Lua",
+   "TOTAL_DONATIONS": 8500,
+   "TOTAL_EXPENSES": 3219.58,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "KIRIA",
+   "FIRST_NAMES": "John",
+   "FULL_NAME": "John Kiria",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1485.8,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Napier",
+   "SURNAME": "MARSTERS",
+   "FIRST_NAMES": "Maryanne",
+   "FULL_NAME": "Maryanne Marsters",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1851.03,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "WILLIAMS",
+   "FIRST_NAMES": "Karen",
+   "FULL_NAME": "Karen Williams",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2034.27,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Pakuranga",
+   "SURNAME": "STODDART-SMITH",
+   "FIRST_NAMES": "Carrie",
+   "FULL_NAME": "Carrie Stoddart-Smith",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 7604.66,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Papakura",
+   "SURNAME": "BHANA",
+   "FIRST_NAMES": "Raewyn Teresa",
+   "FULL_NAME": "Raewyn Teresa Bhana",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Rotorua",
+   "SURNAME": "BIDDLE",
+   "FIRST_NAMES": "Wendy",
+   "FULL_NAME": "Wendy Biddle",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2257,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tāmaki",
+   "SURNAME": "PEPA",
+   "FIRST_NAMES": "Mele",
+   "FULL_NAME": "Mele Pepa",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tāmaki Makaurau",
+   "SURNAME": "TAURIMA",
+   "FIRST_NAMES": "Shane",
+   "FULL_NAME": "Shane Taurima",
+   "TOTAL_DONATIONS": 35165.98,
+   "TOTAL_EXPENSES": 19947.64,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "BORELL",
+   "FIRST_NAMES": "Joseph James",
+   "FULL_NAME": "Joseph James Borell",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Hauāuru",
+   "SURNAME": "TAMATI",
+   "FIRST_NAMES": "Howie",
+   "FULL_NAME": "Howie Tamati",
+   "TOTAL_DONATIONS": 15845.92,
+   "TOTAL_EXPENSES": 15253.37,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Tonga",
+   "SURNAME": "REEDY-TAARE",
+   "FIRST_NAMES": "Mei",
+   "FULL_NAME": "Mei Reedy-Taare",
+   "TOTAL_DONATIONS": 16625.9,
+   "TOTAL_EXPENSES": 17576.57,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waiariki",
+   "SURNAME": "FLAVELL",
+   "FIRST_NAMES": "Te Ururoa",
+   "FULL_NAME": "Te Ururoa Flavell",
+   "TOTAL_DONATIONS": 29100,
+   "TOTAL_EXPENSES": 23098.46,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "RERITI-CROFTS",
+   "FIRST_NAMES": "Aroha Hohipera",
+   "FULL_NAME": "Aroha Hohipera Reriti-Crofts",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Auckland Central",
+   "SURNAME": "KAYE",
+   "FIRST_NAMES": "Nikki",
+   "FULL_NAME": "Nikki Kaye",
+   "TOTAL_DONATIONS": 25000,
+   "TOTAL_EXPENSES": 23808.93,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Bay of Plenty",
+   "SURNAME": "MULLER",
+   "FIRST_NAMES": "Todd",
+   "FULL_NAME": "Todd Muller",
+   "TOTAL_DONATIONS": 32000,
+   "TOTAL_EXPENSES": 23217.33,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Botany",
+   "SURNAME": "ROSS",
+   "FIRST_NAMES": "Jami-Lee",
+   "FULL_NAME": "Jami-Lee Ross",
+   "TOTAL_DONATIONS": 22330.64,
+   "TOTAL_EXPENSES": 21206.15,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Christchurch Central",
+   "SURNAME": "WAGNER",
+   "FIRST_NAMES": "Nicky",
+   "FULL_NAME": "Nicky Wagner",
+   "TOTAL_DONATIONS": 28151.99,
+   "TOTAL_EXPENSES": 16267,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Christchurch East",
+   "SURNAME": "HAYES",
+   "FIRST_NAMES": "Jo",
+   "FULL_NAME": "Jo Hayes",
+   "TOTAL_DONATIONS": 13179.99,
+   "TOTAL_EXPENSES": 10706.19,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Clutha-Southland",
+   "SURNAME": "WALKER",
+   "FIRST_NAMES": "Hamish",
+   "FULL_NAME": "Hamish Walker",
+   "TOTAL_DONATIONS": 25712.53,
+   "TOTAL_EXPENSES": 20260.55,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Coromandel",
+   "SURNAME": "SIMPSON",
+   "FIRST_NAMES": "Scott",
+   "FULL_NAME": "Scott Simpson",
+   "TOTAL_DONATIONS": 24000,
+   "TOTAL_EXPENSES": 17507.89,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Dunedin North",
+   "SURNAME": "WOODHOUSE",
+   "FIRST_NAMES": "Michael",
+   "FULL_NAME": "Michael Woodhouse",
+   "TOTAL_DONATIONS": 15400,
+   "TOTAL_EXPENSES": 15360.29,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Dunedin South",
+   "SURNAME": "GREGORY",
+   "FIRST_NAMES": "Matt",
+   "FULL_NAME": "Matt Gregory",
+   "TOTAL_DONATIONS": 22885.53,
+   "TOTAL_EXPENSES": 16067.56,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "East Coast",
+   "SURNAME": "TOLLEY",
+   "FIRST_NAMES": "Anne",
+   "FULL_NAME": "Anne Tolley",
+   "TOTAL_DONATIONS": 11000,
+   "TOTAL_EXPENSES": 16937.63,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "East Coast Bays",
+   "SURNAME": "STANFORD",
+   "FIRST_NAMES": "Erica",
+   "FULL_NAME": "Erica Stanford",
+   "TOTAL_DONATIONS": 15195.8,
+   "TOTAL_EXPENSES": 14383.39,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Epsom",
+   "SURNAME": "GOLDSMITH",
+   "FIRST_NAMES": "Paul",
+   "FULL_NAME": "Paul Goldsmith",
+   "TOTAL_DONATIONS": 4606.09,
+   "TOTAL_EXPENSES": 1606.19,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton East",
+   "SURNAME": "BENNETT",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Bennett",
+   "TOTAL_DONATIONS": 32500,
+   "TOTAL_EXPENSES": 22216.79,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton West",
+   "SURNAME": "MACINDOE",
+   "FIRST_NAMES": "Tim",
+   "FULL_NAME": "Tim Macindoe",
+   "TOTAL_DONATIONS": 28000,
+   "TOTAL_EXPENSES": 20670.62,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Helensville",
+   "SURNAME": "PENK",
+   "FIRST_NAMES": "Chris",
+   "FULL_NAME": "Chris Penk",
+   "TOTAL_DONATIONS": 12465.26,
+   "TOTAL_EXPENSES": 10069.44,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Hunua",
+   "SURNAME": "BAYLY",
+   "FIRST_NAMES": "Andrew",
+   "FULL_NAME": "Andrew Bayly",
+   "TOTAL_DONATIONS": 32158.45,
+   "TOTAL_EXPENSES": 12543.27,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Hutt South",
+   "SURNAME": "BISHOP",
+   "FIRST_NAMES": "Chris",
+   "FULL_NAME": "Chris Bishop",
+   "TOTAL_DONATIONS": 54100,
+   "TOTAL_EXPENSES": 21520.51,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Ilam",
+   "SURNAME": "BROWNLEE",
+   "FIRST_NAMES": "Gerry",
+   "FULL_NAME": "Gerry Brownlee",
+   "TOTAL_DONATIONS": 21182.11,
+   "TOTAL_EXPENSES": 14363.1,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Invercargill",
+   "SURNAME": "DOWIE",
+   "FIRST_NAMES": "Sarah",
+   "FULL_NAME": "Sarah Dowie",
+   "TOTAL_DONATIONS": 20000,
+   "TOTAL_EXPENSES": 22895.8,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "SMITH",
+   "FIRST_NAMES": "Stuart",
+   "FULL_NAME": "Stuart Smith",
+   "TOTAL_DONATIONS": 30000,
+   "TOTAL_EXPENSES": 20372.77,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Kelston",
+   "SURNAME": "BEERAM",
+   "FIRST_NAMES": "Bala",
+   "FULL_NAME": "Bala Beeram",
+   "TOTAL_DONATIONS": 14293.39,
+   "TOTAL_EXPENSES": 17023.39,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Mana",
+   "SURNAME": "MURRELL",
+   "FIRST_NAMES": "Euon",
+   "FULL_NAME": "Euon Murrell",
+   "TOTAL_DONATIONS": 20200,
+   "TOTAL_EXPENSES": 15749.26,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Māngere",
+   "SURNAME": "LOHENI",
+   "FIRST_NAMES": "Agnes",
+   "FULL_NAME": "Agnes Loheni",
+   "TOTAL_DONATIONS": 10000.17,
+   "TOTAL_EXPENSES": 12011.83,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East",
+   "SURNAME": "BAKSHI",
+   "FIRST_NAMES": "Kanwaljit Singh",
+   "FULL_NAME": "Kanwaljit Singh Bakshi",
+   "TOTAL_DONATIONS": 7996.44,
+   "TOTAL_EXPENSES": 8696.44,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Manurewa",
+   "SURNAME": "BUNGARD",
+   "FIRST_NAMES": "Katrina",
+   "FULL_NAME": "Katrina Bungard",
+   "TOTAL_DONATIONS": 22605.8,
+   "TOTAL_EXPENSES": 16546.98,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Maungakiekie",
+   "SURNAME": "LEE",
+   "FIRST_NAMES": "Denise",
+   "FULL_NAME": "Denise Lee",
+   "TOTAL_DONATIONS": 33892.86,
+   "TOTAL_EXPENSES": 23185.67,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Mt Albert",
+   "SURNAME": "LEE",
+   "FIRST_NAMES": "Melissa",
+   "FULL_NAME": "Melissa Lee",
+   "TOTAL_DONATIONS": 37663.77,
+   "TOTAL_EXPENSES": 11188.69,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "PARMAR",
+   "FIRST_NAMES": "Parmjeet",
+   "FULL_NAME": "Parmjeet Parmar",
+   "TOTAL_DONATIONS": 16435.88,
+   "TOTAL_EXPENSES": 12926.69,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Napier",
+   "SURNAME": "ELLIOTT",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Elliott",
+   "TOTAL_DONATIONS": 22000,
+   "TOTAL_EXPENSES": 20233.26,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Nelson",
+   "SURNAME": "SMITH",
+   "FIRST_NAMES": "Nick",
+   "FULL_NAME": "Nick Smith",
+   "TOTAL_DONATIONS": 25223.3,
+   "TOTAL_EXPENSES": 24417.98,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "GARCIA",
+   "FIRST_NAMES": "Paulo",
+   "FULL_NAME": "Paulo Garcia",
+   "TOTAL_DONATIONS": 2765.48,
+   "TOTAL_EXPENSES": 9401.61,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "New Plymouth",
+   "SURNAME": "YOUNG",
+   "FIRST_NAMES": "Jonathan",
+   "FULL_NAME": "Jonathan Young",
+   "TOTAL_DONATIONS": 20050,
+   "TOTAL_EXPENSES": 18270.31,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "North Shore",
+   "SURNAME": "BARRY",
+   "FIRST_NAMES": "Maggie",
+   "FULL_NAME": "Maggie Barry",
+   "TOTAL_DONATIONS": 30980.98,
+   "TOTAL_EXPENSES": 16169.18,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Northcote",
+   "SURNAME": "COLEMAN",
+   "FIRST_NAMES": "Jonathan",
+   "FULL_NAME": "Jonathan Coleman",
+   "TOTAL_DONATIONS": 29668.53,
+   "TOTAL_EXPENSES": 21735.8,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Northland",
+   "SURNAME": "KING",
+   "FIRST_NAMES": "Matt",
+   "FULL_NAME": "Matt King",
+   "TOTAL_DONATIONS": 18370,
+   "TOTAL_EXPENSES": 21142.77,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Ōhāriu",
+   "SURNAME": "HUDSON",
+   "FIRST_NAMES": "Brett",
+   "FULL_NAME": "Brett Hudson",
+   "TOTAL_DONATIONS": 23517.18,
+   "TOTAL_EXPENSES": 22432.21,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Ōtaki",
+   "SURNAME": "GUY",
+   "FIRST_NAMES": "Nathan",
+   "FULL_NAME": "Nathan Guy",
+   "TOTAL_DONATIONS": 23091.22,
+   "TOTAL_EXPENSES": 17182,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Pakuranga",
+   "SURNAME": "BROWN",
+   "FIRST_NAMES": "Simeon",
+   "FULL_NAME": "Simeon Brown",
+   "TOTAL_DONATIONS": 16000,
+   "TOTAL_EXPENSES": 17708.86,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Palmerston North",
+   "SURNAME": "PIERCE",
+   "FIRST_NAMES": "Adrienne",
+   "FULL_NAME": "Adrienne Pierce",
+   "TOTAL_DONATIONS": 18744.22,
+   "TOTAL_EXPENSES": 12246.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Papakura",
+   "SURNAME": "COLLINS",
+   "FIRST_NAMES": "Judith",
+   "FULL_NAME": "Judith Collins",
+   "TOTAL_DONATIONS": 20249.26,
+   "TOTAL_EXPENSES": 19568.29,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Port Hills",
+   "SURNAME": "KORAKO",
+   "FIRST_NAMES": "Nuk",
+   "FULL_NAME": "Nuk Korako",
+   "TOTAL_DONATIONS": 25354.48,
+   "TOTAL_EXPENSES": 17753.72,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Rangitata",
+   "SURNAME": "FALLOON",
+   "FIRST_NAMES": "Andrew",
+   "FULL_NAME": "Andrew Falloon",
+   "TOTAL_DONATIONS": 59461.83,
+   "TOTAL_EXPENSES": 23376.7,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Rangitīkei",
+   "SURNAME": "McKELVIE",
+   "FIRST_NAMES": "Ian",
+   "FULL_NAME": "Ian Mckelvie",
+   "TOTAL_DONATIONS": 26914.15,
+   "TOTAL_EXPENSES": 18472.92,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Rimutaka",
+   "SURNAME": "O'FALLON",
+   "FIRST_NAMES": "Carolyn",
+   "FULL_NAME": "Carolyn O'Fallon",
+   "TOTAL_DONATIONS": 14398.49,
+   "TOTAL_EXPENSES": 13156.62,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Rodney",
+   "SURNAME": "MITCHELL",
+   "FIRST_NAMES": "Mark",
+   "FULL_NAME": "Mark Mitchell",
+   "TOTAL_DONATIONS": 23380.83,
+   "TOTAL_EXPENSES": 24313.56,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Rongotai",
+   "SURNAME": "FINLAYSON",
+   "FIRST_NAMES": "Christopher",
+   "FULL_NAME": "Christopher Finlayson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 4826.52,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Rotorua",
+   "SURNAME": "McCLAY",
+   "FIRST_NAMES": "Todd",
+   "FULL_NAME": "Todd Mcclay",
+   "TOTAL_DONATIONS": 45000,
+   "TOTAL_EXPENSES": 21783.71,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Selwyn",
+   "SURNAME": "ADAMS",
+   "FIRST_NAMES": "Amy",
+   "FULL_NAME": "Amy Adams",
+   "TOTAL_DONATIONS": 20000,
+   "TOTAL_EXPENSES": 17910.9,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Tāmaki",
+   "SURNAME": "O'CONNOR",
+   "FIRST_NAMES": "Simon",
+   "FULL_NAME": "Simon O'Connor",
+   "TOTAL_DONATIONS": 17500,
+   "TOTAL_EXPENSES": 14080.53,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Taranaki-King Country",
+   "SURNAME": "KURIGER",
+   "FIRST_NAMES": "Barbara",
+   "FULL_NAME": "Barbara Kuriger",
+   "TOTAL_DONATIONS": 7900.85,
+   "TOTAL_EXPENSES": 7800.84,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Taupō",
+   "SURNAME": "UPSTON",
+   "FIRST_NAMES": "Louise",
+   "FULL_NAME": "Louise Upston",
+   "TOTAL_DONATIONS": 16646.79,
+   "TOTAL_EXPENSES": 16642.47,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "BRIDGES",
+   "FIRST_NAMES": "Simon",
+   "FULL_NAME": "Simon Bridges",
+   "TOTAL_DONATIONS": 96000,
+   "TOTAL_EXPENSES": 22124.44,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Te Atatū",
+   "SURNAME": "NGARO",
+   "FIRST_NAMES": "Alfred",
+   "FULL_NAME": "Alfred Ngaro",
+   "TOTAL_DONATIONS": 18842.94,
+   "TOTAL_EXPENSES": 19612.93,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Tukituki",
+   "SURNAME": "YULE",
+   "FIRST_NAMES": "Lawrence",
+   "FULL_NAME": "Lawrence Yule",
+   "TOTAL_DONATIONS": 83820.73,
+   "TOTAL_EXPENSES": 23231.72,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Upper Harbour",
+   "SURNAME": "BENNETT",
+   "FIRST_NAMES": "Paula",
+   "FULL_NAME": "Paula Bennett",
+   "TOTAL_DONATIONS": 17000,
+   "TOTAL_EXPENSES": 9970.29,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Waikato",
+   "SURNAME": "van de MOLEN",
+   "FIRST_NAMES": "Tim",
+   "FULL_NAME": "Tim Van De Molen",
+   "TOTAL_DONATIONS": 23313.3,
+   "TOTAL_EXPENSES": 20282.89,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "DOOCEY",
+   "FIRST_NAMES": "Matt",
+   "FULL_NAME": "Matt Doocey",
+   "TOTAL_DONATIONS": 23765.97,
+   "TOTAL_EXPENSES": 21790.2,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Wairarapa",
+   "SURNAME": "SCOTT",
+   "FIRST_NAMES": "Alastair",
+   "FULL_NAME": "Alastair Scott",
+   "TOTAL_DONATIONS": 24705.36,
+   "TOTAL_EXPENSES": 18050.89,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Waitaki",
+   "SURNAME": "DEAN",
+   "FIRST_NAMES": "Jacqui",
+   "FULL_NAME": "Jacqui Dean",
+   "TOTAL_DONATIONS": 7990.2,
+   "TOTAL_EXPENSES": 7968.68,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central",
+   "SURNAME": "WILLIS",
+   "FIRST_NAMES": "Nicola",
+   "FULL_NAME": "Nicola Willis",
+   "TOTAL_DONATIONS": 46489.09,
+   "TOTAL_EXPENSES": 14732.34,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "West Coast-Tasman",
+   "SURNAME": "PUGH",
+   "FIRST_NAMES": "Maureen",
+   "FULL_NAME": "Maureen Pugh",
+   "TOTAL_DONATIONS": 27074.79,
+   "TOTAL_EXPENSES": 21234.32,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Whanganui",
+   "SURNAME": "HIPANGO",
+   "FIRST_NAMES": "Harete",
+   "FULL_NAME": "Harete Hipango",
+   "TOTAL_DONATIONS": 39316.3,
+   "TOTAL_EXPENSES": 23856.3,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei",
+   "SURNAME": "RETI",
+   "FIRST_NAMES": "Shane",
+   "FULL_NAME": "Shane Reti",
+   "TOTAL_DONATIONS": 34000,
+   "TOTAL_EXPENSES": 20680.02,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "National Party",
+   "ELECTORATE": "Wigram",
+   "SURNAME": "HIATT",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Hiatt",
+   "TOTAL_DONATIONS": 53363.42,
+   "TOTAL_EXPENSES": 22290.48,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Auckland Central",
+   "SURNAME": "EDWARDS",
+   "FIRST_NAMES": "Frank",
+   "FULL_NAME": "Frank Edwards",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Bay of Plenty",
+   "SURNAME": "GRAY",
+   "FIRST_NAMES": "Lester",
+   "FULL_NAME": "Lester Gray",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2379.14,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Christchurch Central",
+   "SURNAME": "ROBINSON",
+   "FIRST_NAMES": "Philip",
+   "FULL_NAME": "Philip Robinson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Christchurch East",
+   "SURNAME": "MARK-SHADBOLT",
+   "FIRST_NAMES": "Melanie",
+   "FULL_NAME": "Melanie Mark-Shadbolt",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Clutha-Southland",
+   "SURNAME": "PATTERSON",
+   "FIRST_NAMES": "Mark",
+   "FULL_NAME": "Mark Patterson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 6541.8,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Coromandel",
+   "SURNAME": "ANDREWS",
+   "FIRST_NAMES": "Anne-Marie",
+   "FULL_NAME": "Anne-Marie Andrews",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 4853.83,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Dunedin North",
+   "SURNAME": "VOIGHT",
+   "FIRST_NAMES": "Warren",
+   "FULL_NAME": "Warren Voight",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Dunedin South",
+   "SURNAME": "RUSHTON",
+   "FIRST_NAMES": "Kerry Maria",
+   "FULL_NAME": "Kerry Maria Rushton",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 100.83,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "East Coast",
+   "SURNAME": "TILLEY",
+   "FIRST_NAMES": "Julian",
+   "FULL_NAME": "Julian Tilley",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 3427.41,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "East Coast Bays",
+   "SURNAME": "RUPPELDT",
+   "FIRST_NAMES": "Ilja",
+   "FULL_NAME": "Ilja Ruppeldt",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1129.68,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Epsom",
+   "SURNAME": "PAUL",
+   "FIRST_NAMES": "Julian",
+   "FULL_NAME": "Julian Paul",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 291.31,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Hamilton East",
+   "SURNAME": "PARAONE",
+   "FIRST_NAMES": "Pita",
+   "FULL_NAME": "Pita Paraone",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 23123.3,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Hamilton West",
+   "SURNAME": "WIHONGI",
+   "FIRST_NAMES": "Shayne",
+   "FULL_NAME": "Shayne Wihongi",
+   "TOTAL_DONATIONS": 2000,
+   "TOTAL_EXPENSES": 1674.18,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Helensville",
+   "SURNAME": "PETERSON",
+   "FIRST_NAMES": "Helen",
+   "FULL_NAME": "Helen Peterson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 405.95,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Hunua",
+   "SURNAME": "REEVES",
+   "FIRST_NAMES": "Jon",
+   "FULL_NAME": "Jon Reeves",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 7267.43,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Hutt South",
+   "SURNAME": "GUPTA",
+   "FIRST_NAMES": "Alok",
+   "FULL_NAME": "Alok Gupta",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2763.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Invercargill",
+   "SURNAME": "BOND",
+   "FIRST_NAMES": "Ria",
+   "FULL_NAME": "Ria Bond",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 3762.29,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "ARBUCKLE",
+   "FIRST_NAMES": "Jamie",
+   "FULL_NAME": "Jamie Arbuckle",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 141.96,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Kelston",
+   "SURNAME": "DEGIA-PALA",
+   "FIRST_NAMES": "Anne",
+   "FULL_NAME": "Anne Degia-Pala",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 762.67,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Māngere",
+   "SURNAME": "PARORO",
+   "FIRST_NAMES": "Mataroa",
+   "FULL_NAME": "Mataroa Paroro",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Manukau East",
+   "SURNAME": "FLESHER",
+   "FIRST_NAMES": "William",
+   "FULL_NAME": "William Flesher",
+   "TOTAL_DONATIONS": 2000,
+   "TOTAL_EXPENSES": 673.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Manurewa",
+   "SURNAME": "HALL",
+   "FIRST_NAMES": "John",
+   "FULL_NAME": "John Hall",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1817.8,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Maungakiekie",
+   "SURNAME": "MAHON",
+   "FIRST_NAMES": "Ken",
+   "FULL_NAME": "Ken Mahon",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 35.65,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Albert",
+   "SURNAME": "LITTLEJOHN",
+   "FIRST_NAMES": "Andrew McGregor",
+   "FULL_NAME": "Andrew Mcgregor Littlejohn",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 3688.31,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "BINDRA",
+   "FIRST_NAMES": "Mahesh",
+   "FULL_NAME": "Mahesh Bindra",
+   "TOTAL_DONATIONS": 24801,
+   "TOTAL_EXPENSES": 3565.31,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Nelson",
+   "SURNAME": "SARA",
+   "FIRST_NAMES": "Susan",
+   "FULL_NAME": "Susan Sara",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1051.42,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "CHAN",
+   "FIRST_NAMES": "Peter",
+   "FULL_NAME": "Peter Chan",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2603.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "New Plymouth",
+   "SURNAME": "CHONG",
+   "FIRST_NAMES": "Murray",
+   "FULL_NAME": "Murray Chong",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2805,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "North Shore",
+   "SURNAME": "HUBBARD",
+   "FIRST_NAMES": "Josh",
+   "FULL_NAME": "Josh Hubbard",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 646.53,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Northcote",
+   "SURNAME": "KOLONI",
+   "FIRST_NAMES": "Kym",
+   "FULL_NAME": "Kym Koloni",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2279.4,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Northland",
+   "SURNAME": "PETERS",
+   "FIRST_NAMES": "Winston",
+   "FULL_NAME": "Winston Peters",
+   "TOTAL_DONATIONS": 20000,
+   "TOTAL_EXPENSES": 11429.99,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Ōhāriu",
+   "SURNAME": "CLOSE",
+   "FIRST_NAMES": "Lisa Susan",
+   "FULL_NAME": "Lisa Susan Close",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 431.26,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Ōtaki",
+   "SURNAME": "RUDZKI",
+   "FIRST_NAMES": "Romuald Edward",
+   "FULL_NAME": "Romuald Edward Rudzki",
+   "TOTAL_DONATIONS": 2526.11,
+   "TOTAL_EXPENSES": 2618.11,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Pakuranga",
+   "SURNAME": "KELLY",
+   "FIRST_NAMES": "Suzanne",
+   "FULL_NAME": "Suzanne Kelly",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 300,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Palmerston North",
+   "SURNAME": "BALL",
+   "FIRST_NAMES": "Darroch",
+   "FULL_NAME": "Darroch Ball",
+   "TOTAL_DONATIONS": 7700,
+   "TOTAL_EXPENSES": 10580.42,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Papakura",
+   "SURNAME": "GREENING",
+   "FIRST_NAMES": "Toa",
+   "FULL_NAME": "Toa Greening",
+   "TOTAL_DONATIONS": 7888.37,
+   "TOTAL_EXPENSES": 620.39,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Port Hills",
+   "SURNAME": "O'ROURKE",
+   "FIRST_NAMES": "Denis",
+   "FULL_NAME": "Denis O'Rourke",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Rangitīkei",
+   "SURNAME": "STEVENSON",
+   "FIRST_NAMES": "Rob",
+   "FULL_NAME": "Rob Stevenson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 787.75,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Rimutaka",
+   "SURNAME": "MEIKLE",
+   "FIRST_NAMES": "Talani",
+   "FULL_NAME": "Talani Meikle",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1950.25,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Rodney",
+   "SURNAME": "MARTIN",
+   "FIRST_NAMES": "Tracey",
+   "FULL_NAME": "Tracey Martin",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2626.73,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Rongotai",
+   "SURNAME": "MILLS",
+   "FIRST_NAMES": "Geoffrey John",
+   "FULL_NAME": "Geoffrey John Mills",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 518.49,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Rotorua",
+   "SURNAME": "TABUTEAU",
+   "FIRST_NAMES": "Fletcher",
+   "FULL_NAME": "Fletcher Tabuteau",
+   "TOTAL_DONATIONS": 2000,
+   "TOTAL_EXPENSES": 2338.04,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Selwyn",
+   "SURNAME": "PALMER",
+   "FIRST_NAMES": "Lindy Michelle",
+   "FULL_NAME": "Lindy Michelle Palmer",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1758.12,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tāmaki",
+   "SURNAME": "MARCROFT",
+   "FIRST_NAMES": "Jenny",
+   "FULL_NAME": "Jenny Marcroft",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2127.99,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "MITCHELL",
+   "FIRST_NAMES": "Clayton",
+   "FULL_NAME": "Clayton Mitchell",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 5507.72,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Te Atatū",
+   "SURNAME": "WILSON",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Wilson",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 4898.88,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tukituki",
+   "SURNAME": "KAIRAU",
+   "FIRST_NAMES": "Joe",
+   "FULL_NAME": "Joe Kairau",
+   "TOTAL_DONATIONS": 2852.11,
+   "TOTAL_EXPENSES": 3867.83,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Upper Harbour",
+   "SURNAME": "JOHNSTON",
+   "FIRST_NAMES": "Jane",
+   "FULL_NAME": "Jane Johnston",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 517.5,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Waikato",
+   "SURNAME": "HUSBAND",
+   "FIRST_NAMES": "Stu",
+   "FULL_NAME": "Stu Husband",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 7977.87,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "PROSSER",
+   "FIRST_NAMES": "Richard Ivor",
+   "FULL_NAME": "Richard Ivor Prosser",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 875.45,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Wairarapa",
+   "SURNAME": "MARK",
+   "FIRST_NAMES": "Ron",
+   "FULL_NAME": "Ron Mark",
+   "TOTAL_DONATIONS": 9524.99,
+   "TOTAL_EXPENSES": 22448.39,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Waitaki",
+   "SURNAME": "FAMILTON",
+   "FIRST_NAMES": "Alex",
+   "FULL_NAME": "Alex Familton",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 515,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Wellington Central",
+   "SURNAME": "FOSTER",
+   "FIRST_NAMES": "Andy",
+   "FULL_NAME": "Andy Foster",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 100.56,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "West Coast-Tasman",
+   "SURNAME": "FARRELLY",
+   "FIRST_NAMES": "Jackie",
+   "FULL_NAME": "Jackie Farrelly",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1327.27,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Whanganui",
+   "SURNAME": "SKIPWORTH",
+   "FIRST_NAMES": "Reginald Herbert",
+   "FULL_NAME": "Reginald Herbert Skipworth",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 75,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Whangarei",
+   "SURNAME": "JONES",
+   "FIRST_NAMES": "Shane",
+   "FULL_NAME": "Shane Jones",
+   "TOTAL_DONATIONS": 32000,
+   "TOTAL_EXPENSES": 13030.57,
+   "MP2019": "Yes"
+ },
+ {
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Wigram",
+   "SURNAME": "APANUI",
+   "FIRST_NAMES": "Tane John",
+   "FULL_NAME": "Tane John Apanui",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 545.1,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "NZ Outdoors Party",
+   "ELECTORATE": "Hutt South",
+   "SURNAME": "BEARMAN-RIEDEL",
+   "FIRST_NAMES": "Wilf",
+   "FULL_NAME": "Wilf Bearman-Riedel",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 490.6,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "NZ Outdoors Party",
+   "ELECTORATE": "Maungakiekie",
+   "SURNAME": "PAULL",
+   "FIRST_NAMES": "Derrick",
+   "FULL_NAME": "Derrick Paull",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 490.6,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "NZ Outdoors Party",
+   "ELECTORATE": "Nelson",
+   "SURNAME": "HAYNES",
+   "FIRST_NAMES": "David",
+   "FULL_NAME": "David Haynes",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 490.6,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "NZ Outdoors Party",
+   "ELECTORATE": "Taupō",
+   "SURNAME": "SIMMONS",
+   "FIRST_NAMES": "Alan Frank",
+   "FULL_NAME": "Alan Frank Simmons",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 490.6,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Auckland Central",
+   "SURNAME": "HAKA",
+   "FIRST_NAMES": "Mika",
+   "FULL_NAME": "Mika Haka",
+   "TOTAL_DONATIONS": 10291.02,
+   "TOTAL_EXPENSES": 10291.02,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Christchurch Central",
+   "SURNAME": "HILL",
+   "FIRST_NAMES": "Doug",
+   "FULL_NAME": "Doug Hill",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 627.24,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Dunedin North",
+   "SURNAME": "GRAY",
+   "FIRST_NAMES": "Abe",
+   "FULL_NAME": "Abe Gray",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 752.02,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Dunedin South",
+   "SURNAME": "SMITH",
+   "FIRST_NAMES": "Lindsay",
+   "FULL_NAME": "Lindsay Smith",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1167.79,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "East Coast",
+   "SURNAME": "IMMINK",
+   "FIRST_NAMES": "Lesley",
+   "FULL_NAME": "Lesley Immink",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 8780.09,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "East Coast Bays",
+   "SURNAME": "MOORE",
+   "FIRST_NAMES": "Teresa",
+   "FULL_NAME": "Teresa Moore",
+   "TOTAL_DONATIONS": 2588.06,
+   "TOTAL_EXPENSES": 5942.78,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Hamilton West",
+   "SURNAME": "POKERE-PHILLIPS",
+   "FIRST_NAMES": "Donna",
+   "FULL_NAME": "Donna Pokere-Phillips",
+   "TOTAL_DONATIONS": 1512.26,
+   "TOTAL_EXPENSES": 1512.26,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Hutt South",
+   "SURNAME": "WARWICK",
+   "FIRST_NAMES": "Richard",
+   "FULL_NAME": "Richard Warwick",
+   "TOTAL_DONATIONS": 5415.66,
+   "TOTAL_EXPENSES": 5435.66,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Manukau East",
+   "SURNAME": "JOHNSTON",
+   "FIRST_NAMES": "Ted Faleauto",
+   "FULL_NAME": "Ted Faleauto Johnston",
+   "TOTAL_DONATIONS": 4562.09,
+   "TOTAL_EXPENSES": 4562.09,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Mt Albert",
+   "SURNAME": "THURSTON",
+   "FIRST_NAMES": "Dan",
+   "FULL_NAME": "Dan Thurston",
+   "TOTAL_DONATIONS": 3978.23,
+   "TOTAL_EXPENSES": 4290.89,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Mt Roskill",
+   "SURNAME": "ULYATT",
+   "FIRST_NAMES": "Clint",
+   "FULL_NAME": "Clint Ulyatt",
+   "TOTAL_DONATIONS": 3715.01,
+   "TOTAL_EXPENSES": 3715.01,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "North Shore",
+   "SURNAME": "ISBISTER",
+   "FIRST_NAMES": "Matt",
+   "FULL_NAME": "Matt Isbister",
+   "TOTAL_DONATIONS": 3281.17,
+   "TOTAL_EXPENSES": 3332.32,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Ōhāriu",
+   "SURNAME": "HAMMOND DOUBE",
+   "FIRST_NAMES": "Jessica",
+   "FULL_NAME": "Jessica Hammond Doube",
+   "TOTAL_DONATIONS": 15418.56,
+   "TOTAL_EXPENSES": 15518.56,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Ōtaki",
+   "SURNAME": "TUKAPUA",
+   "FIRST_NAMES": "Piri-Hira",
+   "FULL_NAME": "Piri-Hira Tukapua",
+   "TOTAL_DONATIONS": 1993.64,
+   "TOTAL_EXPENSES": 4320.44,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Rangitata",
+   "SURNAME": "WILSON",
+   "FIRST_NAMES": "Olly",
+   "FULL_NAME": "Olly Wilson",
+   "TOTAL_DONATIONS": 1762.57,
+   "TOTAL_EXPENSES": 11780.03,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Rodney",
+   "SURNAME": "OWENS",
+   "FIRST_NAMES": "Brittany",
+   "FULL_NAME": "Brittany Owens",
+   "TOTAL_DONATIONS": 3325.99,
+   "TOTAL_EXPENSES": 3325.99,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Rongotai",
+   "SURNAME": "PLUNKET",
+   "FIRST_NAMES": "Paddy",
+   "FULL_NAME": "Paddy Plunket",
+   "TOTAL_DONATIONS": 5430.48,
+   "TOTAL_EXPENSES": 5531.54,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Selwyn",
+   "SURNAME": "SNOYINK",
+   "FIRST_NAMES": "Nicky",
+   "FULL_NAME": "Nicky Snoyink",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1138.21,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Waimakariri",
+   "SURNAME": "GLENJARMAN",
+   "FIRST_NAMES": "Nicola",
+   "FULL_NAME": "Nicola Glenjarman",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1217.16,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Waitaki",
+   "SURNAME": "NEILL",
+   "FIRST_NAMES": "Kevin",
+   "FULL_NAME": "Kevin Neill",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1124.72,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Wellington Central",
+   "SURNAME": "SIMMONS",
+   "FIRST_NAMES": "Geoff",
+   "FULL_NAME": "Geoff Simmons",
+   "TOTAL_DONATIONS": 15930.87,
+   "TOTAL_EXPENSES": 15481.38,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "Botany",
+   "SURNAME": "LIGHT",
+   "FIRST_NAMES": "Damian",
+   "FULL_NAME": "Damian Light",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 519.16,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "Christchurch Central",
+   "SURNAME": "GASKIN",
+   "FIRST_NAMES": "Ian Camden",
+   "FULL_NAME": "Ian Camden Gaskin",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 2058.49,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "Hamilton West",
+   "SURNAME": "TODD",
+   "FIRST_NAMES": "Quentin",
+   "FULL_NAME": "Quentin Todd",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "Kaikōura",
+   "SURNAME": "FOSTER",
+   "FIRST_NAMES": "John Truman",
+   "FULL_NAME": "John Truman Foster",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1420,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "Mana",
+   "SURNAME": "SHEFFIELD-CRANSTOUN",
+   "FIRST_NAMES": "Kelleigh",
+   "FULL_NAME": "Kelleigh Sheffield-Cranstoun",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 75.77,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "New Lynn",
+   "SURNAME": "HUBSCHER",
+   "FIRST_NAMES": "John",
+   "FULL_NAME": "John Hubscher",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 1417.07,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "Ōhāriu",
+   "SURNAME": "NADAKUITAVUKI",
+   "FIRST_NAMES": "Bale",
+   "FULL_NAME": "Bale Nadakuitavuki",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 60,
+   "MP2019": "No"
+ },
+ {
+   "PARTY": "United Future",
+   "ELECTORATE": "Tauranga",
+   "SURNAME": "RICKARD",
+   "FIRST_NAMES": "Ben",
+   "FULL_NAME": "Ben Rickard",
+   "TOTAL_DONATIONS": 0,
+   "TOTAL_EXPENSES": 0,
+   "MP2019": "No"
+ }
+]
