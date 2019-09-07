@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import MPImage from './MPImage'
+import MPImage from "./MPImage";
 const Card = styled.div`
   display: flex;
   flex-wrap: wrap;
@@ -83,11 +83,11 @@ const Icon = styled.div`
 `;
 
 const partyLogos = [
-  "actSmall.jpg",
-  "greenSmall.jpg",
-  "labour.png",
-  "national.,jpg",
-  "nzFirstSmall,png"
+  { party: "", fileName: "actSmall.jpg" },
+  { party: "", fileName: "greenSmall.jpg" },
+  { party: "", fileName: "labour.png" },
+  { party: "National Party", fileName: "national.,jpg" },
+  { party: "", fileName: "nzFirstSmall,png" }
 ];
 
 const getImageName = arr => str => arr.find(e => e.includes(str));
