@@ -11,7 +11,7 @@ const Card = styled.div`
 
 const MPName = styled.h2`
   text-align: left;
-  min-width: 400px;
+  min-width: 380px;
   color: #ffffff;
   font-size: 1.5rem;
   font-weight: 900;
@@ -34,6 +34,9 @@ const Electorate = styled.h3`
   line-height: 21px;
   margin: 0;
   margin-left: 20px;
+  @media (max-width: 1024px) {
+    margin-left: 5px;
+  }
 `;
 
 const Party = styled.h3`
@@ -43,9 +46,11 @@ const Party = styled.h3`
   font-size: 0.8rem;
   font-weight: bold;
   margin: 0;
+  margin-left: 10px;
   letter-spacing: -0.53px;
   line-height: 21px;
-  padding-top: 15px;
+  padding-top: 12px;
+  text-align: left;
   @media (max-width: 1024px) {
     font-size: 0.7rem;
   }
@@ -56,19 +61,22 @@ const FlexDiv = styled.div`
   flex-wrap: none;
   justify-content: center;
   align-items: center;
-  min-width: 250px;
+  min-width: 200px;
   @media (max-width: 1024px) {
     min-width: 150px;
   }
 `;
 
 const TimeServed = styled.h3`
-  width: 136px;
+  width: 130px;
   color: #ffffff;
+  text-align: left;
   font-size: 0.8rem;
   letter-spacing: -0.53px;
   line-height: 21px;
+  padding-top: 3px;
   margin: 0px;
+  margin-left: 10px;
   @media (max-width: 1024px) {
     font-size: 0.7rem;
   }
@@ -82,15 +90,28 @@ const Icon = styled.div`
   width: 40px;
 `;
 
+const ClockIcon = styled.div`
+  background: ${({ image }) => `url(${image}) no-repeat`};
+  background-size: cover;
+  height: 30px;
+  width: 30px;
+`;
+
 const partyLogos = [
-  { party: "", fileName: "actSmall.jpg" },
-  { party: "", fileName: "greenSmall.jpg" },
-  { party: "", fileName: "labour.png" },
-  { party: "National Party", fileName: "national.,jpg" },
-  { party: "", fileName: "nzFirstSmall,png" }
+  { party: "ACT New Zealand", fileName: "actSmall.jpg" },
+  { party: "Green Party", fileName: "greenSmall.jpg" },
+  { party: "Labour Party", fileName: "labourFern.svg" },
+  { party: "National Party", fileName: "national.jpg" },
+  { party: "NZ First", fileName: "nzFirstSmall.png" },
+  { party: "Independent", fileName: "independent.png" }
 ];
 
-const getImageName = arr => str => arr.find(e => e.includes(str));
+const getImageName = arr => str => {
+  if (str) {
+    const result = arr.find(e => e.party.includes(str));
+    return result ? result.fileName : 'indepentent.png'
+  }
+};
 
 const getPartyLogoImageName = getImageName(partyLogos);
 
@@ -101,14 +122,14 @@ const MPCard = ({ mp }) => (
     </div>
     <div>
       <MPName>{mp.Contact}</MPName>
-      <Electorate>{mp.Electorate}</Electorate>
+      <Electorate>{mp.Electorate ? mp.Electorate : 'List MP'}</Electorate>
     </div>
     <FlexDiv>
       <Icon image={`/static/images/${getPartyLogoImageName(mp.Party)}`} />
       <Party>{mp.Party}</Party>
     </FlexDiv>
     <FlexDiv>
-      <Icon image="/static/images/labour.png" />
+      <ClockIcon image="/static/images/clock.svg" />
       <TimeServed>2016 - Present 4 years, 12 months</TimeServed>
     </FlexDiv>
   </Card>
