@@ -1,6 +1,7 @@
 import { useRouter } from 'next/router'
 import styled from 'styled-components'
 import Page from '../../components/pages'
+import ExpensesComponent from '../../components/expensesComponent';
 
 const Header = styled.header`
   width: 100vw;
@@ -64,7 +65,7 @@ const NameH1 = styled.h1`
   background-color: #3a3e47;
 `
 
-export default function Post () {
+export default function Post() {
   const router = useRouter()
 
   return (
@@ -75,20 +76,20 @@ export default function Post () {
           <PoliticianContainer>
             <NameH1>Legitimate Name</NameH1>
             <PoliticianStatContainer>
-            <PoliticianStat>
+              <PoliticianStat>
                 <PoliticianStatImage src='http://lorempixel.com/24/24/people/' /> <PoliticianStatText>Labour Party</PoliticianStatText>
-            </PoliticianStat>
+              </PoliticianStat>
 
-            <PoliticianStat>
+              <PoliticianStat>
                 <PoliticianStatImage src='http://lorempixel.com/24/24/people/' /> <PoliticianStatText>Auckland Central</PoliticianStatText>
-            </PoliticianStat>
-            <PoliticianStat>
+              </PoliticianStat>
+              <PoliticianStat>
                 <PoliticianStatImage src='http://lorempixel.com/24/24/people/' /> <PoliticianStatText>2016 - Present ( 4 years,  12 months )</PoliticianStatText>
-            </PoliticianStat>            </PoliticianStatContainer>
+              </PoliticianStat>            </PoliticianStatContainer>
           </PoliticianContainer>
         </HeaderContainer>
       </Header>
-  
+      <ExpensesComponent />
     </Page>
   )
 }
