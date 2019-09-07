@@ -1,6 +1,13 @@
 import json
 import sys
 
+if ((len(sys.argv) < 4 or  len(sys.argv) > 4)):
+    print("Pass files as arguments")
+    print("args[0] - inFile ( for member disclosure items to be added to)")
+    print("args[1] - inDir (Directory containing member disclosure data files)")
+    print("args[2] - outFile (output json file to be written after member disclosure items have been added)")    
+    sys.exit()
+
 catagory = [ '1 Company directorships and controlling interests', '2 Other companies and business entities', '3 Employment', '4 Beneficial interests in, and trusteeships of, trusts', '5 Organisations and trusts seeking Government funding','6 Real property','7 Superannuation schemes','8 Investment schemes','9 Debtors','10 Creditors','11 Overseas travel costs','12 Gifts','13 Discharged debts','14 Payments for activities']
 # './disclosure-of-member-expenses/target/combined.json'
 data = []
@@ -28,7 +35,6 @@ def mutateData(content):
             addNewField(content,currentIndex)
         currentIndex += 1
 
-# print((data[0]))
 for i in range(0,117):
 
     fileStream = open('%sMP-%i.txt'%(sys.argv[2],i),'r')
