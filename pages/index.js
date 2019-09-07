@@ -1,5 +1,4 @@
 import React from 'react'
-
 import Page from '../components/pages'
 import styled from 'styled-components'
 import MembersOfParliamentButton from '../components/membersOfParliamentButton'
@@ -16,19 +15,20 @@ const PageContainer = styled.div`
 `
 
 const PersonCard = props => (
-  <li>
-    <Link href={`/{$props.name}`}>
-      <a>
-        <div>card should go here</div>
-      </a>
-    </Link>
-  </li>
+  <li><Link href={`/{$props.name}`}>
+    <a>
+      <div>card should go here</div>
+    </a>
+  </Link></li>
 )
 
 const Index = () => (
   <Page>
       <Hero />
     <PageContainer>
+
+      <MembersOfParliamentButton />
+
       <PopulatedMPList />
     </PageContainer>
   </Page>
