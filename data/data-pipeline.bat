@@ -1,0 +1,1 @@
+cp members-of-parliament/members-of-parliament.json target/output.json
