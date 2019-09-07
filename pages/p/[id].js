@@ -19,6 +19,7 @@ const HeaderContainer = styled.div`
 
   p {
       background-color: initial;
+      font-size: 1.5rem;
   }
 `
 const PoliticianContainer = styled.div`
@@ -34,23 +35,32 @@ const PoliticianImage = styled.img`
 const PoliticianStatContainer = styled.div`
 margin-top: 1rem;
 display: grid;
-grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-template-columns: 1fr 1fr 2fr;
 gap: 1rem;
+background-color: #3a3e47;
 `
 const PoliticianStat = styled.div`
+display: inline;
+background-color: #3a3e47;
 
 `
 
 const PoliticianStatImage = styled.img`
-height: 100%;
+display: inline;
+padding-top: -2px;
+border-radius: 100%;
 `
 const PoliticianStatText = styled.p`
+display: inline;
+margin-left: 4px;
+font-weight: 200;
 
 `
 const NameH1 = styled.h1`
   font-size: 40px;
+  font-weight: 900;
   color: #ffffff;
-  letter-spacing: -1.33px;
+  letter-spacing: -0px;
   background-color: #3a3e47;
 `
 
@@ -66,14 +76,19 @@ export default function Post () {
             <NameH1>Legitimate Name</NameH1>
             <PoliticianStatContainer>
             <PoliticianStat>
-                <PoliticianStatImage src='../assets/labour.png' /> <PoliticianStatText>aaaa</PoliticianStatText>
+                <PoliticianStatImage src='http://lorempixel.com/24/24/people/' /> <PoliticianStatText>Labour Party</PoliticianStatText>
             </PoliticianStat>
-            </PoliticianStatContainer>
+
+            <PoliticianStat>
+                <PoliticianStatImage src='http://lorempixel.com/24/24/people/' /> <PoliticianStatText>Auckland Central</PoliticianStatText>
+            </PoliticianStat>
+            <PoliticianStat>
+                <PoliticianStatImage src='http://lorempixel.com/24/24/people/' /> <PoliticianStatText>2016 - Present ( 4 years,  12 months )</PoliticianStatText>
+            </PoliticianStat>            </PoliticianStatContainer>
           </PoliticianContainer>
         </HeaderContainer>
       </Header>
-      <h1>{router.query.id}</h1>
-      <p>This is the blog post content.</p>
+  
     </Page>
   )
 }
