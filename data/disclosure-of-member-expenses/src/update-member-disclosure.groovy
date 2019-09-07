@@ -33,8 +33,8 @@ dir.eachFileRecurse(FileType.FILES) { membersDisclosureFile ->
 		def splitLine = line.split(",(?=([^\"]*\"[^\"]*\")*[^\"]*\$)")
 
 		if (splitLine.size() > 2 && splitLine[1] != "" && splitLine[1].contains(',')) {
-			def firstName = splitLine[1].split(',')[0].replace('"', '')
-			def lastName = splitLine[1].split(',')[1].replace('"', '')
+			def firstName = splitLine[1].split(',')[0].replace('"', '').trim()
+			def lastName = splitLine[1].split(',')[1].replace('"', '').trim()
 
 
 			data.each { member ->
