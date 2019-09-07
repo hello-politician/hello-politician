@@ -5,6 +5,11 @@ import styled from 'styled-components'
 import Page from '../../components/pages'
 import ExpensesComponent from '../../components/expensesComponent'
 import CompanyDirectorShip from '../../components/CompanyDirectorShip'
+import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
+import {InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon} from '../../components/styledComponents/cardStyles'
+import CampaignDonationsCard from '../../components/CampaignDonationsCard'
+import { AvailableData } from '../../components/AvailableData'
+import PecuniaryCard from '../../components/PecuniaryCards'
 
 const Header = styled.header`
   width: 100vw;
@@ -80,46 +85,7 @@ const ContentCard = styled.div`
   padding: 1rem;
 `
 
-const InfoCard = styled.div`
-  background: #2d3341;
-  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
-  border-radius: 8px;
-  padding: 1rem;
-  margin-bottom: 2rem;
-  min-height: 8rem;
-`
-
 const StatSection = styled.div``
-const StatContainer = styled.div`
-  margin-top: 1.5rem;
-`
-const StatHeading = styled.div`
-  font-weight: 700;
-  font-size: 1.2rem;
-  color: #ffffff;
-  letter-spacing: -0.33px;
-  line-height: 16px;
-  margin-top: 0.5rem;
-`
-const StatSubtitle = styled.div`
-  margin-top: 0.2rem;
-  color: #ffffff;
-`
-
-const StatIcon = styled.img`
-  height: 2rem;
-  width: 2rem;
-  float: left;
-  margin-right: 0.5rem;
-`
-
-const CardHeading = styled.div`
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #ffffff;
-  letter-spacing: -0.53px;
-  margin-bottom: 1rem;
-`
 
 const ItemLink = styled.a`
   font-weight: 700;
@@ -153,7 +119,10 @@ export default class Post extends React.Component {
   }
   render(){
     const { data } = this.state
-    const { Contact, Party, 'disclosure-costs': cost, Electorate } = data
+    const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, Electorate } = data
+    const campaignData = rawCampaignData ? rawCampaignData : {'total-donations': 'Loading...', 'total-expenses': 'Loading...'}
+    const costHeadings = cost ? Object.keys(cost) : ['Loading...']
+    const costValues = cost ? Object.values(cost) : [{'accommodation-cost': 'Loading...', 'travel-cost': 'Loading...', 'total-cost': 'Loading...'}]
     const location = Electorate ? Electorate : 'List MP'
     const imageURL = Contact ? `/static/${Contact.replace(/\s/g, "")}.jpg` : 'http://lorempixel.com/120/120/people/'
     return (
@@ -183,35 +152,13 @@ export default class Post extends React.Component {
           </HeaderContainer>
         </Header>
         <BodyGrid>
-          <ContentCard>
-            <CardHeading>Available Data</CardHeading>
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-  
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-            <StatContainer>
-              <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <ItemLink href='#'>
-                Company directorships and controlling interests
-              </ItemLink>
-            </StatContainer>
-          </ContentCard>
+          <AvailableData currentMPData={this.state.data}/>
           <StatSection>
+            <PecuniaryCard 
+              heading="This is a heading"
+              pecuniaryData={["Data 1", "Data 2", "Fish"]}
+              imgSrc='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'
+            />
             <InfoCard>
               <CardHeading>
                 Company directorships and controlling interests
@@ -232,29 +179,18 @@ export default class Post extends React.Component {
             </InfoCard>
   
             <AccountingColumns>
-              <InfoCard>
-                <CardHeading>Stat 2</CardHeading>
-                <Table.Body>
-                  <Table.Head>
-                    <Table.TextCell flexBasis={240} flexGrow={0}>
-                      <strong>Donor</strong>
-                    </Table.TextCell>
-                    <Table.TextCell rightView>
-                      <strong> Flex me col 2</strong>
-                    </Table.TextCell>
-                 
-                  </Table.Head>
-                  <Table.Body>
-                    <Table.Row>
-                      <Table.TextCell flexBasis={240} flexGrow={0}>
-                        Fixed width
-                      </Table.TextCell >
-                      <Table.TextCell rightView>Flex me col 2</Table.TextCell>
-            
-                    </Table.Row>
-                  </Table.Body>
-                </Table.Body>
-              </InfoCard>
+              
+              <CampaignDonationsCard 
+                heading = "2017 Campaign Data"
+                totalDonations = {campaignData["total-donations"]}
+                totalExpenses = {campaignData["total-expenses"]}
+              />
+              <ExpenseDisclosureCard 
+                heading = {costHeadings[0]}
+                accomodationCost = {costValues[0]['accommodation-cost']}
+                travelCost = {costValues[0]['travel-cost']}
+                totalCost = {costValues[0]['total-cost']}
+              />
               <InfoCard>
                 <CardHeading>Stat 2</CardHeading>
                 <Table.Body>
