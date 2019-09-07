@@ -1,8 +1,10 @@
+import React, { Components } from 'react'
 import { useRouter } from 'next/router'
 import { Table } from 'evergreen-ui'
 import styled from 'styled-components'
 import Page from '../../components/pages'
 import ExpensesComponent from '../../components/expensesComponent'
+import CompanyDirectorShip from '../../components/CompanyDirectorShip'
 
 const Header = styled.header`
   width: 100vw;
@@ -133,141 +135,160 @@ const AccountingColumns = styled.div`
   gap: 2rem;
 `
 
-export default function Post () {
-  const router = useRouter()
+export default class Post extends React.Component {
 
-  return (
-    <Page>
-      <Header>
-        <HeaderContainer>
-          <PoliticianImage src='http://lorempixel.com/120/120/people/' />
-          <PoliticianContainer>
-            <NameH1>Legitimate Name</NameH1>
-            <PoliticianStatContainer>
-              <PoliticianStat>
-                <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
-                <PoliticianStatText>Labour Party</PoliticianStatText>
-              </PoliticianStat>
-              <PoliticianStat>
-                <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
-                <PoliticianStatText>Auckland Central</PoliticianStatText>
-              </PoliticianStat>
-              <PoliticianStat>
-                <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
-                <PoliticianStatText>
-                  2016 - Present ( 4 years, 12 months )
-                </PoliticianStatText>
-              </PoliticianStat>{' '}
-            </PoliticianStatContainer>
-          </PoliticianContainer>
-        </HeaderContainer>
-      </Header>
-      <BodyGrid>
-        <ContentCard>
-          <CardHeading>Available Data</CardHeading>
-          <StatContainer>
-            <StatIcon src='http://lorempixel.com/32/32/technics/' />
-            <ItemLink href='#'>
-              Company directorships and controlling interests
-            </ItemLink>
-          </StatContainer>
+  constructor(){
+    super()
+    this.state = {
+      data: {}
+    }
+  }
 
-          <StatContainer>
-            <StatIcon src='http://lorempixel.com/32/32/technics/' />
-            <ItemLink href='#'>
-              Company directorships and controlling interests
-            </ItemLink>
-          </StatContainer>
-          <StatContainer>
-            <StatIcon src='http://lorempixel.com/32/32/technics/' />
-            <ItemLink href='#'>
-              Company directorships and controlling interests
-            </ItemLink>
-          </StatContainer>
-          <StatContainer>
-            <StatIcon src='http://lorempixel.com/32/32/technics/' />
-            <ItemLink href='#'>
-              Company directorships and controlling interests
-            </ItemLink>
-          </StatContainer>
-        </ContentCard>
-        <StatSection>
-          <InfoCard>
-            <CardHeading>
-              Company directorships and controlling interests
-            </CardHeading>
+  async componentDidMount(){
+    const response = await fetch('https://hello-politician.s3-ap-southeast-2.amazonaws.com/members-of-parliament-cleaned.json')
+    const data = await response.json()
+    const { id: mpId } =  this.props.url.query
+    const currentMP = data[mpId]
+    this.setState({ data: {...currentMP}})
+  }
+  render(){
+    const { data } = this.state
+    const { Contact, Party, 'disclosure-costs': cost } = data
+    const imageURL = Contact ? `/static/${Contact.replace(/\s/g, "")}.jpg` : 'http://lorempixel.com/120/120/people/'
+    return (
+      <Page>
+        <Header>
+          <HeaderContainer>
+            <PoliticianImage src={imageURL} />
+            <PoliticianContainer>
+              <NameH1>{Contact ? Contact : 'Legitimate Name'}</NameH1>
+              <PoliticianStatContainer>
+                <PoliticianStat>
+                  <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
+                  <PoliticianStatText>{ Party ? Party : 'Freedom'}</PoliticianStatText>
+                </PoliticianStat>
+                <PoliticianStat>
+                  <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
+                  <PoliticianStatText>Auckland Central</PoliticianStatText>
+                </PoliticianStat>
+                <PoliticianStat>
+                  <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
+                  <PoliticianStatText>
+                    2016 - Present ( 4 years, 12 months )
+                  </PoliticianStatText>
+                </PoliticianStat>{' '}
+              </PoliticianStatContainer>
+            </PoliticianContainer>
+          </HeaderContainer>
+        </Header>
+        <BodyGrid>
+          <ContentCard>
+            <CardHeading>Available Data</CardHeading>
             <StatContainer>
               <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <StatHeading>Alliance Group Limited</StatHeading>
-              <StatSubtitle>licensed meat exporters</StatSubtitle>
+              <ItemLink href='#'>
+                Company directorships and controlling interests
+              </ItemLink>
+            </StatContainer>
+  
+            <StatContainer>
+              <StatIcon src='http://lorempixel.com/32/32/technics/' />
+              <ItemLink href='#'>
+                Company directorships and controlling interests
+              </ItemLink>
             </StatContainer>
             <StatContainer>
               <StatIcon src='http://lorempixel.com/32/32/technics/' />
-              <StatHeading>Alliance Group Limited</StatHeading>
-              <StatSubtitle>licensed meat exporters</StatSubtitle>
+              <ItemLink href='#'>
+                Company directorships and controlling interests
+              </ItemLink>
             </StatContainer>
-          </InfoCard>
-          <InfoCard>
-            <CardHeading>Stat 2</CardHeading>
-          </InfoCard>
-
-          <AccountingColumns>
+            <StatContainer>
+              <StatIcon src='http://lorempixel.com/32/32/technics/' />
+              <ItemLink href='#'>
+                Company directorships and controlling interests
+              </ItemLink>
+            </StatContainer>
+          </ContentCard>
+          <StatSection>
             <InfoCard>
-              <CardHeading>Stat 2</CardHeading>
-              <Table.Body>
-                <Table.Head>
-                  <Table.TextCell flexBasis={240} flexGrow={0}>
-                    <strong>Donor</strong>
-                  </Table.TextCell>
-                  <Table.TextCell rightView>
-                    <strong> Flex me col 2</strong>
-                  </Table.TextCell>
-               
-                </Table.Head>
-                <Table.Body>
-                  <Table.Row>
-                    <Table.TextCell flexBasis={240} flexGrow={0}>
-                      Fixed width
-                    </Table.TextCell >
-                    <Table.TextCell rightView>Flex me col 2</Table.TextCell>
-          
-                  </Table.Row>
-                </Table.Body>
-              </Table.Body>
+              <CardHeading>
+                Company directorships and controlling interests
+              </CardHeading>
+              <StatContainer>
+                <StatIcon src='http://lorempixel.com/32/32/technics/' />
+                <StatHeading>Alliance Group Limited</StatHeading>
+                <StatSubtitle>licensed meat exporters</StatSubtitle>
+              </StatContainer>
+              <StatContainer>
+                <StatIcon src='http://lorempixel.com/32/32/technics/' />
+                <StatHeading>Alliance Group Limited</StatHeading>
+                <StatSubtitle>licensed meat exporters</StatSubtitle>
+              </StatContainer>
             </InfoCard>
             <InfoCard>
               <CardHeading>Stat 2</CardHeading>
-              <Table.Body>
-                <Table.Head>
-                  <Table.TextCell flexBasis={240} flexGrow={0}>
-                    <strong>Donor</strong>
-                  </Table.TextCell>
-                  <Table.TextCell rightView>
-                    <strong> Flex me col 2</strong>
-                  </Table.TextCell>
-               
-                </Table.Head>
-                <Table.Body>
-                  <Table.Row>
-                    <Table.TextCell flexBasis={240} flexGrow={0}>
-                      Fixed width
-                    </Table.TextCell >
-                    <Table.TextCell rightView>Flex me col 2</Table.TextCell>
-          
-                  </Table.Row>
-                </Table.Body>
-              </Table.Body>
             </InfoCard>
-          </AccountingColumns>
-          <InfoCard>
-            <CardHeading>Stat 3</CardHeading>
-          </InfoCard>
-          <InfoCard>
-            <CardHeading>Stat 4</CardHeading>
-          </InfoCard>
-        </StatSection>
-      </BodyGrid>
-      <ExpensesComponent />
-    </Page>
-  )
+  
+            <AccountingColumns>
+              <InfoCard>
+                <CardHeading>Stat 2</CardHeading>
+                <Table.Body>
+                  <Table.Head>
+                    <Table.TextCell flexBasis={240} flexGrow={0}>
+                      <strong>Donor</strong>
+                    </Table.TextCell>
+                    <Table.TextCell rightView>
+                      <strong> Flex me col 2</strong>
+                    </Table.TextCell>
+                 
+                  </Table.Head>
+                  <Table.Body>
+                    <Table.Row>
+                      <Table.TextCell flexBasis={240} flexGrow={0}>
+                        Fixed width
+                      </Table.TextCell >
+                      <Table.TextCell rightView>Flex me col 2</Table.TextCell>
+            
+                    </Table.Row>
+                  </Table.Body>
+                </Table.Body>
+              </InfoCard>
+              <InfoCard>
+                <CardHeading>Stat 2</CardHeading>
+                <Table.Body>
+                  <Table.Head>
+                    <Table.TextCell flexBasis={240} flexGrow={0}>
+                      <strong>Donor</strong>
+                    </Table.TextCell>
+                    <Table.TextCell rightView>
+                      <strong> Flex me col 2</strong>
+                    </Table.TextCell>
+                 
+                  </Table.Head>
+                  <Table.Body>
+                    <Table.Row>
+                      <Table.TextCell flexBasis={240} flexGrow={0}>
+                        Fixed width
+                      </Table.TextCell >
+                      <Table.TextCell rightView>Flex me col 2</Table.TextCell>
+            
+                    </Table.Row>
+                  </Table.Body>
+                </Table.Body>
+              </InfoCard>
+            </AccountingColumns>
+            <InfoCard>
+              <CardHeading>Stat 3</CardHeading>
+            </InfoCard>
+            <InfoCard>
+              <CardHeading>Stat 4</CardHeading>
+            </InfoCard>
+          </StatSection>
+        </BodyGrid>
+        <ExpensesComponent />
+        <CompanyDirectorShip parent={this.props}/>
+      </Page>
+    )
+  }
 }
