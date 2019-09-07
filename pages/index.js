@@ -1,5 +1,8 @@
 import React from 'react'
+<<<<<<< HEAD
+=======
 
+>>>>>>> bb05ac7baac82e3eb6064a18328dc55adaf3ec00
 import Page from '../components/pages'
 import styled from 'styled-components';
 import MembersOfParliamentButton from '../components/membersOfParliamentButton';
@@ -9,7 +12,7 @@ import Link from 'next/link'
 
 const PageContainer = styled.div`
 margin: 0 auto;
-width: 50rem;
+max-width: 60rem;
 height: 10rem;
 text-align: center;
 `;
@@ -32,12 +35,22 @@ const Index = () => (
     <p>lol come see what monies they have, what properties and assets they own and who they owe da monies to</p>
   <p>aaaa</p>
     
-   <PersonCard name="jajajajaja" />
+    <div>
+        <h2>Helen Clark</h2>
+        <p>2014-2018</p>
+    </div>
 
+<<<<<<< HEAD
+    <div>
+        <h2>Helen Clark</h2>
+        <p>2014-2018</p>
+    </div>
+=======
     <button variant='primary'>Primary</button>
     <button variant="flat" size="xxl">
     View Source
   </button>
+>>>>>>> bb05ac7baac82e3eb6064a18328dc55adaf3ec00
   <MembersOfParliamentButton/>
   <PopulatedMPList/>
   </PageContainer>
