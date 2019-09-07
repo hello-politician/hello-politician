@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 
 const ContentCard = styled.div`
@@ -31,15 +31,46 @@ const ItemLink = styled.a`
   color: #ded7ff;
   margin-bottom: 1rem;
 `
-export class AvailableData extends React.Component {
+
+const dataCategory = [ 'Company directorships and controlling interests', 
+  'Other companies and business entities',
+  'Employment',
+  'Beneficial interests in, and trusteeships of, trusts',
+  'Organisations and trusts seeking Government funding',
+  'Real property',
+  'Superannuation schemes',
+  'Investment schemes',
+  'Debtors',
+  'Creditors',
+  'Overseas travel costs',
+  'Gifts',
+  'Discharged debts',
+  'Payments for activities']
+
+const listItem = (data) => {
+  return Object.keys(data).map((key,index) => {
+    if (dataCategory.includes(key)) console.log('Found ', key)
+    return dataCategory.includes(key) && (
+      <StatContainer>
+        <StatIcon src='http://lorempixel.com/32/32/technics/' />
+        <ItemLink href='#'>{key}</ItemLink>
+      </StatContainer>
+    )    
+  })
+}
+export function AvailableData(props) {
     
+   const [MPInfo, setMPInfo] = useState({})
 
-    render() {
-
-        return (
-            <ContentCard>
-
-            </ContentCard>
-        )
-    }
+    useEffect(() => {
+        setMPInfo(props.currentMPData)
+    })
+    const item  = listItem(MPInfo)
+    return (
+        <ContentCard>
+            <CardHeading>Available Data</CardHeading>
+            {item }
+        </ContentCard>
+    )
+    // }
 }
