@@ -10,8 +10,14 @@ def readSeedFile():
 
 def main():
     content = readSeedFile()
+
     content = content.replace('REGISTER OF PECUNIARY AND OTHER SPECIFIED INTERESTS OF MEMBERS OF PARLIAMENT: SUMMARY OF','')
     content = content.replace('ANNUAL RETURNS J. 7','')
+    
+    content = content.encode('utf-8').strip()
+    content = content.replace("^Hon ","")
+    content = content.replace("^Dr ","")
+
     content = content.splitlines()
     index = 0
     fileStream = None
@@ -25,10 +31,20 @@ def main():
             fileStream.write(line + "\n")
             index +=1 
         else :
-            if line.isdigit() or line.strip() == '' : 
-                print("Removed page number")
-            else:
+            if line.isdigit() or line.strip() != '' : 
                 fileStream.write(line+ "\n")
+
+
+    ## read in list of mps/ as json. 
+    ## get the first element, swap the names and get rid of the comma.
+    with open('member.json') as json_data:
+        mpContacts = json.load(json_data)
+        for mp in mpContacts:
+            oldMp = mp['Contact'].split(",")
+            newMp = reversed(oldMp)
+            mp["Contact"] = " ".join(newMp)
+
+
 
     print('Done')
 
