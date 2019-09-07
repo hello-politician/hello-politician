@@ -528,7 +528,14 @@
         "Contact": "Trevor Mallard",
         "Electorate": "",
         "Party": "Labour Party",
-        "id": 58
+        "id": 58,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2016]": {
+                "accommodation-cost": 0,
+                "travel-cost": 6163,
+                "total-cost": 6163
+            }
+        }
     },
     {
         "Parliament Email": "Jennifer.Marcroft@parliament.govt.nz",
@@ -924,7 +931,14 @@
         "Contact": "Anne Tolley",
         "Electorate": "East Coast",
         "Party": "National Party",
-        "id": 102
+        "id": 102,
+        "disclosure-costs": {
+            "[Members Expense Disclosure - April to June 2016]": {
+                "accommodation-cost": 0,
+                "travel-cost": 1315,
+                "total-cost": 1315
+            }
+        }
     },
     {
         "Parliament Email": "Philip.Twyford@parliament.govt.nz",
