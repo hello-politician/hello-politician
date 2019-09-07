@@ -6,8 +6,9 @@ import Page from '../../components/pages'
 import ExpensesComponent from '../../components/expensesComponent'
 import CompanyDirectorShip from '../../components/CompanyDirectorShip'
 import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
-import {InfoCard, CardHeading} from '../../components/styledComponents/cardStyles'
+import {InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon} from '../../components/styledComponents/cardStyles'
 import CampaignDonationsCard from '../../components/CampaignDonationsCard'
+import PecuniaryCard from '../../components/PecuniaryCards'
 
 const Header = styled.header`
   width: 100vw;
@@ -84,28 +85,6 @@ const ContentCard = styled.div`
 `
 
 const StatSection = styled.div``
-const StatContainer = styled.div`
-  margin-top: 1.5rem;
-`
-const StatHeading = styled.div`
-  font-weight: 700;
-  font-size: 1.2rem;
-  color: #ffffff;
-  letter-spacing: -0.33px;
-  line-height: 16px;
-  margin-top: 0.5rem;
-`
-const StatSubtitle = styled.div`
-  margin-top: 0.2rem;
-  color: #ffffff;
-`
-
-const StatIcon = styled.img`
-  height: 2rem;
-  width: 2rem;
-  float: left;
-  margin-right: 0.5rem;
-`
 
 const ItemLink = styled.a`
   font-weight: 700;
@@ -201,6 +180,11 @@ export default class Post extends React.Component {
             </StatContainer>
           </ContentCard>
           <StatSection>
+            <PecuniaryCard 
+              heading="This is a heading"
+              pecuniaryData={["Data 1", "Data 2", "Fish"]}
+              imgSrc='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'
+            />
             <InfoCard>
               <CardHeading>
                 Company directorships and controlling interests
