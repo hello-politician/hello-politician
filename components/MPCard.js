@@ -125,7 +125,7 @@ const MPCard = ({ mp }) => (
       </div>
       <div>
         <MPName>{mp.Contact}</MPName>
-        <Electorate>{mp.Electorate}</Electorate>
+        <Electorate>{mp.Electorate ? mp.Electorate : 'List MP'}</Electorate>
       </div>
       <FlexDiv>
         <Icon image={`/static/images/${getPartyLogoImageName(mp.Party)}`} />
