@@ -1,46 +1,37 @@
 import React from 'react'
-
 import Page from '../components/pages'
-import styled from 'styled-components';
-import MembersOfParliamentButton from '../components/membersOfParliamentButton';
-import MPList from '../components/MPList';
-import PopulatedMPList from '../components/PopulatedMPList';
+import styled from 'styled-components'
+import MembersOfParliamentButton from '../components/membersOfParliamentButton'
+import MPList from '../components/MPList'
+import PopulatedMPList from '../components/PopulatedMPList'
 import Link from 'next/link'
+import Hero from '../components/Hero'
 
 const PageContainer = styled.div`
-margin: 0 auto;
-width: 50rem;
-height: 10rem;
-text-align: center;
-`;
-
+  margin: 0 auto;
+  width: 60rem;
+  height: 10rem;
+  text-align: center;
+`
 
 const PersonCard = props => (
-    <li><Link href={`/{$props.name}`}>
-        <a>
-            <div>card should go here</div>
-        </a>
-        </Link></li>
+  <li><Link href={`/{$props.name}`}>
+    <a>
+      <div>card should go here</div>
+    </a>
+  </Link></li>
 )
-
 
 const Index = () => (
   <Page>
+      <Hero />
     <PageContainer>
-    <h1>Check out your politicians lol</h1>
-    <p>waldo gives you all the deets on your politicians.</p>
-    <p>lol come see what monies they have, what properties and assets they own and who they owe da monies to</p>
-  <p>aaaa</p>
-    
-   <PersonCard name="jajajajaja" />
 
-    <button variant='primary'>Primary</button>
-    <button variant="flat" size="xxl">
-    View Source
-  </button>
-  <MembersOfParliamentButton/>
-  <PopulatedMPList/>
-  </PageContainer>
+  
+
+      <PopulatedMPList />
+      <MembersOfParliamentButton />
+    </PageContainer>
   </Page>
 )
 
