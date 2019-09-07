@@ -1,0 +1,1082 @@
+[
+    {
+        "Parliament Email": "Amy.Adams@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Selwyn",
+        "Contact": "Amy Adams",
+        "Electorate": "Selwyn",
+        "Party": "National Party",
+        "id": 0
+    },
+    {
+        "Parliament Email": "Kiri.Allan@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Kiri Allan",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 1
+    },
+    {
+        "Parliament Email": "Virginia.Andersen@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Virginia Andersen",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 2
+    },
+    {
+        "Parliament Email": "Jacinda.Ardern@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "Member for Mt Albert",
+        "Contact": "Jacinda Ardern",
+        "Electorate": "Mt Albert",
+        "Party": "Labour Party",
+        "id": 3
+    },
+    {
+        "Parliament Email": "ksb@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Kanwaljit Singh Bakshi",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 4
+    },
+    {
+        "Parliament Email": "Darroch.Ball@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Darroch Ball",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 5
+    },
+    {
+        "Parliament Email": "Maggie.Barry@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for North Shore",
+        "Contact": "Maggie Barry",
+        "Electorate": "North Shore",
+        "Party": "National Party",
+        "id": 6
+    },
+    {
+        "Parliament Email": "Andrew.Bayly@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Hunua",
+        "Contact": "Andrew Bayly",
+        "Electorate": "Hunua",
+        "Party": "National Party",
+        "id": 7
+    },
+    {
+        "Parliament Email": "David.Bennett@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Hamilton East",
+        "Contact": "David Bennett",
+        "Electorate": "Hamilton East",
+        "Party": "National Party",
+        "id": 8
+    },
+    {
+        "Parliament Email": "Paula.Bennett@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Upper Harbour",
+        "Contact": "Paula Bennett",
+        "Electorate": "Upper Harbour",
+        "Party": "National Party",
+        "id": 9
+    },
+    {
+        "Parliament Email": "Dan.Bidois@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Northcote",
+        "Contact": "Daniel Bidois",
+        "Electorate": "Northcote",
+        "Party": "National Party",
+        "id": 10
+    },
+    {
+        "Parliament Email": "Christopher.Bishop@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Hutt South",
+        "Contact": "Christopher Bishop",
+        "Electorate": "Hutt South",
+        "Party": "National Party",
+        "id": 11
+    },
+    {
+        "Parliament Email": "Simon.Bridges@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Tauranga",
+        "Contact": "Simon Bridges",
+        "Electorate": "Tauranga",
+        "Party": "National Party",
+        "id": 12
+    },
+    {
+        "Parliament Email": "Simeon.Brown@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Pakuranga",
+        "Contact": "Simeon Brown",
+        "Electorate": "Pakuranga",
+        "Party": "National Party",
+        "id": 13
+    },
+    {
+        "Parliament Email": "Gerry.Brownlee@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Ilam",
+        "Contact": "Gerry Brownlee",
+        "Electorate": "Ilam",
+        "Party": "National Party",
+        "id": 14
+    },
+    {
+        "Parliament Email": "David.Carter@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "List Member",
+        "Contact": "David Carter",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 15
+    },
+    {
+        "Parliament Email": "David.Clark@parliament.govt.nz",
+        "Salutation/Title": "Hon. Dr.",
+        "Job Title": "Member for Dunedin North",
+        "Contact": "David Clark",
+        "Electorate": "Dunedin North",
+        "Party": "Labour Party",
+        "id": 16
+    },
+    {
+        "Parliament Email": "Tamati.Coffey@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Waiariki",
+        "Contact": "Tamati Coffey",
+        "Electorate": "Waiariki",
+        "Party": "Labour Party",
+        "id": 17
+    },
+    {
+        "Parliament Email": "Judith.Collins@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Papakura",
+        "Contact": "Judith Collins",
+        "Electorate": "Papakura",
+        "Party": "National Party",
+        "id": 18
+    },
+    {
+        "Parliament Email": "Liz.Craig@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "List Member",
+        "Contact": "Elizabeth Craig",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 19
+    },
+    {
+        "Parliament Email": "Clare.Curran@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Dunedin South",
+        "Contact": "Clare Curran",
+        "Electorate": "Dunedin South",
+        "Party": "Labour Party",
+        "id": 20
+    },
+    {
+        "Parliament Email": "Marama.Davidson@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Marama Davidson",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 21
+    },
+    {
+        "Parliament Email": "Kelvin.Davis@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Te Tai Tokerau",
+        "Contact": "Kelvin Davis",
+        "Electorate": "Te Tai Tokerau",
+        "Party": "Labour Party",
+        "id": 22
+    },
+    {
+        "Parliament Email": "Jacqui.Dean@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Waitaki",
+        "Contact": "Jacqui Dean",
+        "Electorate": "Waitaki",
+        "Party": "National Party",
+        "id": 23
+    },
+    {
+        "Parliament Email": "matthew.doocey@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Waimakariri",
+        "Contact": "Matthew Doocey",
+        "Electorate": "Waimakariri",
+        "Party": "National Party",
+        "id": 24
+    },
+    {
+        "Parliament Email": "Sarah.Dowie@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Invercargill",
+        "Contact": "Sarah Dowie",
+        "Electorate": "Invercargill",
+        "Party": "National Party",
+        "id": 25
+    },
+    {
+        "Parliament Email": "Ruth.Dyson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Port Hills",
+        "Contact": "Ruth Dyson",
+        "Electorate": "Port Hills",
+        "Party": "Labour Party",
+        "id": 26
+    },
+    {
+        "Parliament Email": "Paul.Eagle@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Rongotai",
+        "Contact": "Paul Eagle",
+        "Electorate": "Rongotai",
+        "Party": "Labour Party",
+        "id": 27
+    },
+    {
+        "Parliament Email": "kris.faafoi@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Mana",
+        "Contact": "Kris Faafoi",
+        "Electorate": "Mana",
+        "Party": "Labour Party",
+        "id": 28
+    },
+    {
+        "Parliament Email": "Andrew.Falloon@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Rangitata",
+        "Contact": "Andrew Falloon",
+        "Electorate": "Rangitata",
+        "Party": "National Party",
+        "id": 29
+    },
+    {
+        "Parliament Email": "JulieAnne.Genter@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Julie Anne Genter",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 30
+    },
+    {
+        "Parliament Email": "Golriz.Ghahraman@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Golriz Ghahraman",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 31
+    },
+    {
+        "Parliament Email": "Paul.Goldsmith@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Paul Goldsmith",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 32
+    },
+    {
+        "Parliament Email": "Nathan.Guy@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Otaki",
+        "Contact": "Nathan Guy",
+        "Electorate": "Otaki",
+        "Party": "National Party",
+        "id": 33
+    },
+    {
+        "Parliament Email": "Joanne.Hayes@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Joanne Hayes",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 34
+    },
+    {
+        "Parliament Email": "Peeni.Henare@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Tamaki Makaurau",
+        "Contact": "Peeni Henare",
+        "Electorate": "Tamaki Makaurau",
+        "Party": "Labour Party",
+        "id": 35
+    },
+    {
+        "Parliament Email": "Harete.Hipango@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Whanganui",
+        "Contact": "Harete Hipango",
+        "Electorate": "Whanganui",
+        "Party": "National Party",
+        "id": 36
+    },
+    {
+        "Parliament Email": "Chris.Hipkins@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Rimutaka",
+        "Contact": "Chris Hipkins",
+        "Electorate": "Rimutaka",
+        "Party": "Labour Party",
+        "id": 37
+    },
+    {
+        "Parliament Email": "Brett.Hudson@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Brett Hudson",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 38
+    },
+    {
+        "Parliament Email": "gareth.hughes@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Gareth Hughes",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 39
+    },
+    {
+        "Parliament Email": "Raymond.Huo@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Raymond Huo",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 40
+    },
+    {
+        "Parliament Email": "Willie.Jackson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Willie Jackson",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 41
+    },
+    {
+        "Parliament Email": "Shane.Jones@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Shane Jones",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 42
+    },
+    {
+        "Parliament Email": "Anahila.Kanongata'a-Suisuiki@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Anahila Kanongata'a-Suisuiki",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 43
+    },
+    {
+        "Parliament Email": "Nikki.Kaye@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Auckland Central",
+        "Contact": "Nikki Kaye",
+        "Electorate": "Auckland Central",
+        "Party": "National Party",
+        "id": 44
+    },
+    {
+        "Parliament Email": "Matt.King@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Northland",
+        "Contact": "Matt King",
+        "Electorate": "Northland",
+        "Party": "National Party",
+        "id": 45
+    },
+    {
+        "Parliament Email": "Nuk.Korako@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Nuk Korako",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 46
+    },
+    {
+        "Parliament Email": "Barbara.Kuriger@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Taranaki-King Country",
+        "Contact": "Barbara Kuriger",
+        "Electorate": "Taranaki-King Country",
+        "Party": "National Party",
+        "id": 47
+    },
+    {
+        "Parliament Email": "Denise.Lee@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Maungakiekie",
+        "Contact": "Denise Lee",
+        "Electorate": "Maungakiekie",
+        "Party": "National Party",
+        "id": 48
+    },
+    {
+        "Parliament Email": "Melissa.Lee@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Melissa Lee",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 49
+    },
+    {
+        "Parliament Email": "Iain.Lees-Galloway@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Palmerston North",
+        "Contact": "Iain Lees-Galloway",
+        "Electorate": "Palmerston North",
+        "Party": "Labour Party",
+        "id": 50
+    },
+    {
+        "Parliament Email": "Andrew.Little@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Andrew Little",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 51
+    },
+    {
+        "Parliament Email": "Jan.Logie@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Jan Logie",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 52
+    },
+    {
+        "Parliament Email": "Agnes.Loheni@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Agnes Loheni",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 53
+    },
+    {
+        "Parliament Email": "Maria.Lubeck@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Maria Lubeck",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 54
+    },
+    {
+        "Parliament Email": "Jo.Luxton@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Jo Luxton",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 55
+    },
+    {
+        "Parliament Email": "Tim.Macindoe@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Hamilton West",
+        "Contact": "Tim Macindoe",
+        "Electorate": "Hamilton West",
+        "Party": "National Party",
+        "id": 56
+    },
+    {
+        "Parliament Email": "Nanaia.Mahuta@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Hauraki-Waikato",
+        "Contact": "Nanaia Mahuta",
+        "Electorate": "Hauraki-Waikato",
+        "Party": "Labour Party",
+        "id": 57
+    },
+    {
+        "Parliament Email": "Trevor.Mallard@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "List Member",
+        "Contact": "Trevor Mallard",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 58
+    },
+    {
+        "Parliament Email": "Jennifer.Marcroft@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Jennifer Marcroft",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 59
+    },
+    {
+        "Parliament Email": "Ron.Mark@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Ron Mark",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 60
+    },
+    {
+        "Parliament Email": "Tracey.Martin@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Tracey Martin",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 61
+    },
+    {
+        "Parliament Email": "Kieran.McAnulty@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Kieran McAnulty",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 62
+    },
+    {
+        "Parliament Email": "Todd.McClay@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Rotorua",
+        "Contact": "Todd McClay",
+        "Electorate": "Rotorua",
+        "Party": "National Party",
+        "id": 63
+    },
+    {
+        "Parliament Email": "Ian.Mckelvie@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Rangitikei",
+        "Contact": "Ian McKelvie",
+        "Electorate": "Rangitikei",
+        "Party": "National Party",
+        "id": 64
+    },
+    {
+        "Parliament Email": "Clayton.Mitchell@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Clayton Mitchell",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 65
+    },
+    {
+        "Parliament Email": "Mark.Mitchell@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Rodney",
+        "Contact": "Mark Mitchell",
+        "Electorate": "Rodney",
+        "Party": "National Party",
+        "id": 66
+    },
+    {
+        "Parliament Email": "Todd.Muller@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Bay of Plenty",
+        "Contact": "Todd Muller",
+        "Electorate": "Bay of Plenty",
+        "Party": "National Party",
+        "id": 67
+    },
+    {
+        "Parliament Email": "Stuart.Nash@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Napier",
+        "Contact": "Stuart Nash",
+        "Electorate": "Napier",
+        "Party": "Labour Party",
+        "id": 68
+    },
+    {
+        "Parliament Email": "Alfred.Ngaro@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Alfred Ngaro",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 69
+    },
+    {
+        "Parliament Email": "Damien.O'Connor@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for West Coast-Tasman",
+        "Contact": "Damien O'Connor",
+        "Electorate": "West Coast-Tasman",
+        "Party": "Labour Party",
+        "id": 70
+    },
+    {
+        "Parliament Email": "greg.oconnor@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Ohariu",
+        "Contact": "Gregory O'Connor",
+        "Electorate": "Ohariu",
+        "Party": "Labour Party",
+        "id": 71
+    },
+    {
+        "Parliament Email": "simon.oconnor@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Tamaki",
+        "Contact": "Simon O'Connor",
+        "Electorate": "Tamaki",
+        "Party": "National Party",
+        "id": 72
+    },
+    {
+        "Parliament Email": "David.Parker@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "David Parker",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 73
+    },
+    {
+        "Parliament Email": "Parmjeet.Parmar@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "List Member",
+        "Contact": "Parmjeet Parmar",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 74
+    },
+    {
+        "Parliament Email": "Mark.Patterson@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Mark Patterson",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 75
+    },
+    {
+        "Parliament Email": "chris.penk@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Helensville",
+        "Contact": "Chris Penk",
+        "Electorate": "Helensville",
+        "Party": "National Party",
+        "id": 76
+    },
+    {
+        "Parliament Email": "Winston.Peters@parliament.govt.nz",
+        "Salutation/Title": "Rt. Hon.",
+        "Job Title": "List Member",
+        "Contact": "Winston Peters",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 77
+    },
+    {
+        "Parliament Email": "Willow-Jean.Prime@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Willow-Jean Prime",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 78
+    },
+    {
+        "Parliament Email": "Maureen.Pugh@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Maureen Pugh",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 79
+    },
+    {
+        "Parliament Email": "Priyanca.Radhakrishnan@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Priyanca Radhakrishnan",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 80
+    },
+    {
+        "Parliament Email": "Shane.Reti@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "Member for Whangarei",
+        "Contact": "Shane Reti",
+        "Electorate": "Whangarei",
+        "Party": "National Party",
+        "id": 81
+    },
+    {
+        "Parliament Email": "Grant.Robertson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Wellington Central",
+        "Contact": "Grant Robertson",
+        "Electorate": "Wellington Central",
+        "Party": "Labour Party",
+        "id": 82
+    },
+    {
+        "Parliament Email": "Jami-Lee.Ross@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Botany",
+        "Contact": "Jami-Lee Ross",
+        "Electorate": "Botany",
+        "Party": "Independent",
+        "id": 83
+    },
+    {
+        "Parliament Email": "Adrian.Rurawhe@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Te Tai Hauauru",
+        "Contact": "Adrian Rurawhe",
+        "Electorate": "Te Tai Hauauru",
+        "Party": "Labour Party",
+        "id": 84
+    },
+    {
+        "Parliament Email": "Deborah.Russell@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "Member for New Lynn",
+        "Contact": "Deborah Russell",
+        "Electorate": "New Lynn",
+        "Party": "Labour Party",
+        "id": 85
+    },
+    {
+        "Parliament Email": "Eugenie.Sage@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Eugenie Sage",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 86
+    },
+    {
+        "Parliament Email": "Jenny.Salesa@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Manukau East",
+        "Contact": "Jenny Salesa",
+        "Electorate": "Manukau East",
+        "Party": "Labour Party",
+        "id": 87
+    },
+    {
+        "Parliament Email": "Alastair.Scott@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Wairarapa",
+        "Contact": "Alastair Scott",
+        "Electorate": "Wairarapa",
+        "Party": "National Party",
+        "id": 88
+    },
+    {
+        "Parliament Email": "Carmel.Sepuloni@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Kelston",
+        "Contact": "Carmel Sepuloni",
+        "Electorate": "Kelston",
+        "Party": "Labour Party",
+        "id": 89
+    },
+    {
+        "Parliament Email": "David.Seymour@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Epsom",
+        "Contact": "David Seymour",
+        "Electorate": "Epsom",
+        "Party": "ACT New Zealand",
+        "id": 90
+    },
+    {
+        "Parliament Email": "James.Shaw@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "James Shaw",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 91
+    },
+    {
+        "Parliament Email": "Scott.Simpson@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Coromandel",
+        "Contact": "Scott Simpson",
+        "Electorate": "Coromandel",
+        "Party": "National Party",
+        "id": 92
+    },
+    {
+        "Parliament Email": "Aupito.william.sio@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Mangere",
+        "Contact": "Aupito William Sio",
+        "Electorate": "Mangere",
+        "Party": "Labour Party",
+        "id": 93
+    },
+    {
+        "Parliament Email": "Nick.Smith@parliament.govt.nz",
+        "Salutation/Title": "Hon. Dr.",
+        "Job Title": "Member for Nelson",
+        "Contact": "Nick Smith",
+        "Electorate": "Nelson",
+        "Party": "National Party",
+        "id": 94
+    },
+    {
+        "Parliament Email": "Stuart.Smith@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Kaikoura",
+        "Contact": "Stuart Smith",
+        "Electorate": "Kaikoura",
+        "Party": "National Party",
+        "id": 95
+    },
+    {
+        "Parliament Email": "erica.stanford@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for East Coast Bays",
+        "Contact": "Erica Stanford",
+        "Electorate": "East Coast Bays",
+        "Party": "National Party",
+        "id": 96
+    },
+    {
+        "Parliament Email": "Jamie.Strange@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Jamie Strange",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 97
+    },
+    {
+        "Parliament Email": "Chloe.Swarbrick@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Chloe Swarbrick",
+        "Electorate": "",
+        "Party": "Green Party",
+        "id": 98
+    },
+    {
+        "Parliament Email": "Fletcher.Tabuteau@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Fletcher Tabuteau",
+        "Electorate": "",
+        "Party": "NZ First",
+        "id": 99
+    },
+    {
+        "Parliament Email": "Jan.Tinetti@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Jan Tinetti",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 100
+    },
+    {
+        "Parliament Email": "Rino.Tirikatene@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Te Tai Tonga",
+        "Contact": "Rino Tirikatene",
+        "Electorate": "Te Tai Tonga",
+        "Party": "Labour Party",
+        "id": 101
+    },
+    {
+        "Parliament Email": "Anne.Tolley@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for East Coast",
+        "Contact": "Anne Tolley",
+        "Electorate": "East Coast",
+        "Party": "National Party",
+        "id": 102
+    },
+    {
+        "Parliament Email": "Philip.Twyford@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Te Atatu",
+        "Contact": "Philip Twyford",
+        "Electorate": "Te Atatu",
+        "Party": "Labour Party",
+        "id": 103
+    },
+    {
+        "Parliament Email": "Louise.Upston@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Taupo",
+        "Contact": "Louise Upston",
+        "Electorate": "Taupo",
+        "Party": "National Party",
+        "id": 104
+    },
+    {
+        "Parliament Email": "Tim.vandeMolen@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Waikato",
+        "Contact": "Timothy van de Molen",
+        "Electorate": "Waikato",
+        "Party": "National Party",
+        "id": 105
+    },
+    {
+        "Parliament Email": "Nicky.Wagner@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Nicky Wagner",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 106
+    },
+    {
+        "Parliament Email": "Hamish.Walker@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Clutha-Southland",
+        "Contact": "Hamish Walker",
+        "Electorate": "Clutha-Southland",
+        "Party": "National Party",
+        "id": 107
+    },
+    {
+        "Parliament Email": "Louisa.Wall@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Manurewa",
+        "Contact": "Louisa Wall",
+        "Electorate": "Manurewa",
+        "Party": "Labour Party",
+        "id": 108
+    },
+    {
+        "Parliament Email": "Angie.Warren-Clark@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Angie Warren-Clark",
+        "Electorate": "",
+        "Party": "Labour Party",
+        "id": 109
+    },
+    {
+        "Parliament Email": "Duncan.Webb@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "Member for Christchurch Central",
+        "Contact": "Duncan Webb",
+        "Electorate": "Christchurch Central",
+        "Party": "Labour Party",
+        "id": 110
+    },
+    {
+        "Parliament Email": "Meka.Whaitiri@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "Member for Ikaroa-Rawhiti",
+        "Contact": "Meka Whaitiri",
+        "Electorate": "Ikaroa-Rawhiti",
+        "Party": "Labour Party",
+        "id": 111
+    },
+    {
+        "Parliament Email": "poto.williams@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Christchurch East",
+        "Contact": "Poto Williams",
+        "Electorate": "Christchurch East",
+        "Party": "Labour Party",
+        "id": 112
+    },
+    {
+        "Parliament Email": "Nicola.Willis@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "List Member",
+        "Contact": "Nicola Willis",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 113
+    },
+    {
+        "Parliament Email": "Michael.Wood@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Mt Roskill",
+        "Contact": "Michael Wood",
+        "Electorate": "Mt Roskill",
+        "Party": "Labour Party",
+        "id": 114
+    },
+    {
+        "Parliament Email": "Michael.Woodhouse@parliament.govt.nz",
+        "Salutation/Title": "Hon",
+        "Job Title": "List Member",
+        "Contact": "Michael Woodhouse",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 115
+    },
+    {
+        "Parliament Email": "Megan.Woods@parliament.govt.nz",
+        "Salutation/Title": "Hon. Dr.",
+        "Job Title": "Member for Wigram",
+        "Contact": "Megan Woods",
+        "Electorate": "Wigram",
+        "Party": "Labour Party",
+        "id": 116
+    },
+    {
+        "Parliament Email": "Jian.Yang@parliament.govt.nz",
+        "Salutation/Title": "Dr.",
+        "Job Title": "List Member",
+        "Contact": "Jian Yang",
+        "Electorate": "",
+        "Party": "National Party",
+        "id": 117
+    },
+    {
+        "Parliament Email": "Jonathan.Young@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for New Plymouth",
+        "Contact": "Jonathan Young",
+        "Electorate": "New Plymouth",
+        "Party": "National Party",
+        "id": 118
+    },
+    {
+        "Parliament Email": "Lawrence.Yule@parliament.govt.nz",
+        "Salutation/Title": "",
+        "Job Title": "Member for Tukituki",
+        "Contact": "Lawrence Yule",
+        "Electorate": "Tukituki",
+        "Party": "National Party",
+        "id": 119
+    }
+]
