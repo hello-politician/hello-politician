@@ -153,7 +153,8 @@ export default class Post extends React.Component {
   }
   render(){
     const { data } = this.state
-    const { Contact, Party, 'disclosure-costs': cost } = data
+    const { Contact, Party, 'disclosure-costs': cost, Electorate } = data
+    const location = Electorate ? Electorate : 'List MP'
     const imageURL = Contact ? `/static/${Contact.replace(/\s/g, "")}.jpg` : 'http://lorempixel.com/120/120/people/'
     return (
       <Page>
@@ -169,7 +170,7 @@ export default class Post extends React.Component {
                 </PoliticianStat>
                 <PoliticianStat>
                   <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
-                  <PoliticianStatText>Auckland Central</PoliticianStatText>
+                  <PoliticianStatText>{location}</PoliticianStatText>
                 </PoliticianStat>
                 <PoliticianStat>
                   <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
