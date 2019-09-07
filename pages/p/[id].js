@@ -37,8 +37,16 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr 1fr;
 gap: 1rem;
 `
+const PoliticianStat = styled.div`
 
+`
 
+const PoliticianStatImage = styled.img`
+height: 100%;
+`
+const PoliticianStatText = styled.p`
+
+`
 const NameH1 = styled.h1`
   font-size: 40px;
   color: #ffffff;
@@ -57,7 +65,9 @@ export default function Post () {
           <PoliticianContainer>
             <NameH1>Legitimate Name</NameH1>
             <PoliticianStatContainer>
-            <p>aaa</p><p>aaa</p><p>aaa</p>
+            <PoliticianStat>
+                <PoliticianStatImage src='../assets/labour.png' /> <PoliticianStatText>aaaa</PoliticianStatText>
+            </PoliticianStat>
             </PoliticianStatContainer>
           </PoliticianContainer>
         </HeaderContainer>
