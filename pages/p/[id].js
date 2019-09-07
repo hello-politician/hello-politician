@@ -7,6 +7,7 @@ import ExpensesComponent from '../../components/expensesComponent'
 import CompanyDirectorShip from '../../components/CompanyDirectorShip'
 import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
 import {InfoCard, CardHeading} from '../../components/styledComponents/cardStyles'
+import CampaignDonationsCard from '../../components/CampaignDonationsCard'
 
 const Header = styled.header`
   width: 100vw;
@@ -138,7 +139,8 @@ export default class Post extends React.Component {
   }
   render(){
     const { data } = this.state
-    const { Contact, Party, 'disclosure-costs': cost, Electorate } = data
+    const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, Electorate } = data
+    const campaignData = rawCampaignData ? rawCampaignData : {'total-donations': 'Loading...', 'total-expenses': 'Loading...'}
     const costHeadings = cost ? Object.keys(cost) : ['Loading...']
     const costValues = cost ? Object.values(cost) : [{'accommodation-cost': 'Loading...', 'travel-cost': 'Loading...', 'total-cost': 'Loading...'}]
     const location = Electorate ? Electorate : 'List MP'
@@ -219,6 +221,18 @@ export default class Post extends React.Component {
             </InfoCard>
   
             <AccountingColumns>
+              
+              <CampaignDonationsCard 
+                heading = "2017 Campaign Data"
+                totalDonations = {campaignData["total-donations"]}
+                totalExpenses = {campaignData["total-expenses"]}
+              />
+              <ExpenseDisclosureCard 
+                heading = {costHeadings[0]}
+                accomodationCost = {costValues[0]['accommodation-cost']}
+                travelCost = {costValues[0]['travel-cost']}
+                totalCost = {costValues[0]['total-cost']}
+              />
               <InfoCard>
                 <CardHeading>Stat 2</CardHeading>
                 <Table.Body>
@@ -242,12 +256,6 @@ export default class Post extends React.Component {
                   </Table.Body>
                 </Table.Body>
               </InfoCard>
-              <ExpenseDisclosureCard 
-              heading = {costHeadings[0]}
-              accomodationCost = {costValues[0]['accommodation-cost']}
-              travelCost = {costValues[0]['travel-cost']}
-              totalCost = {costValues[0]['total-cost']}
-              />
             </AccountingColumns>
             <InfoCard>
               <CardHeading>Stat 3</CardHeading>
