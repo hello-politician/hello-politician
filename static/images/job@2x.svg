@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>job@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="job" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="taxi-wave-businessman" transform="translate(2.000000, 0.000000)"></g>
+        <g id="Group-12">
+            <circle id="Oval" cx="16" cy="16" r="16"></circle>
+            <circle id="Oval" stroke="#FFBEFD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="16.75" cy="7.375" r="2.625"></circle>
+            <path d="M19,22.75 L19,22 C19,20.7573593 20.0073593,19.75 21.25,19.75 C22.4926407,19.75 23.5,20.7573593 23.5,22 L23.5,22.75" id="Path" stroke="#FFBEFD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M16.75,27.25 L16.75,23.5 C16.75,23.0857864 17.0857864,22.75 17.5,22.75 L25,22.75 C25.4142136,22.75 25.75,23.0857864 25.75,23.5 L25.75,27.25" id="Path" stroke="#FFBEFD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M13.75,27.25 L13.75,15.25 L6.632,7.25 C6.24902472,6.85431391 6.11365064,6.2805946 6.27934662,5.75544473 C6.4450426,5.23029486 6.8851652,4.83815702 7.42587864,4.73391441 C7.96659208,4.6296718 8.52095117,4.83008632 8.87,5.256 L13.528,10.493 C14.0972329,11.1334396 14.9131517,11.4999117 15.77,11.5 L18.25,11.5 C20.7352814,11.5 22.75,13.5147186 22.75,16 L22.75,18.25 C22.75,19.0784271 22.0784271,19.75 21.25,19.75 C20.4215729,19.75 19.75,19.0784271 19.75,18.25 L19.75,16" id="Path" stroke="#FFBEFD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

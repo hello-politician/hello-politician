@@ -141,9 +141,9 @@ export default class Post extends React.Component {
         pecuniaryData[key] = data[key]
       }
     }
-    const campaignData = rawCampaignData ? rawCampaignData : { 'total-donations': 'Loading...', 'total-expenses': 'Loading...' }
-    const costHeadings = cost ? Object.keys(cost) : ['Loading...']
-    const costValues = cost ? Object.values(cost) : [{ 'accommodation-cost': 'Loading...', 'travel-cost': 'Loading...', 'total-cost': 'Loading...' }]
+    const campaignData = rawCampaignData ? rawCampaignData : { 'total-donations': 'Not Found', 'total-expenses': 'Not Found' }
+    const costHeadings = cost ? Object.keys(cost) : ['Expense Disclosure Data']
+    const costValues = cost ? Object.values(cost) : [{ 'accommodation-cost': 'Not Found', 'travel-cost': 'Not Found', 'total-cost': 'Not Found' }]
     const location = Electorate ? Electorate : 'List MP'
     const imageURL = Contact ? `/static/${Contact.replace(/\s/g, "")}.jpg` : 'http://lorempixel.com/120/120/people/'
     return (
@@ -187,6 +187,7 @@ export default class Post extends React.Component {
               })
             }
             <AccountingColumns>
+
               <CampaignDonationsCard
                 heading="2017 Campaign Data"
                 totalDonations={campaignData["total-donations"]}
