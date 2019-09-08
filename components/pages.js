@@ -42,12 +42,7 @@ const Page = ({ children }) => (
           background-color: inherit;
       }
     `}</style>
-
-    <script src='https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js' />
-    <link
-      rel='stylesheet'
-      href='https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'
-    />
+    
     <link href="https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,700&display=swap" rel="stylesheet" /> 
 
     <PageContainer>{children}</PageContainer>
