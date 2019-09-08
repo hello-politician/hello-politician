@@ -117,7 +117,9 @@ const getImageName = arr => str => {
 
 const getPartyLogoImageName = getImageName(partyLogos);
 
-const MPCard = ({ mp }) => (
+const MPCard = ({ mp }) => {
+console.log(mp)
+return (
   <Link href="/p/[id]" as={`/p/${mp.id}`}><a>
     <Card>
       <div>
@@ -133,11 +135,16 @@ const MPCard = ({ mp }) => (
       </FlexDiv>
       <FlexDiv>
         <Icon image="/static/images/clock.svg" />
-        <TimeServed>2016 - Present 4 years, 12 months</TimeServed>
+        <TimeServed>
+          Date Elected
+          <br/>
+          {mp['date-elected'] ? mp['date-elected'] : "Data unavailable"}
+        </TimeServed>
       </FlexDiv>
     </Card>
   </a>
   </Link>
 );
+}
 
 export default MPCard;

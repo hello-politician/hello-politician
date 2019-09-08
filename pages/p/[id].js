@@ -142,7 +142,7 @@ export default class Post extends React.Component {
   }
   render() {
     const { data } = this.state
-    const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, Electorate } = data
+    const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, 'date-elected': dateElected, Electorate } = data
     const pecuniaryDataKeys = [
       'Company directorships and controlling interests',
       'Other companies and business entities',
@@ -190,7 +190,7 @@ export default class Post extends React.Component {
                 <PoliticianStat>
                   <PoliticianStatImage src={TimeLogo} />{' '}
                   <PoliticianStatText>
-                    2016 - Present ( 4 years, 12 months )
+                    {dateElected ? "Elected: " + dateElected : "Date Elected Unavailable"}
                   </PoliticianStatText>
                 </PoliticianStat>{' '}
               </PoliticianStatContainer>
