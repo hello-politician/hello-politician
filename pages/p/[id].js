@@ -165,7 +165,7 @@ export default class Post extends React.Component {
         pecuniaryData[key] = data[key]
       }
     }
-    const campaignData = rawCampaignData ? rawCampaignData : { 'total-donations': 'Not Found', 'total-expenses': 'Not Found' }
+    const campaignData = rawCampaignData ? rawCampaignData : { 'total-donations': 'Not Found', 'total-expenses': 'Not Found', 'individual-donations': {} }
     const costHeadings = cost ? Object.keys(cost) : ['Expense Disclosure Data']
     const costValues = cost ? Object.values(cost) : [{ 'accommodation-cost': 'Not Found', 'travel-cost': 'Not Found', 'total-cost': 'Not Found' }]
     const location = Electorate ? Electorate : 'List MP'
@@ -210,20 +210,18 @@ export default class Post extends React.Component {
                 )
               })
             }
-            <AccountingColumns>
-
-              <CampaignDonationsCard
-                heading="2017 Campaign Data"
-                totalDonations={campaignData["total-donations"]}
-                totalExpenses={campaignData["total-expenses"]}
-              />
-              <ExpenseDisclosureCard
-                heading={costHeadings[0]}
-                accomodationCost={costValues[0]['accommodation-cost']}
-                travelCost={costValues[0]['travel-cost']}
-                totalCost={costValues[0]['total-cost']}
-              />
-            </AccountingColumns>
+            <CampaignDonationsCard
+              heading="2017 Campaign Data"
+              totalDonations={campaignData["total-donations"]}
+              totalExpenses={campaignData["total-expenses"]}
+              individualDonations={campaignData["individual-donations"]}
+            />
+            <ExpenseDisclosureCard
+              heading={costHeadings[0]}
+              accomodationCost={costValues[0]['accommodation-cost']}
+              travelCost={costValues[0]['travel-cost']}
+              totalCost={costValues[0]['total-cost']}
+            />
           </StatSection>
         </BodyGrid>
       </Page>
