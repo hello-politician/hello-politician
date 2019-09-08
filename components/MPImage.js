@@ -8,8 +8,7 @@ const CardImg = styled.div`
   background: ${({ image }) => `url(${image}) no-repeat`};
   background-size: cover;
   border-radius: 5px;
-  margin: -8px 0;
-`;
+  margin: -8px 0;`
 
 export default class MPImage extends React.Component{
   calculateImageName() {

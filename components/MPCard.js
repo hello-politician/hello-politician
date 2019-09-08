@@ -43,7 +43,7 @@ const Electorate = styled.h3`
 
 const Party = styled.h3`
   height: 40px;
-  width: 130px;
+  width: 100px;
   color: #ffffff;
   font-size: 0.8rem;
   font-weight: bold;
@@ -70,7 +70,7 @@ const FlexDiv = styled.div`
 `;
 
 const TimeServed = styled.h3`
-  width: 130px;
+  width: 100px;
   color: #ffffff;
   text-align: left;
   font-size: 0.8rem;
@@ -88,8 +88,8 @@ const Icon = styled.div`
   background: ${({ image }) => `url(${image}) no-repeat`};
   background-size: cover;
   border-radius: 50%;
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
 `;
 
 const ClockIcon = styled.div`
