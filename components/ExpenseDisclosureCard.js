@@ -9,7 +9,7 @@ export default class ExpenseDisclosureCard extends React.Component {
         <CardHeading>{this.props.heading}</CardHeading>
         <Table.Body>
           <Table.Head>
-            <Table.TextCell flexBasis={240} flexGrow={0}>
+            <Table.TextCell flexBasis={240}>
               <strong><p style={{ fontSize: '1.2rem', color: 'white' }}>Item</p></strong>
             </Table.TextCell>
             <Table.TextCell rightView>
@@ -18,19 +18,19 @@ export default class ExpenseDisclosureCard extends React.Component {
           </Table.Head>
           <Table.Body>
             <Table.Row>
-              <Table.TextCell flexBasis={240} flexGrow={0}>
+              <Table.TextCell flexBasis={240}>
                 <p style={{ fontSize: '1rem', color: 'white' }}>Accomodation</p>
               </Table.TextCell>
               <Table.TextCell rightView><p style={{ fontSize: '1rem', color: 'white' }}>{this.props.accomodationCost}</p></Table.TextCell>
             </Table.Row>
             <Table.Row>
-              <Table.TextCell flexBasis={240} flexGrow={0}>
+              <Table.TextCell flexBasis={240}>
                 <p style={{ fontSize: '1rem', color: 'white' }}>Travel</p>
               </Table.TextCell>
               <Table.TextCell rightView><p style={{ fontSize: '1rem', color: 'white' }}>{this.props.travelCost}</p></Table.TextCell>
             </Table.Row>
             <Table.Row>
-              <Table.TextCell flexBasis={240} flexGrow={0}>
+              <Table.TextCell flexBasis={240}>
                 <p style={{ fontSize: '1rem', color: 'white' }}>Total</p>
               </Table.TextCell>
               <Table.TextCell rightView><p style={{ fontSize: '1rem', color: 'white' }}>{this.props.totalCost}</p></Table.TextCell>

@@ -6,8 +6,14 @@ const Card = styled.div`
   flex-wrap: wrap;
   border-radius: 8px;
   background-color: #2d3341;
-  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.35);
   margin: 30px 0;
+
+  :hover {
+    box-shadow: 2px 2px 32px 0 rgba(0,0,0,0.5);
+    transform: translateX(4px);
+    transition: all 0.4s ease;
+  }
 `;
 
 const MPName = styled.h2`
