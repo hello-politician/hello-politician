@@ -30,6 +30,7 @@ const Page = ({ children }) => (
     <style jsx global>{`
       body { 
         margin: 0;
+        font-family: "Red Hat Display", sans-serif;
       
       }
 
