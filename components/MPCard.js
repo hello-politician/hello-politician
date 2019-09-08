@@ -1,6 +1,5 @@
 import styled from "styled-components";
-import MPImage from './MPImage'
-import Link from 'next/link'
+import Link from "next/link";
 const Card = styled.div`
   display: flex;
   flex-wrap: wrap;
@@ -98,11 +97,11 @@ const Icon = styled.div`
   width: 30px;
 `;
 
-const ClockIcon = styled.div`
-  background: ${({ image }) => `url(${image}) no-repeat`};
-  background-size: cover;
-  height: 30px;
-  width: 30px;
+const CardImg = styled.img`
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+  margin: -8px 0;
 `;
 
 const partyLogos = [
@@ -117,40 +116,46 @@ const partyLogos = [
 const getImageName = arr => str => {
   if (str) {
     const result = arr.find(e => e.party.includes(str));
-    return result ? result.fileName : 'indepentent.png'
+    return result ? result.fileName : "indepentent.png";
   }
 };
 
 const getPartyLogoImageName = getImageName(partyLogos);
 
 const MPCard = ({ mp }) => {
-console.log(mp)
-return (
-  <Link href="/p/[id]" as={`/p/${mp.id}`}><a>
-    <Card>
-      <div>
-        <MPImage mpName={mp.Contact} />
-      </div>
-      <div>
-        <MPName>{mp.Contact}</MPName>
-        <Electorate>{mp.Electorate ? mp.Electorate : 'List MP'}</Electorate>
-      </div>
-      <FlexDiv>
-        <Icon image={`/static/images/${getPartyLogoImageName(mp.Party)}`} />
-        <Party>{mp.Party}</Party>
-      </FlexDiv>
-      <FlexDiv>
-        <Icon image="/static/images/clock.svg" />
-        <TimeServed>
-          Date Elected
-          <br/>
-          {mp['date-elected'] ? mp['date-elected'] : "Data unavailable"}
-        </TimeServed>
-      </FlexDiv>
-    </Card>
-  </a>
-  </Link>
-);
-}
+  return (
+    <Link href="/p/[id]" as={`/p/${mp.id}`}>
+      <a>
+        <Card>
+          <div>
+            <CardImg
+              src={
+                mp.Contact
+                  ? `/static/${mp.Contact.replace(/\s/g, "")}.jpg`
+                  : "http://lorempixel.com/120/120/people/"
+              }
+            />
+          </div>
+          <div>
+            <MPName>{mp.Contact}</MPName>
+            <Electorate>{mp.Electorate ? mp.Electorate : "List MP"}</Electorate>
+          </div>
+          <FlexDiv>
+            <Icon image={`/static/images/${getPartyLogoImageName(mp.Party)}`} />
+            <Party>{mp.Party}</Party>
+          </FlexDiv>
+          <FlexDiv>
+            <Icon image="/static/images/clock.svg" />
+            <TimeServed>
+              Date Elected
+              <br />
+              {mp["date-elected"] ? mp["date-elected"] : "Data unavailable"}
+            </TimeServed>
+          </FlexDiv>
+        </Card>
+      </a>
+    </Link>
+  );
+};
 
 export default MPCard;
