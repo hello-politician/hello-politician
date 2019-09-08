@@ -87,6 +87,11 @@ const BodyGrid = styled.div`
   gap: 2rem;
   width: 80rem;
   margin: 2rem auto;
+  @media (max-width: 1024px) {
+    width: calc(100vw - 2rem)
+    display: flex;
+    justify-content: center;
+  }
 `
 const ContentCard = styled.div`
   background: #2d3341;

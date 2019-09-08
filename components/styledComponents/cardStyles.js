@@ -19,9 +19,6 @@ export const InfoCard = styled.div`
   padding: 1rem;
   margin-bottom: 2rem;
   min-height: 8rem;
-  @media (max-width: 1024px) {
-    margin: 0;
-  }
 `
 export const CardHeading = styled.div`
   font-size: 1.5rem;
