@@ -7,7 +7,7 @@ import Hero from "../components/Hero";
 
 const PageContainer = styled.div`
   margin: 0 auto;
-  width: 60rem;
+  max-width: 60rem;
   height: 10rem;
   text-align: center;
 `;
