@@ -46,7 +46,7 @@ const Hero = ({getSearchResults}) => (
     <HeroContainer>
       <HeroText>Learn about your politicians.</HeroText>
       <HeroSubtitle>
-        🥳 Polly shows you stuff about your politicians 🥳
+        🤓 Hello Politician informs you about your politicians 🤓
       </HeroSubtitle>
     </HeroContainer>
     <SearchContainer>
