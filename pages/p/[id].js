@@ -8,6 +8,9 @@ import CampaignDonationsCard from '../../components/CampaignDonationsCard'
 import { AvailableData, dataCategory } from '../../components/AvailableData'
 import PecuniaryCard from '../../components/PecuniaryCards'
 import { StatCard } from '../../components/StatCard'
+import OrgSVG from '../../static/images/org@2x.svg'
+import LocationLogo from '../../assets/location.png'
+import TimeLogo from '../../assets/time.png'
 
 const Header = styled.header`
   width: 100vw;
@@ -54,7 +57,9 @@ const PoliticianStat = styled.div`
 const PoliticianStatImage = styled.img`
   display: inline;
   padding-top: -2px;
-  border-radius: 100%;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
 `
 const PoliticianStatText = styled.p`
   display: inline;
@@ -98,6 +103,24 @@ const AccountingColumns = styled.div`
   grid-template-columns: 28rem 28rem;
   gap: 2rem;
 `
+
+const partyLogos = [
+  { party: "ACT New Zealand", fileName: "actSmall.jpg" },
+  { party: "Green Party", fileName: "greenSmall.jpg" },
+  { party: "Labour Party", fileName: "labourFern.svg" },
+  { party: "National Party", fileName: "national.jpg" },
+  { party: "NZ First", fileName: "nzFirstSmall.png" },
+  { party: "Independent", fileName: "independent.png" }
+];
+
+const getImageName = arr => str => {
+  if (str) {
+    const result = arr.find(e => e.party.includes(str));
+    return result ? result.fileName : 'indepentent.png'
+  }
+};
+
+const getPartyLogoImageName = getImageName(partyLogos);
 
 export default class Post extends React.Component {
 
@@ -155,15 +178,15 @@ export default class Post extends React.Component {
               <NameH1>{Contact ? Contact : 'Legitimate Name'}</NameH1>
               <PoliticianStatContainer>
                 <PoliticianStat>
-                  <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
+                  <PoliticianStatImage src={`/static/images/${getPartyLogoImageName(Party)}`} />{' '}
                   <PoliticianStatText>{Party ? Party : 'Freedom'}</PoliticianStatText>
                 </PoliticianStat>
                 <PoliticianStat>
-                  <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
+                  <PoliticianStatImage src={LocationLogo} />{' '}
                   <PoliticianStatText>{location}</PoliticianStatText>
                 </PoliticianStat>
                 <PoliticianStat>
-                  <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
+                  <PoliticianStatImage src={TimeLogo} />{' '}
                   <PoliticianStatText>
                     2016 - Present ( 4 years, 12 months )
                   </PoliticianStatText>
@@ -181,7 +204,7 @@ export default class Post extends React.Component {
                   <PecuniaryCard
                     heading={key}
                     pecuniaryData={pecuniaryData[key]}
-                    imgSrc='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'
+                    imgSrc={OrgSVG}
                   />
                 )
               })
