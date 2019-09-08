@@ -120,6 +120,29 @@ export default class Post extends React.Component {
   render(){
     const { data } = this.state
     const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, Electorate } = data
+    const pecuniaryDataKeys = [
+      'Company directorships and controlling interests',
+      'Other companies and business entities',
+      'Employment',
+      'Beneficial interests in, and trusteeships of, trusts',
+      'Organisations and trusts seeking Government funding',
+      'Real property',
+      'Superannuation schemes',
+      'Investment schemes',
+      'Debtors',
+      'Creditors',
+      'Overseas travel costs',
+      'Gifts',
+      'Discharged debts',
+      'Payments for activities',
+    ]
+    let pecuniaryData = {};
+    for(let id in pecuniaryDataKeys) {
+      let key = pecuniaryDataKeys[id]
+      if(key in data) {
+        pecuniaryData[key] = data[key]
+      }
+    }
     const campaignData = rawCampaignData ? rawCampaignData : {'total-donations': 'Loading...', 'total-expenses': 'Loading...'}
     const costHeadings = cost ? Object.keys(cost) : ['Loading...']
     const costValues = cost ? Object.values(cost) : [{'accommodation-cost': 'Loading...', 'travel-cost': 'Loading...', 'total-cost': 'Loading...'}]
@@ -154,11 +177,17 @@ export default class Post extends React.Component {
         <BodyGrid>
           <AvailableData currentMPData={this.state.data}/>
           <StatSection>
-            <PecuniaryCard 
-              heading="This is a heading"
-              pecuniaryData={["Data 1", "Data 2", "Fish"]}
-              imgSrc='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'
-            />
+            {
+              Object.keys(pecuniaryData).map((key,index) => {
+                  return (
+                    <PecuniaryCard 
+                      heading={key}
+                      pecuniaryData={pecuniaryData[key]}
+                      imgSrc='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'
+                    />
+                  ) 
+              })
+            }
             <InfoCard>
               <CardHeading>
                 Company directorships and controlling interests
