@@ -18,6 +18,7 @@ const Header = styled.header`
   background-color: #3a3e47;
   padding-top: 4.5rem;
   margin: 0;
+  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.3);
 `
 const HeaderContainer = styled.div`
   background-color: #3a3e47;
