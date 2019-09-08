@@ -1,0 +1,3082 @@
+[
+ {
+   "CANDIDATE": "Adrian Paki Rurawhe",
+   "DONOR": "NZLP head office",
+   "AMOUNT": 5902,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Adrian Paki Rurawhe",
+   "DONOR": "NZLP head office",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Adrian Paki Rurawhe",
+   "DONOR": "Christina Gush",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Adrian Paki Rurawhe",
+   "DONOR": "Gaylener Nepia",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Adrian Paki Rurawhe",
+   "DONOR": "Jack Rurawhe",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Adrian Paki Rurawhe",
+   "DONOR": "Walter Rurawhe",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Adrienne Pierce",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 18744,
+   "PARTY": "National Party",
+   "ELECTORATE": "Palmerston North"
+ },
+ {
+   "CANDIDATE": "Agnes Loheni",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 10000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Māngere"
+ },
+ {
+   "CANDIDATE": "Ala' Al-Bustanji",
+   "DONOR": "NZLP Region 2 Council",
+   "AMOUNT": 2728,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Taupō"
+ },
+ {
+   "CANDIDATE": "Ala' Al-Bustanji",
+   "DONOR": "NZLP Region 2 Council",
+   "AMOUNT": 600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Taupō"
+ },
+ {
+   "CANDIDATE": "Alastair Scott",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 18563,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wairarapa"
+ },
+ {
+   "CANDIDATE": "Alastair Scott",
+   "DONOR": "Venture Consulting Ltd",
+   "AMOUNT": 3685,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wairarapa"
+ },
+ {
+   "CANDIDATE": "Alastair Scott",
+   "DONOR": "Forsyth Morison Ltd",
+   "AMOUNT": 2457,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wairarapa"
+ },
+ {
+   "CANDIDATE": "Alfred Ngaro",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 18843,
+   "PARTY": "National Party",
+   "ELECTORATE": "Te Atatū"
+ },
+ {
+   "CANDIDATE": "Amy Adams",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 7500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Selwyn"
+ },
+ {
+   "CANDIDATE": "Amy Adams",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 7500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Selwyn"
+ },
+ {
+   "CANDIDATE": "Amy Adams",
+   "DONOR": "Talley's Group Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Selwyn"
+ },
+ {
+   "CANDIDATE": "Andrew Bayly",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 22158,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hunua"
+ },
+ {
+   "CANDIDATE": "Andrew Bayly",
+   "DONOR": "Donald Silich",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hunua"
+ },
+ {
+   "CANDIDATE": "Andrew Bayly",
+   "DONOR": "Corina Silich",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hunua"
+ },
+ {
+   "CANDIDATE": "Andrew Falloon",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 59462,
+   "PARTY": "National Party",
+   "ELECTORATE": "Rangitata"
+ },
+ {
+   "CANDIDATE": "Angie Warren-Clark",
+   "DONOR": "BOP LEC",
+   "AMOUNT": 6730,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Bay of Plenty"
+ },
+ {
+   "CANDIDATE": "Anna Lorck",
+   "DONOR": "Labour Tukituki LEC",
+   "AMOUNT": 65415,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tukituki"
+ },
+ {
+   "CANDIDATE": "Anna Lorck",
+   "DONOR": "D Harvey",
+   "AMOUNT": 2090,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tukituki"
+ },
+ {
+   "CANDIDATE": "Anne Tolley",
+   "DONOR": "Corson Grain Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Anne Tolley",
+   "DONOR": "Delwyn M Trubshoe",
+   "AMOUNT": 4000,
+   "PARTY": "National Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Anne Tolley",
+   "DONOR": "Robert Byrne",
+   "AMOUNT": 2000,
+   "PARTY": "National Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Anneka Carlson",
+   "DONOR": "Alan Gibbs",
+   "AMOUNT": 5000,
+   "PARTY": "Act NZ",
+   "ELECTORATE": "New Plymouth"
+ },
+ {
+   "CANDIDATE": "Anneka Carlson",
+   "DONOR": "Lynda and John Matthews",
+   "AMOUNT": 4823,
+   "PARTY": "Act NZ",
+   "ELECTORATE": "New Plymouth"
+ },
+ {
+   "CANDIDATE": "Anthony Peter Rimell",
+   "DONOR": "Ilam LEC",
+   "AMOUNT": 6364,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ilam"
+ },
+ {
+   "CANDIDATE": "Ash Holwell",
+   "DONOR": "Sarah and Brendan Fox",
+   "AMOUNT": 1840,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Aupito Tofae Sua William Sio",
+   "DONOR": "Sally Ikinofo",
+   "AMOUNT": 15000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Māngere"
+ },
+ {
+   "CANDIDATE": "Aupito Tofae Sua William Sio",
+   "DONOR": "Matt McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Māngere"
+ },
+ {
+   "CANDIDATE": "Aupito Tofae Sua William Sio",
+   "DONOR": "NZLP",
+   "AMOUNT": 2300,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Māngere"
+ },
+ {
+   "CANDIDATE": "Aupito Tofae Sua William Sio",
+   "DONOR": "Ahlene McKee",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Māngere"
+ },
+ {
+   "CANDIDATE": "Bala Beeram",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 5824,
+   "PARTY": "National Party",
+   "ELECTORATE": "Kelston"
+ },
+ {
+   "CANDIDATE": "Bala Beeram",
+   "DONOR": "Sri Kanaka Mahalaxmi",
+   "AMOUNT": 5370,
+   "PARTY": "National Party",
+   "ELECTORATE": "Kelston"
+ },
+ {
+   "CANDIDATE": "Bala Beeram",
+   "DONOR": "Proconcept Design LTD",
+   "AMOUNT": 3100,
+   "PARTY": "National Party",
+   "ELECTORATE": "Kelston"
+ },
+ {
+   "CANDIDATE": "Baljit Kaur",
+   "DONOR": "GPS Trading",
+   "AMOUNT": 2450,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hunua"
+ },
+ {
+   "CANDIDATE": "Barbara Kuriger",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 7901,
+   "PARTY": "National Party",
+   "ELECTORATE": "Taranaki-King Country"
+ },
+ {
+   "CANDIDATE": "Barry Coates",
+   "DONOR": "Laurie Mayne",
+   "AMOUNT": 4500,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "Barry Coates",
+   "DONOR": "Roger Lampen",
+   "AMOUNT": 2000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "Barry Coates",
+   "DONOR": "Peter Catt",
+   "AMOUNT": 2000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "Ben Sandford",
+   "DONOR": "NZLP region 2",
+   "AMOUNT": 3600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rotorua"
+ },
+ {
+   "CANDIDATE": "Ben Sandford",
+   "DONOR": "Sylvia Sandford",
+   "AMOUNT": 2950,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rotorua"
+ },
+ {
+   "CANDIDATE": "Ben Sandford",
+   "DONOR": "John Morreau",
+   "AMOUNT": 2400,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rotorua"
+ },
+ {
+   "CANDIDATE": "Ben Sandford",
+   "DONOR": "Rotorua Labour",
+   "AMOUNT": 2111,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rotorua"
+ },
+ {
+   "CANDIDATE": "Brett Hudson",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 23517,
+   "PARTY": "National Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Brittany Owens",
+   "DONOR": "TOP",
+   "AMOUNT": 3326,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Rodney"
+ },
+ {
+   "CANDIDATE": "Brooke Loader",
+   "DONOR": "Norman Kirk House Ltd",
+   "AMOUNT": 2508,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waikato"
+ },
+ {
+   "CANDIDATE": "Brooke Loader",
+   "DONOR": "Waikato Labour Electorate Committee",
+   "AMOUNT": 2086,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waikato"
+ },
+ {
+   "CANDIDATE": "Carmel Jean Sepuloni",
+   "DONOR": "E Tu",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Kelston"
+ },
+ {
+   "CANDIDATE": "Carolyn O'Fallon",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 14398,
+   "PARTY": "National Party",
+   "ELECTORATE": "Rimutaka"
+ },
+ {
+   "CANDIDATE": "Cherie Joy Chapman",
+   "DONOR": "Clutha Southland LEC",
+   "AMOUNT": 3208,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Clutha-Southland"
+ },
+ {
+   "CANDIDATE": "Cherie Joy Chapman",
+   "DONOR": "Otago Southland Branch Meat Workers Union",
+   "AMOUNT": 1600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Clutha-Southland"
+ },
+ {
+   "CANDIDATE": "Chlöe Swarbrick",
+   "DONOR": "Neil Finn",
+   "AMOUNT": 3000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Chlöe Swarbrick",
+   "DONOR": "Alexander Gandar",
+   "AMOUNT": 2800,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Chlöe Swarbrick",
+   "DONOR": "Frances Haszard",
+   "AMOUNT": 1800,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Chlöe Swarbrick",
+   "DONOR": "Peter Catt",
+   "AMOUNT": 1500,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Chris Bishop",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 15000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Chris Bishop",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 11600,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Chris Bishop",
+   "DONOR": "NZ National party",
+   "AMOUNT": 10000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Chris Bishop",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 10000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Chris Bishop",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 7500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Chris Hipkins",
+   "DONOR": "Rimutaka Labour Electorate Committee",
+   "AMOUNT": 1775,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rimutaka"
+ },
+ {
+   "CANDIDATE": "Chris Leitch",
+   "DONOR": "NZ Democrats for Social Credit",
+   "AMOUNT": 18179,
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Chris Penk",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 12465,
+   "PARTY": "National Party",
+   "ELECTORATE": "Helensville"
+ },
+ {
+   "CANDIDATE": "Clare Curran",
+   "DONOR": "NZLP Dunedin South branch",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin South"
+ },
+ {
+   "CANDIDATE": "Clare Curran",
+   "DONOR": "Dunedin South Labour Electoral Committee",
+   "AMOUNT": 1807,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin South"
+ },
+ {
+   "CANDIDATE": "Clare Curran",
+   "DONOR": "Otago Southland Meatworkers Union",
+   "AMOUNT": 1600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin South"
+ },
+ {
+   "CANDIDATE": "Clayton Mitchell",
+   "DONOR": "Kent Baigent",
+   "AMOUNT": 15000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Clayton Mitchell",
+   "DONOR": "Owen Douglas",
+   "AMOUNT": 2500,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Clayton Mitchell",
+   "DONOR": "Jeremy Smith",
+   "AMOUNT": 2000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Clayton Mitchell",
+   "DONOR": "Clayton Mitchell",
+   "AMOUNT": 1560,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Clint Ulyatt",
+   "DONOR": "TOP",
+   "AMOUNT": 3715,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Corie Haddock",
+   "DONOR": "New Plymouth Labour Electorate Committee",
+   "AMOUNT": 21000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Plymouth"
+ },
+ {
+   "CANDIDATE": "Damien O'Connor",
+   "DONOR": "West Coast Tasman LEC NZ Labour Party",
+   "AMOUNT": 13387,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Damien O'Connor",
+   "DONOR": "NZLP",
+   "AMOUNT": 3576,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Damien O'Connor",
+   "DONOR": "Warrick Cliene",
+   "AMOUNT": 3000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Damien O'Connor",
+   "DONOR": "Motueka Branch NZ Labour Party",
+   "AMOUNT": 2692,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Damien O'Connor",
+   "DONOR": "John Gordan Salisbury",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Damien O'Connor",
+   "DONOR": "Joan Elian Butts & Robert James Butts",
+   "AMOUNT": 1500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Dan Rosewarne",
+   "DONOR": "Sally Thompson",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waimakariri"
+ },
+ {
+   "CANDIDATE": "Dan Thurston",
+   "DONOR": "TOP",
+   "AMOUNT": 1978,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Darroch Ball",
+   "DONOR": "Darroch Ball",
+   "AMOUNT": 7700,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Palmerston North"
+ },
+ {
+   "CANDIDATE": "David Bennett",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 15000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton East"
+ },
+ {
+   "CANDIDATE": "David Bennett",
+   "DONOR": "Agincopurt Farms LTD",
+   "AMOUNT": 8000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton East"
+ },
+ {
+   "CANDIDATE": "David Bennett",
+   "DONOR": "Chedworth properites",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton East"
+ },
+ {
+   "CANDIDATE": "David Bennett",
+   "DONOR": "Porter Group",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton East"
+ },
+ {
+   "CANDIDATE": "David Bennett",
+   "DONOR": "Huang Jian",
+   "AMOUNT": 2000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton East"
+ },
+ {
+   "CANDIDATE": "David Clark",
+   "DONOR": "Petridish Limited",
+   "AMOUNT": 6944,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin North"
+ },
+ {
+   "CANDIDATE": "David Clark",
+   "DONOR": "Maritime Union of New Zealand - Port Chalmers Branch",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin North"
+ },
+ {
+   "CANDIDATE": "David Clark",
+   "DONOR": "Meatworkers Union - Otago Southland Branch",
+   "AMOUNT": 1600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin North"
+ },
+ {
+   "CANDIDATE": "David Clark",
+   "DONOR": "Florence Stone",
+   "AMOUNT": 1500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Dunedin North"
+ },
+ {
+   "CANDIDATE": "David Elliott",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 16000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "David Elliott",
+   "DONOR": "L'il Wakely Trust",
+   "AMOUNT": 6000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "David Hiatt",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 53363,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wigram"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "Rodger Finlay",
+   "AMOUNT": 10000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "Mt Albert Labour Party",
+   "AMOUNT": 6866,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "Brad Novak",
+   "AMOUNT": 2400,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "Chris Patterson",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "Paul and Charlotte Grimshaw",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "Garry Nixon",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Parker",
+   "DONOR": "Selwyn Pellet",
+   "AMOUNT": 1500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "David Seymour",
+   "DONOR": "ACT NZ",
+   "AMOUNT": 14601,
+   "PARTY": "Act NZ",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "Deborah Russell",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Deborah Russell",
+   "DONOR": "Sir Robert Jones",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Deborah Russell",
+   "DONOR": "Greg Loveridge",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Deborah Russell",
+   "DONOR": "Prof Malcolm Wright",
+   "AMOUNT": 3000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Deborah Russell",
+   "DONOR": "Jonathan Hunt ONZ",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Denise Lee",
+   "DONOR": "Go Media Outdoor Advertising Ltd",
+   "AMOUNT": 15143,
+   "PARTY": "National Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Denise Lee",
+   "DONOR": "DP Fowler",
+   "AMOUNT": 10000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Denise Lee",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 5750,
+   "PARTY": "National Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Denise Lee",
+   "DONOR": "GE Lee",
+   "AMOUNT": 3000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Donna Pokere-Phillips",
+   "DONOR": "TOP",
+   "AMOUNT": 1512,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Hamilton West"
+ },
+ {
+   "CANDIDATE": "Duncan Webb",
+   "DONOR": "Christchurch Central Labour Electorate Committee",
+   "AMOUNT": 33655,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Christchurch Central"
+ },
+ {
+   "CANDIDATE": "Duncan Webb",
+   "DONOR": "Robert John Davidson",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Christchurch Central"
+ },
+ {
+   "CANDIDATE": "Duncan Webb",
+   "DONOR": "Shine NZ Services Pty Ltd",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Christchurch Central"
+ },
+ {
+   "CANDIDATE": "Duncan Webb",
+   "DONOR": "Risk World Wide NZ Ltd",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Christchurch Central"
+ },
+ {
+   "CANDIDATE": "Elliot Ikilei",
+   "DONOR": "Laurence Day",
+   "AMOUNT": 10000,
+   "PARTY": "Conservative",
+   "ELECTORATE": "Manurewa"
+ },
+ {
+   "CANDIDATE": "Erica Stanford",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 15196,
+   "PARTY": "National Party",
+   "ELECTORATE": "East Coast Bays"
+ },
+ {
+   "CANDIDATE": "Euon Murrell",
+   "DONOR": "Seventh City Finance",
+   "AMOUNT": 15000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Mana"
+ },
+ {
+   "CANDIDATE": "Euon Murrell",
+   "DONOR": "Esplanade Realty Ltd",
+   "AMOUNT": 5200,
+   "PARTY": "National Party",
+   "ELECTORATE": "Mana"
+ },
+ {
+   "CANDIDATE": "Fletcher Tabuteau",
+   "DONOR": "Talleys",
+   "AMOUNT": 2000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Rotorua"
+ },
+ {
+   "CANDIDATE": "Gareth Hughes",
+   "DONOR": "Ron Elder",
+   "AMOUNT": 1500,
+   "PARTY": "Green Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Gaurav Sharma",
+   "DONOR": "NZLP Region 2",
+   "AMOUNT": 4758,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hamilton West"
+ },
+ {
+   "CANDIDATE": "Geoff Simmons",
+   "DONOR": "TOP",
+   "AMOUNT": 15931,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Gerry Brownlee",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 21182,
+   "PARTY": "National Party",
+   "ELECTORATE": "Ilam"
+ },
+ {
+   "CANDIDATE": "Ginny Andersen",
+   "DONOR": "Hutt South LEC",
+   "AMOUNT": 10000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Ginny Andersen",
+   "DONOR": "M Street",
+   "AMOUNT": 7000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Grant Robertson",
+   "DONOR": "NZLP Wellington Central LEC",
+   "AMOUNT": 8000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Grant Robertson",
+   "DONOR": "Sir Geoffrey Palmer",
+   "AMOUNT": 3000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Grant Robertson",
+   "DONOR": "Beverley Price",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Grant Robertson",
+   "DONOR": "Tim Scott Trust",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Grant Robertson",
+   "DONOR": "Maritime Union of NZ",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Greg O'Connor",
+   "DONOR": "Richard Burrell",
+   "AMOUNT": 7475,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Greg O'Connor",
+   "DONOR": "NZ Labour Party",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Greg O'Connor",
+   "DONOR": "Chris Gollins",
+   "AMOUNT": 3600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Greg O'Connor",
+   "DONOR": "NZLP Ohariu Electorate",
+   "AMOUNT": 2725,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Greg O'Connor",
+   "DONOR": "Kyle Radersma",
+   "AMOUNT": 2419,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Greg O'Connor",
+   "DONOR": "Dick Hollander",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Hamish Walker",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 25713,
+   "PARTY": "National Party",
+   "ELECTORATE": "Clutha-Southland"
+ },
+ {
+   "CANDIDATE": "Harete Hipango",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 34816,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whanganui"
+ },
+ {
+   "CANDIDATE": "Harete Hipango",
+   "DONOR": "Holland Memorial Trust",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whanganui"
+ },
+ {
+   "CANDIDATE": "Harete Hipango",
+   "DONOR": "Taumaha Trust",
+   "AMOUNT": 2000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whanganui"
+ },
+ {
+   "CANDIDATE": "Heather Warren",
+   "DONOR": "Rangitīkei LEC",
+   "AMOUNT": 15000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rangitīkei"
+ },
+ {
+   "CANDIDATE": "Helen Ione White",
+   "DONOR": "AWUNZ Union",
+   "AMOUNT": 6000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Helen Ione White",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Helen Ione White",
+   "DONOR": "Mt Albert Labour Electorate Committee",
+   "AMOUNT": 4188,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Helen Ione White",
+   "DONOR": "Christopher Eggleston",
+   "AMOUNT": 3000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Helen Ione White",
+   "DONOR": "Nicholas Wells",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Helen Ione White",
+   "DONOR": "Steve Westoby",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Pene Whanau",
+   "AMOUNT": 7095,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Hone & Hine Harawira",
+   "AMOUNT": 5835,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Jevan Goulter",
+   "AMOUNT": 5600,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Andrew Paul, Mana National",
+   "AMOUNT": 4500,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Annette Sykes",
+   "AMOUNT": 3206,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Andrew Paul, Mana regional branches, Rotorua to Wellington",
+   "AMOUNT": 3200,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Dave Curran",
+   "AMOUNT": 2000,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Willie Te Aho",
+   "AMOUNT": 2000,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Andrew Paul, Mana regional branches Tai Tokerau",
+   "AMOUNT": 1975,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Mike Treen",
+   "AMOUNT": 1500,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Hone Harawira",
+   "DONOR": "Tusi Rihari",
+   "AMOUNT": 1500,
+   "PARTY": "MANA",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Howie Tamati",
+   "DONOR": "Dion Tuuta & Rose Waetford",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Howie Tamati",
+   "DONOR": "DJ Mareiikura & Jamie Tuuta",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Howie Tamati",
+   "DONOR": "M Hond Ben Gibbins",
+   "AMOUNT": 2000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Hauāuru"
+ },
+ {
+   "CANDIDATE": "Iain Francis Lees-Galloway",
+   "DONOR": "Richard Torres",
+   "AMOUNT": 6450,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Palmerston North"
+ },
+ {
+   "CANDIDATE": "Ian Mckelvie",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 26914,
+   "PARTY": "National Party",
+   "ELECTORATE": "Rangitīkei"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "Karl Maughan",
+   "AMOUNT": 15700,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "Stanley Palmer",
+   "AMOUNT": 8400,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "Michael Smither",
+   "AMOUNT": 6200,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "Beverly Holloway",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "Greer Twiss",
+   "AMOUNT": 4100,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "John Reynolds",
+   "AMOUNT": 3200,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "Patrick Reynolds",
+   "AMOUNT": 2800,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacinda Ardern",
+   "DONOR": "Beaconsfield Nominees Ltd",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Jacqui Dean",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 7990,
+   "PARTY": "National Party",
+   "ELECTORATE": "Waitaki"
+ },
+ {
+   "CANDIDATE": "James Shaw",
+   "DONOR": "Suzanne Every Palmer",
+   "AMOUNT": 4000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "James Shaw",
+   "DONOR": "Jane Little",
+   "AMOUNT": 1570,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Jami-Lee Ross",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 22331,
+   "PARTY": "National Party",
+   "ELECTORATE": "Botany"
+ },
+ {
+   "CANDIDATE": "Jamie Strange",
+   "DONOR": "Caravan Consortium",
+   "AMOUNT": 2400,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hamilton East"
+ },
+ {
+   "CANDIDATE": "Jan Logie",
+   "DONOR": "Drew Hadwen - fundraiser",
+   "AMOUNT": 1533,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Mana"
+ },
+ {
+   "CANDIDATE": "Jan Tinetti",
+   "DONOR": "Tauranga Labour Electorate Committee",
+   "AMOUNT": 9309,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Jan Tinetti",
+   "DONOR": "NZLP Region 2",
+   "AMOUNT": 3600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Jan Tinetti",
+   "DONOR": "Valerie Scott",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Janette Walker",
+   "DONOR": "Kaikōura Labour Electorate Committee",
+   "AMOUNT": 8226,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Kaikōura"
+ },
+ {
+   "CANDIDATE": "Jenny Salesa",
+   "DONOR": "Manukau East NZLP Electorate Committee",
+   "AMOUNT": 12600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Jenny Salesa",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Jenny Salesa",
+   "DONOR": "Matila Latu Ali",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Jesse Pabla",
+   "DONOR": "Jagpal Singh",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Papakura"
+ },
+ {
+   "CANDIDATE": "Jessica Hammond Doube",
+   "DONOR": "The Opportunities Party",
+   "AMOUNT": 10885,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Jessica Hammond Doube",
+   "DONOR": "Jenny Condi",
+   "AMOUNT": 3000,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Jessica Hammond Doube",
+   "DONOR": "Power Systems Consultants NZ Ltd",
+   "AMOUNT": 1534,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Jo Hayes",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 13180,
+   "PARTY": "National Party",
+   "ELECTORATE": "Christchurch East"
+ },
+ {
+   "CANDIDATE": "Jo Luxton",
+   "DONOR": "NZ Labour Party",
+   "AMOUNT": 19845,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rangitata"
+ },
+ {
+   "CANDIDATE": "Joe Kairau",
+   "DONOR": "Joe Kairau",
+   "AMOUNT": 2852,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Tukituki"
+ },
+ {
+   "CANDIDATE": "Jonathan Coleman",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 29669,
+   "PARTY": "National Party",
+   "ELECTORATE": "Northcote"
+ },
+ {
+   "CANDIDATE": "Jonathan Young",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 20050,
+   "PARTY": "National Party",
+   "ELECTORATE": "New Plymouth"
+ },
+ {
+   "CANDIDATE": "Judith Collins",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 20249,
+   "PARTY": "National Party",
+   "ELECTORATE": "Papakura"
+ },
+ {
+   "CANDIDATE": "Julie Anne Genter",
+   "DONOR": "John Genter",
+   "AMOUNT": 1000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Julie Anne Genter",
+   "DONOR": "Axel Wilkie",
+   "AMOUNT": 3000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Julie Anne Genter",
+   "DONOR": "Peter Catt",
+   "AMOUNT": 2000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 2453,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 1200,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 1159,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 1024,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 979,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 464,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 368,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 200,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Kanwaljit Singh Bakshi",
+   "DONOR": "NZ National party",
+   "AMOUNT": 150,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Katrina Bungard",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 22606,
+   "PARTY": "National Party",
+   "ELECTORATE": "Manurewa"
+ },
+ {
+   "CANDIDATE": "Kelvin Davis",
+   "DONOR": "Rorarora Farms",
+   "AMOUNT": 20000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Kelvin Davis",
+   "DONOR": "A Te Tai (Andrew John Kelly)",
+   "AMOUNT": 10000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Kelvin Davis",
+   "DONOR": "NZ Labour Party head office",
+   "AMOUNT": 5902,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Kelvin Davis",
+   "DONOR": "Mt Pokaka Timber",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Kelvin Davis",
+   "DONOR": "Stuart Nash",
+   "AMOUNT": 4002,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Kelvin Davis",
+   "DONOR": "Valic NZ King Avocado",
+   "AMOUNT": 3500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Kelvin Davis",
+   "DONOR": "QRC Queenstown Resort",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tokerau"
+ },
+ {
+   "CANDIDATE": "Kieran Mcanulty",
+   "DONOR": "NZLP Wairarapa Labour Electorate Committee",
+   "AMOUNT": 7000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wairarapa"
+ },
+ {
+   "CANDIDATE": "Kieran Mcanulty",
+   "DONOR": "Simpson, Donald",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wairarapa"
+ },
+ {
+   "CANDIDATE": "Kiri Allan",
+   "DONOR": "Allan-Coates",
+   "AMOUNT": 15000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Kiri Allan",
+   "DONOR": "East Coast Labour electorate committee",
+   "AMOUNT": 6375,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Kiri Allan",
+   "DONOR": "NZLP Eastern Bay of Plenty branch",
+   "AMOUNT": 6000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Kiri Allan",
+   "DONOR": "NZLP Gisborne Industrial branch",
+   "AMOUNT": 6000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Kiri Allan",
+   "DONOR": "Chris & Philippa Mulcahy",
+   "AMOUNT": 3000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Kiri Allan",
+   "DONOR": "MJ Cullen",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast"
+ },
+ {
+   "CANDIDATE": "Kris Faafoi",
+   "DONOR": "Ken Douglas",
+   "AMOUNT": 15100,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mana"
+ },
+ {
+   "CANDIDATE": "Kris Faafoi",
+   "DONOR": "Tees Family Trust",
+   "AMOUNT": 9996,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mana"
+ },
+ {
+   "CANDIDATE": "Kris Faafoi",
+   "DONOR": "Seventh City Finance",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mana"
+ },
+ {
+   "CANDIDATE": "Kris Faafoi",
+   "DONOR": "Mana Labour Electorate Committee",
+   "AMOUNT": 3400,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mana"
+ },
+ {
+   "CANDIDATE": "Kurt Taogaga",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Helensville"
+ },
+ {
+   "CANDIDATE": "Lawrence Yule",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 83821,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tukituki"
+ },
+ {
+   "CANDIDATE": "Leighton Baker",
+   "DONOR": "Kevin Stitt",
+   "AMOUNT": 12500,
+   "PARTY": "Conservative",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "Leilani Leafaitulagi Tamu",
+   "DONOR": "Ellen Moriarty",
+   "AMOUNT": 3200,
+   "PARTY": "Green Party",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Lisa Susan Close",
+   "DONOR": "Daniel Close",
+   "AMOUNT": 500,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Ōhāriu"
+ },
+ {
+   "CANDIDATE": "Liz Craig",
+   "DONOR": "Labour Party Southern Regional Council",
+   "AMOUNT": 3000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Invercargill"
+ },
+ {
+   "CANDIDATE": "Liz Craig",
+   "DONOR": "Otago Southland Meatworkers Union",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Invercargill"
+ },
+ {
+   "CANDIDATE": "Louisa Wall",
+   "DONOR": "Manurewa Labour Electorate Committee",
+   "AMOUNT": 9029,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Manurewa"
+ },
+ {
+   "CANDIDATE": "Louisa Wall",
+   "DONOR": "Matt McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Manurewa"
+ },
+ {
+   "CANDIDATE": "Louise Upston",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 16647,
+   "PARTY": "National Party",
+   "ELECTORATE": "Taupō"
+ },
+ {
+   "CANDIDATE": "Maggie Barry",
+   "DONOR": "NZ National party",
+   "AMOUNT": 30980,
+   "PARTY": "National Party",
+   "ELECTORATE": "North Shore"
+ },
+ {
+   "CANDIDATE": "Mahesh Bindra",
+   "DONOR": "Direct Wholesale Autos Ltd",
+   "AMOUNT": 14000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Mahesh Bindra",
+   "DONOR": "Henderson Cars Ltd",
+   "AMOUNT": 3500,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Mahesh Bindra",
+   "DONOR": "ETHC Healthcare Services",
+   "AMOUNT": 2501,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Mahesh Bindra",
+   "DONOR": "Discount Building Supplies",
+   "AMOUNT": 2500,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Mahesh Bindra",
+   "DONOR": "M.Ranchhod",
+   "AMOUNT": 2000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Mahesh Bindra",
+   "DONOR": "Mahesh Bindra",
+   "AMOUNT": 300,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Manase Lua",
+   "DONOR": "Alvina Saulala",
+   "AMOUNT": 8500,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Marama Fox",
+   "DONOR": "Heretaunga Branch - Maori Party",
+   "AMOUNT": 12700,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Marama Fox",
+   "DONOR": "B & S Cullen",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Marama Fox",
+   "DONOR": "Maori Party",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Marama Fox",
+   "DONOR": "H & P Fox",
+   "AMOUNT": 2500,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Marama Fox",
+   "DONOR": "Ruatorea Branch - Maori Party",
+   "AMOUNT": 2000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Mark Mitchell",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 21558,
+   "PARTY": "National Party",
+   "ELECTORATE": "Rodney"
+ },
+ {
+   "CANDIDATE": "Mark Mitchell",
+   "DONOR": "Fairway Bay Marina",
+   "AMOUNT": 1823,
+   "PARTY": "National Party",
+   "ELECTORATE": "Rodney"
+ },
+ {
+   "CANDIDATE": "Matt Doocey",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 23766,
+   "PARTY": "National Party",
+   "ELECTORATE": "Waimakariri"
+ },
+ {
+   "CANDIDATE": "Matt Gregory",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 22886,
+   "PARTY": "National Party",
+   "ELECTORATE": "Dunedin South"
+ },
+ {
+   "CANDIDATE": "Matt Isbister",
+   "DONOR": "TOP",
+   "AMOUNT": 3281,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "North Shore"
+ },
+ {
+   "CANDIDATE": "Matt King",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 18370,
+   "PARTY": "National Party",
+   "ELECTORATE": "Northland"
+ },
+ {
+   "CANDIDATE": "Matt Lawrey",
+   "DONOR": "Jose Cano",
+   "AMOUNT": 7000,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Nelson"
+ },
+ {
+   "CANDIDATE": "Matt Lawrey",
+   "DONOR": "John Bostock",
+   "AMOUNT": 5434,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Nelson"
+ },
+ {
+   "CANDIDATE": "Matt Lawrey",
+   "DONOR": "Hothouse ",
+   "AMOUNT": 1898,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Nelson"
+ },
+ {
+   "CANDIDATE": "Maureen Pugh",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 22075,
+   "PARTY": "National Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Maureen Pugh",
+   "DONOR": "Talley's Group Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "West Coast-Tasman"
+ },
+ {
+   "CANDIDATE": "Megan Woods",
+   "DONOR": "Roger Finlay",
+   "AMOUNT": 10000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wigram"
+ },
+ {
+   "CANDIDATE": "Megan Woods",
+   "DONOR": "Wigram LEC",
+   "AMOUNT": 7370,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wigram"
+ },
+ {
+   "CANDIDATE": "Megan Woods",
+   "DONOR": "Wigram Housie",
+   "AMOUNT": 4000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wigram"
+ },
+ {
+   "CANDIDATE": "Megan Woods",
+   "DONOR": "Cambodian Fundraising Dinner",
+   "AMOUNT": 1880,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Wigram"
+ },
+ {
+   "CANDIDATE": "Mei Reedy-Taare",
+   "DONOR": "Manihera Taare",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Tonga"
+ },
+ {
+   "CANDIDATE": "Mei Reedy-Taare",
+   "DONOR": "TM Reedy",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Tonga"
+ },
+ {
+   "CANDIDATE": "Mei Reedy-Taare",
+   "DONOR": "Mangesh Kulkarni",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Te Tai Tonga"
+ },
+ {
+   "CANDIDATE": "Meka Whaitiri",
+   "DONOR": "Ikaroa-Rāwhiti LEC",
+   "AMOUNT": 16778,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Meka Whaitiri",
+   "DONOR": "NZLP head office",
+   "AMOUNT": 5902,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Meka Whaitiri",
+   "DONOR": "HB Seafoods",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ikaroa-Rāwhiti"
+ },
+ {
+   "CANDIDATE": "Melissa Lee",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 32664,
+   "PARTY": "National Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Melissa Lee",
+   "DONOR": "Robt Jones Holdings",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Mt Albert"
+ },
+ {
+   "CANDIDATE": "Metiria Turei",
+   "DONOR": "Dee West",
+   "AMOUNT": 3500,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Te Tai Tonga"
+ },
+ {
+   "CANDIDATE": "Michael Philip Wood",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5424,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Michael Woodhouse",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 15400,
+   "PARTY": "National Party",
+   "ELECTORATE": "Dunedin North"
+ },
+ {
+   "CANDIDATE": "Mika Haka",
+   "DONOR": "The Opportunities Party",
+   "AMOUNT": 10291,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Naisi Chen",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "East Coast Bays"
+ },
+ {
+   "CANDIDATE": "Nanaia Mahuta",
+   "DONOR": "NZ Labour Party head office",
+   "AMOUNT": 5902,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hauraki-Waikato"
+ },
+ {
+   "CANDIDATE": "Nanaia Mahuta",
+   "DONOR": "Norman Kirk House Trust",
+   "AMOUNT": 3328,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Hauraki-Waikato"
+ },
+ {
+   "CANDIDATE": "Nathan Guy",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 23091,
+   "PARTY": "National Party",
+   "ELECTORATE": "Ōtaki"
+ },
+ {
+   "CANDIDATE": "Nathaniel James Blomfield",
+   "DONOR": "Thames Labour Rooms Incorporated",
+   "AMOUNT": 8000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Coromandel"
+ },
+ {
+   "CANDIDATE": "Nathaniel James Blomfield",
+   "DONOR": "NZLP Region 2 Council",
+   "AMOUNT": 2918,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Coromandel"
+ },
+ {
+   "CANDIDATE": "Nick Smith",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 25223,
+   "PARTY": "National Party",
+   "ELECTORATE": "Nelson"
+ },
+ {
+   "CANDIDATE": "Nicky Wagner",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 28152,
+   "PARTY": "National Party",
+   "ELECTORATE": "Christchurch Central"
+ },
+ {
+   "CANDIDATE": "Nicola Willis",
+   "DONOR": "Go Media Ltd",
+   "AMOUNT": 19257,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Nicola Willis",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 16732,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Nicola Willis",
+   "DONOR": "Dennis Roberts",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Nicola Willis",
+   "DONOR": "Richard Stone",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Nicola Willis",
+   "DONOR": "Ian Cassells",
+   "AMOUNT": 2000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Nicola Willis",
+   "DONOR": "Chris Parkin",
+   "AMOUNT": 1750,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Nicola Willis",
+   "DONOR": "Kathy Parkin",
+   "AMOUNT": 1750,
+   "PARTY": "National Party",
+   "ELECTORATE": "Wellington Central"
+ },
+ {
+   "CANDIDATE": "Nikki Kaye",
+   "DONOR": "Fran Wyborn",
+   "AMOUNT": 15000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Nikki Kaye",
+   "DONOR": "Talley's Group Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Nikki Kaye",
+   "DONOR": "Mandy Hudson",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Nikki Kaye",
+   "DONOR": "Terry Pratley",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Auckland Central"
+ },
+ {
+   "CANDIDATE": "Nuk Korako",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 25354,
+   "PARTY": "National Party",
+   "ELECTORATE": "Port Hills"
+ },
+ {
+   "CANDIDATE": "Olly Wilson",
+   "DONOR": "TOP",
+   "AMOUNT": 1763,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Rangitata"
+ },
+ {
+   "CANDIDATE": "Paddy Plunket",
+   "DONOR": "TOP",
+   "AMOUNT": 5430,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Rongotai"
+ },
+ {
+   "CANDIDATE": "Parmjeet Parmar",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 16436,
+   "PARTY": "National Party",
+   "ELECTORATE": "Mt Roskill"
+ },
+ {
+   "CANDIDATE": "Paul Eagle",
+   "DONOR": "Ray Lind",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rongotai"
+ },
+ {
+   "CANDIDATE": "Paul Eagle",
+   "DONOR": "Neville Carson",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Rongotai"
+ },
+ {
+   "CANDIDATE": "Paul Goldsmith",
+   "DONOR": "Auckland City BMW",
+   "AMOUNT": 3000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "Paul Goldsmith",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 1606,
+   "PARTY": "National Party",
+   "ELECTORATE": "Epsom"
+ },
+ {
+   "CANDIDATE": "Paula Bennett",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 12000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Upper Harbour"
+ },
+ {
+   "CANDIDATE": "Paula Bennett",
+   "DONOR": "Talley's Group Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Upper Harbour"
+ },
+ {
+   "CANDIDATE": "Paulo Garcia",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 2765,
+   "PARTY": "National Party",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Peeni Henare",
+   "DONOR": "Francis Tipene Funerals",
+   "AMOUNT": 17400,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tāmaki Makaurau"
+ },
+ {
+   "CANDIDATE": "Peeni Henare",
+   "DONOR": "NZ Labour Party head office",
+   "AMOUNT": 5902,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Tāmaki Makaurau"
+ },
+ {
+   "CANDIDATE": "Phil Twyford",
+   "DONOR": "KL Kumar",
+   "AMOUNT": 6000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Atatū"
+ },
+ {
+   "CANDIDATE": "Phil Twyford",
+   "DONOR": "N7 SCC Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Atatū"
+ },
+ {
+   "CANDIDATE": "Phil Twyford",
+   "DONOR": "Oakfield Trust",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Atatū"
+ },
+ {
+   "CANDIDATE": "Piri-Hira Tukapua",
+   "DONOR": "TOP",
+   "AMOUNT": 1994,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Ōtaki"
+ },
+ {
+   "CANDIDATE": "Poto Williams",
+   "DONOR": "Christchurch East Labour Electorate Committee",
+   "AMOUNT": 13500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Christchurch East"
+ },
+ {
+   "CANDIDATE": "Priyanca Radhakrishnan",
+   "DONOR": "NZLP Maungakiekie Electorate fundraising dinner",
+   "AMOUNT": 6339,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Priyanca Radhakrishnan",
+   "DONOR": "Matt McCarten",
+   "AMOUNT": 5424,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Priyanca Radhakrishnan",
+   "DONOR": "NZLP Maungakiekie Electorate",
+   "AMOUNT": 3608,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Priyanca Radhakrishnan",
+   "DONOR": "Ranjana Patel",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Priyanca Radhakrishnan",
+   "DONOR": "Anthony Lea",
+   "AMOUNT": 2500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Priyanca Radhakrishnan",
+   "DONOR": "NZLP campaign donation",
+   "AMOUNT": 1588,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Maungakiekie"
+ },
+ {
+   "CANDIDATE": "Rachel Boyack",
+   "DONOR": "New Zealand Labour Party Nelson Electorate Committee",
+   "AMOUNT": 24052,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Nelson"
+ },
+ {
+   "CANDIDATE": "Rachel Boyack",
+   "DONOR": "Kathy Tohill",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Nelson"
+ },
+ {
+   "CANDIDATE": "Richard Warwick",
+   "DONOR": "TOP",
+   "AMOUNT": 5416,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Hutt South"
+ },
+ {
+   "CANDIDATE": "Rino Tirikatene",
+   "DONOR": "NZLP head office",
+   "AMOUNT": 5902,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tonga"
+ },
+ {
+   "CANDIDATE": "Rino Tirikatene",
+   "DONOR": "Talleys Group Ltd",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Te Tai Tonga"
+ },
+ {
+   "CANDIDATE": "Rob Mccann",
+   "DONOR": "NZLP Otaki Labour Electorate Committee",
+   "AMOUNT": 14676,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Ōtaki"
+ },
+ {
+   "CANDIDATE": "Romuald Edward Rudzki",
+   "DONOR": "New Zealand First Ōtaki",
+   "AMOUNT": 2526,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Ōtaki"
+ },
+ {
+   "CANDIDATE": "Romy Udanga",
+   "DONOR": "North Shore LEC",
+   "AMOUNT": 9649,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "North Shore"
+ },
+ {
+   "CANDIDATE": "Romy Udanga",
+   "DONOR": "M McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "North Shore"
+ },
+ {
+   "CANDIDATE": "Ron Mark",
+   "DONOR": "A D Threadwell",
+   "AMOUNT": 5000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Wairarapa"
+ },
+ {
+   "CANDIDATE": "Ron Mark",
+   "DONOR": "R Mark and C Tracey",
+   "AMOUNT": 4525,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Wairarapa"
+ },
+ {
+   "CANDIDATE": "Ruth Dyson",
+   "DONOR": "NZLP Port Hills electorate, Sumner/Ferrymead branch",
+   "AMOUNT": 2525,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Port Hills"
+ },
+ {
+   "CANDIDATE": "Ruth Dyson",
+   "DONOR": "NZLP Port Hills electorate, Lyttelton branch",
+   "AMOUNT": 2255,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Port Hills"
+ },
+ {
+   "CANDIDATE": "Ruth Dyson",
+   "DONOR": "NZLP Port Hills electorate, Halswell branch",
+   "AMOUNT": 2209,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Port Hills"
+ },
+ {
+   "CANDIDATE": "Sam Singh",
+   "DONOR": "Satnam Singh",
+   "AMOUNT": 2300,
+   "PARTY": "Act NZ",
+   "ELECTORATE": "Botany"
+ },
+ {
+   "CANDIDATE": "Sarah Dowie",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 13000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Invercargill"
+ },
+ {
+   "CANDIDATE": "Sarah Dowie",
+   "DONOR": "Talley's Group",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Invercargill"
+ },
+ {
+   "CANDIDATE": "Sarah Dowie",
+   "DONOR": "Moore, Francis",
+   "AMOUNT": 2000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Invercargill"
+ },
+ {
+   "CANDIDATE": "Scott Macarthur",
+   "DONOR": "Mohit Takyar",
+   "AMOUNT": 4533,
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Scott Macarthur",
+   "DONOR": "NZ Democratic Party",
+   "AMOUNT": 1576,
+   "PARTY": "Democrats for Social Credit",
+   "ELECTORATE": "New Lynn"
+ },
+ {
+   "CANDIDATE": "Scott Simpson",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 24000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Coromandel"
+ },
+ {
+   "CANDIDATE": "Shanan Halbert",
+   "DONOR": "Northcote Labour electorate",
+   "AMOUNT": 7490,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northcote"
+ },
+ {
+   "CANDIDATE": "Shanan Halbert",
+   "DONOR": "Matt McCarten",
+   "AMOUNT": 5425,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northcote"
+ },
+ {
+   "CANDIDATE": "Shanan Halbert",
+   "DONOR": "Northcote Labour Electorate Committee",
+   "AMOUNT": 5089,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northcote"
+ },
+ {
+   "CANDIDATE": "Shanan Halbert",
+   "DONOR": "Ann Hartley",
+   "AMOUNT": 1500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northcote"
+ },
+ {
+   "CANDIDATE": "Shane Jones",
+   "DONOR": "Talley's Group Ltd",
+   "AMOUNT": 10000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Jones",
+   "DONOR": "Augustine Trust",
+   "AMOUNT": 10000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Jones",
+   "DONOR": "Roanne Cooper Garden Design",
+   "AMOUNT": 5000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Jones",
+   "DONOR": "Rosvall Sawmill",
+   "AMOUNT": 5000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Jones",
+   "DONOR": "Tony Gibbs",
+   "AMOUNT": 2000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Reti",
+   "DONOR": "Lakeside Business Trust",
+   "AMOUNT": 7000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Reti",
+   "DONOR": "Culham Engineering Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Reti",
+   "DONOR": "Donovan Group NZ Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Reti",
+   "DONOR": "Kwik Kwik Cars",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Reti",
+   "DONOR": "TranzNorth",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Reti",
+   "DONOR": "Whangarei Food Warehouse",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Reti",
+   "DONOR": "Hansen Products (NZ) Ltd",
+   "AMOUNT": 2000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Shane Taurima",
+   "DONOR": "Maori Party",
+   "AMOUNT": 10580,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tāmaki Makaurau"
+ },
+ {
+   "CANDIDATE": "Shane Taurima",
+   "DONOR": "Tukoroirangi Morgan",
+   "AMOUNT": 10000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tāmaki Makaurau"
+ },
+ {
+   "CANDIDATE": "Shane Taurima",
+   "DONOR": "Witehira Family trust",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tāmaki Makaurau"
+ },
+ {
+   "CANDIDATE": "Shane Taurima",
+   "DONOR": "Maori party",
+   "AMOUNT": 3000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tāmaki Makaurau"
+ },
+ {
+   "CANDIDATE": "Shane Taurima",
+   "DONOR": "Pania Tyson-Nathan",
+   "AMOUNT": 2000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Tāmaki Makaurau"
+ },
+ {
+   "CANDIDATE": "Shayne Wihongi",
+   "DONOR": "Warren Hastie (NZF Hamilton West Electorate Committee treasurer)",
+   "AMOUNT": 2000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Hamilton West"
+ },
+ {
+   "CANDIDATE": "Simeon Brown",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 12000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Pakuranga"
+ },
+ {
+   "CANDIDATE": "Simeon Brown",
+   "DONOR": "Grant Biel",
+   "AMOUNT": 4000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Pakuranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Seventh City Finance",
+   "AMOUNT": 27000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "HWM (NZ) Holdings",
+   "AMOUNT": 10000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Matamata Metal supplies ltd",
+   "AMOUNT": 10000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "BOP Sports & Culture club",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Tauranga Pak'nSave",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Ella Van Eden",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Jan Van Eden",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Manu Stars",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Pukemapu Services",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Carrus Corporation",
+   "AMOUNT": 4000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "McLeod Cranes",
+   "AMOUNT": 3500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "McLeod Hiabs",
+   "AMOUNT": 3500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Maan O'Richards",
+   "AMOUNT": 3000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Realty Services",
+   "AMOUNT": 3000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon Bridges",
+   "DONOR": "Classic Builders",
+   "AMOUNT": 2000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tauranga"
+ },
+ {
+   "CANDIDATE": "Simon O'Connor",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tāmaki"
+ },
+ {
+   "CANDIDATE": "Simon O'Connor",
+   "DONOR": "Barry Coleman",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tāmaki"
+ },
+ {
+   "CANDIDATE": "Simon O'Connor",
+   "DONOR": "Brian Frecker",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tāmaki"
+ },
+ {
+   "CANDIDATE": "Simon O'Connor",
+   "DONOR": "Gwen Frecker",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tāmaki"
+ },
+ {
+   "CANDIDATE": "Simon O'Connor",
+   "DONOR": "Peter Maude",
+   "AMOUNT": 2500,
+   "PARTY": "National Party",
+   "ELECTORATE": "Tāmaki"
+ },
+ {
+   "CANDIDATE": "Stanley Rahui Papa",
+   "DONOR": "T Brown",
+   "AMOUNT": 10000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Hauraki-Waikato"
+ },
+ {
+   "CANDIDATE": "Stanley Rahui Papa",
+   "DONOR": "Pohara Marae",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Hauraki-Waikato"
+ },
+ {
+   "CANDIDATE": "Stanley Rahui Papa",
+   "DONOR": "R Huia",
+   "AMOUNT": 2500,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Hauraki-Waikato"
+ },
+ {
+   "CANDIDATE": "Stanley Rahui Papa",
+   "DONOR": "Che Wilson ",
+   "AMOUNT": 1600,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Hauraki-Waikato"
+ },
+ {
+   "CANDIDATE": "Steph Lewis",
+   "DONOR": "Whanganui LEC",
+   "AMOUNT": 28487,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Whanganui"
+ },
+ {
+   "CANDIDATE": "Steph Lewis",
+   "DONOR": "NZ Labour Party",
+   "AMOUNT": 3000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Whanganui"
+ },
+ {
+   "CANDIDATE": "Stuart Nash",
+   "DONOR": "GRL Holdings",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "Stuart Nash",
+   "DONOR": "Caniwi Capital Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "Stuart Nash",
+   "DONOR": "Andrew Kelly",
+   "AMOUNT": 5000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "Stuart Nash",
+   "DONOR": "Leanne Culy",
+   "AMOUNT": 4500,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "Stuart Nash",
+   "DONOR": "Richard Jeffery",
+   "AMOUNT": 4000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "Stuart Nash",
+   "DONOR": "Dick Frizzel ",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "Stuart Nash",
+   "DONOR": "Nga Waiata",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Napier"
+ },
+ {
+   "CANDIDATE": "Stuart Smith",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 25000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Kaikōura"
+ },
+ {
+   "CANDIDATE": "Stuart Smith",
+   "DONOR": "Talley's Group Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Kaikōura"
+ },
+ {
+   "CANDIDATE": "Tamati Coffey",
+   "DONOR": "NZ Labour Party",
+   "AMOUNT": 10000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Tamati Coffey",
+   "DONOR": "NZ Labour Party",
+   "AMOUNT": 5902,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Tamati Coffey",
+   "DONOR": "Labour Regional Council (Region Two)",
+   "AMOUNT": 3600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Tamati Coffey",
+   "DONOR": "Te Ringahuia Hata",
+   "AMOUNT": 2000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Tasha Hohaia",
+   "DONOR": "Saga Lama - fundraiser ",
+   "AMOUNT": 2210,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Manurewa"
+ },
+ {
+   "CANDIDATE": "Te Ururoa Flavell",
+   "DONOR": "Cliff Curtis ",
+   "AMOUNT": 10000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Te Ururoa Flavell",
+   "DONOR": "Heta Kin Hinson",
+   "AMOUNT": 5100,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Te Ururoa Flavell",
+   "DONOR": "Erana Hond Flavell",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Te Ururoa Flavell",
+   "DONOR": "Pania Tyson Nathan ",
+   "AMOUNT": 5000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Te Ururoa Flavell",
+   "DONOR": "Ngahiwi Tomoana",
+   "AMOUNT": 2000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Te Ururoa Flavell",
+   "DONOR": "Mereana Hond",
+   "AMOUNT": 2000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Waiariki"
+ },
+ {
+   "CANDIDATE": "Teall Crossen",
+   "DONOR": "Jane Little",
+   "AMOUNT": 1570,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Rongotai"
+ },
+ {
+   "CANDIDATE": "Ted Faleauto Johnston",
+   "DONOR": "TOP",
+   "AMOUNT": 4562,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Teresa Moore",
+   "DONOR": "TOP",
+   "AMOUNT": 2588,
+   "PARTY": "The Opportunities Party (TOP)",
+   "ELECTORATE": "East Coast Bays"
+ },
+ {
+   "CANDIDATE": "Thomas Nash",
+   "DONOR": "Brent Barrett",
+   "AMOUNT": 4512,
+   "PARTY": "Green Party",
+   "ELECTORATE": "Palmerston North"
+ },
+ {
+   "CANDIDATE": "Tim Macindoe",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 28000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Hamilton West"
+ },
+ {
+   "CANDIDATE": "Tim Van De Molen",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 23313,
+   "PARTY": "National Party",
+   "ELECTORATE": "Waikato"
+ },
+ {
+   "CANDIDATE": "Toa Greening",
+   "DONOR": "Joan Brookes",
+   "AMOUNT": 5799,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Papakura"
+ },
+ {
+   "CANDIDATE": "Toa Greening",
+   "DONOR": "Toa Greening",
+   "AMOUNT": 2090,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Papakura"
+ },
+ {
+   "CANDIDATE": "Todd Mcclay",
+   "DONOR": "NZ National Party",
+   "AMOUNT": 40000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Rotorua"
+ },
+ {
+   "CANDIDATE": "Todd Mcclay",
+   "DONOR": "Talley's Group Ltd",
+   "AMOUNT": 5000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Rotorua"
+ },
+ {
+   "CANDIDATE": "Todd Muller",
+   "DONOR": "Seventh City Finance",
+   "AMOUNT": 22000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Bay of Plenty"
+ },
+ {
+   "CANDIDATE": "Todd Muller",
+   "DONOR": "Carrus Corporation",
+   "AMOUNT": 10000,
+   "PARTY": "National Party",
+   "ELECTORATE": "Bay of Plenty"
+ },
+ {
+   "CANDIDATE": "Tofik Mamedov",
+   "DONOR": "Botany Labour Electorate",
+   "AMOUNT": 4000,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Botany"
+ },
+ {
+   "CANDIDATE": "Tofik Mamedov",
+   "DONOR": "Botany Labour Electorate",
+   "AMOUNT": 3309,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Botany"
+ },
+ {
+   "CANDIDATE": "Tofik Mamedov",
+   "DONOR": "Botany Labour Electorate",
+   "AMOUNT": 1325,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Botany"
+ },
+ {
+   "CANDIDATE": "Tony John Savage",
+   "DONOR": "Whangarei LEC",
+   "AMOUNT": 12350,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Tony John Savage",
+   "DONOR": "Julian Aaron",
+   "AMOUNT": 3040,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Whangarei"
+ },
+ {
+   "CANDIDATE": "Wetex Kang",
+   "DONOR": "Y&Y International Ltd ",
+   "AMOUNT": 2000,
+   "PARTY": "Māori Party",
+   "ELECTORATE": "Botany"
+ },
+ {
+   "CANDIDATE": "William Flesher",
+   "DONOR": "Kiri Toone",
+   "AMOUNT": 2000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Manukau East"
+ },
+ {
+   "CANDIDATE": "Willow-Jean Prime",
+   "DONOR": "Northland LEC campaign dinner",
+   "AMOUNT": 2840,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northland"
+ },
+ {
+   "CANDIDATE": "Willow-Jean Prime",
+   "DONOR": "Northland LEC - Markets",
+   "AMOUNT": 1713,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Northland"
+ },
+ {
+   "CANDIDATE": "Winston Peters",
+   "DONOR": "New Zealand First Party",
+   "AMOUNT": 20000,
+   "PARTY": "New Zealand First Party",
+   "ELECTORATE": "Northland"
+ },
+ {
+   "CANDIDATE": "Zélie Allan",
+   "DONOR": "Sir Arnold Nordmeyer Trust",
+   "AMOUNT": 4879,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waitaki"
+ },
+ {
+   "CANDIDATE": "Zélie Allan",
+   "DONOR": "NZ Meat Workers Union",
+   "AMOUNT": 1600,
+   "PARTY": "Labour Party",
+   "ELECTORATE": "Waitaki"
+ }
+]
