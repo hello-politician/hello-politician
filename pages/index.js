@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Page from "../components/pages";
 import styled from "styled-components";
-import MembersOfParliamentButton from "../components/membersOfParliamentButton";
 import MPList from "../components/MPList";
 import Link from "next/link";
 import Hero from "../components/Hero";
@@ -12,16 +11,6 @@ const PageContainer = styled.div`
   height: 10rem;
   text-align: center;
 `;
-
-const PersonCard = props => (
-  <li>
-    <Link href={`/{$props.name}`}>
-      <a>
-        <div>card should go here</div>
-      </a>
-    </Link>
-  </li>
-);
 
 const propIncludesString = (prop, string, obj) =>
   obj[prop] && obj[prop].toLowerCase().includes(string.toLowerCase());
@@ -73,7 +62,6 @@ const Index = () => {
       <Hero getSearchResults={getSearchResults} />
       <PageContainer>
         <MPList mpList={mpList} />
-        <MembersOfParliamentButton />
       </PageContainer>
     </Page>
   );
