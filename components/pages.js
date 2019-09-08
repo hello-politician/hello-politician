@@ -48,6 +48,7 @@ const Page = ({ children }) => (
       rel='stylesheet'
       href='https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'
     />
+    <link href="https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,700&display=swap" rel="stylesheet" /> 
 
     <PageContainer>{children}</PageContainer>
   </TopItem>
