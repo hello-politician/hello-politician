@@ -1,5 +1,4 @@
 import React, { Components } from 'react'
-import { useRouter } from 'next/router'
 import { Table } from 'evergreen-ui'
 import styled from 'styled-components'
 import Page from '../../components/pages'
@@ -8,8 +7,9 @@ import CompanyDirectorShip from '../../components/CompanyDirectorShip'
 import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
 import {InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon} from '../../components/styledComponents/cardStyles'
 import CampaignDonationsCard from '../../components/CampaignDonationsCard'
-import { AvailableData } from '../../components/AvailableData'
+import { AvailableData, dataCategory } from '../../components/AvailableData'
 import PecuniaryCard from '../../components/PecuniaryCards'
+import { StatCard } from '../../components/StatCard'
 
 const Header = styled.header`
   width: 100vw;
@@ -244,16 +244,15 @@ export default class Post extends React.Component {
                 </Table.Body>
               </InfoCard>
             </AccountingColumns>
-            <InfoCard>
-              <CardHeading>Stat 3</CardHeading>
-            </InfoCard>
-            <InfoCard>
-              <CardHeading>Stat 4</CardHeading>
-            </InfoCard>
+            {
+              this.state.data.Contact && Object.keys(this.state.data).map((element) =>{
+                return dataCategory.includes(element) && (
+                  <StatCard heading={element} id={element} data={this.state.data[element]}/>
+                )
+              }) 
+            }
           </StatSection>
         </BodyGrid>
-        <ExpensesComponent />
-        <CompanyDirectorShip parent={this.props}/>
       </Page>
     )
   }
