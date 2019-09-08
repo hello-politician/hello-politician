@@ -35,12 +35,12 @@ const HeroSubtitle = styled.p`
   text-align: center;
   a:link {
     text-decoration: none;
-    color: #460a46;
+    color: #ffbefd;
     background-color: #3b4354;
   }
   a:visited {
     text-decoration: none;
-    color: #460a46;
+    color: #ffbefd;
     background-color: #3b4354;
   }
   a:hover {
