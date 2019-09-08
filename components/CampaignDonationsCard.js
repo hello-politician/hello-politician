@@ -32,7 +32,7 @@ export default class CampaignDonationsCard extends React.Component {
           </Table.Body>
         </Table.Body>
         <br/>
-        <Table.Body>
+        {Object.keys(this.props.individualDonations).length > 0 && <Table.Body>
           <Table.Head>
             <Table.TextCell flexBasis={240} >
               <strong><p style={{ fontSize: '1.2rem', color: 'white' }}>Indvidual donations</p></strong>
@@ -52,10 +52,11 @@ export default class CampaignDonationsCard extends React.Component {
                 )
               })
             }
+            </Table.Body>
+          }
           <Table.Body>
-
           </Table.Body>
-        </Table.Body>
+        
       </InfoCard>)
   }
 }
