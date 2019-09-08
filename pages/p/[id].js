@@ -19,18 +19,23 @@ const Header = styled.header`
   padding-top: 4.5rem;
   margin: 0;
   box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.3);
+  @media (max-width: 1024px) {
+    padding-top: 1rem;
+  }
 `
 const HeaderContainer = styled.div`
   background-color: #3a3e47;
-  width: 80rem;
+  width: 90%;
   display: grid;
   grid-template-columns: 7.5rem 1fr;
   gap: 1rem;
   margin: 0 auto;
-
   p {
     background-color: initial;
     font-size: 1.5rem;
+  }
+  @media (max-width: 1024px) {
+    grid-template-columns: 4.5rem 1fr;
   }
 `
 const PoliticianContainer = styled.div`

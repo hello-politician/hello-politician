@@ -7,6 +7,9 @@ const ContentCard = styled.div`
   box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
   border-radius: 8px;
   padding: 1rem;
+  @media (max-width: 1024px) {
+    display: none;
+  }
 `
 const CardHeading = styled.div`
   font-size: 1.5rem;
