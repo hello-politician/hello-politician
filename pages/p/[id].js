@@ -58,8 +58,9 @@ const PoliticianStatImage = styled.img`
   display: inline;
   padding-top: -2px;
   border-radius: 50%;
-  height: 40px;
-  width: 40px;
+  margin-bottom: 7px;
+  height: 30px;
+  width: 30px;
 `
 const PoliticianStatText = styled.p`
   display: inline;
