@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Link from 'next/link'
+import Link from "next/link";
 import Search from "./Search";
 
 const MainHero = styled.div`
@@ -14,7 +14,7 @@ const HeroContainer = styled.div`
   position: relative;
   margin: 0 auto;
   display: block;
-  top: 2rem;
+  top: 1rem;
   width: 100%;
   background-color: #3b4354;
 `;
@@ -33,15 +33,31 @@ const HeroSubtitle = styled.p`
   margin-top: 0rem;
   background-color: inherit;
   text-align: center;
+  a:link {
+    text-decoration: none;
+    color: #460a46;
+    background-color: #3b4354;
+  }
+  a:visited {
+    text-decoration: none;
+    color: #460a46;
+    background-color: #3b4354;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  a:active {
+    text-decoration: none;
+  }
 `;
 const SearchContainer = styled.div`
   height: 5rem;
   width: 60rem;
-  margin: 4rem auto 0 auto;
+  margin: 2rem auto 0 auto;
   background-color: purple;
 `;
 
-const Hero = ({getSearchResults}) => (
+const Hero = ({ getSearchResults }) => (
   <MainHero>
     <HeroContainer>
       <HeroText>Learn about your politicians.</HeroText>
@@ -52,7 +68,7 @@ const Hero = ({getSearchResults}) => (
         Learn more about us <Link href="/About">Here</Link>
       </HeroSubtitle>
     </HeroContainer>
-    
+
     <SearchContainer>
       <Search getSearchResults={getSearchResults} />
     </SearchContainer>
