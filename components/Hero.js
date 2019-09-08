@@ -15,7 +15,7 @@ const HeroContainer = styled.div`
   margin: 0 auto;
   display: block;
   top: 2rem;
-  width: 80rem;
+  width: 100%;
   background-color: #3b4354;
 `;
 const HeroText = styled.div`
@@ -23,12 +23,14 @@ const HeroText = styled.div`
   font-weight: 700;
   background-color: inherit;
   text-align: center;
+  @media (max-width: 1024px) {
+    font-size: 2.6rem;
+  }
 `;
 
 const HeroSubtitle = styled.p`
   display: block;
   margin-top: 0rem;
-
   background-color: inherit;
   text-align: center;
 `;
