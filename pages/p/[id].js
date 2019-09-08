@@ -2,10 +2,8 @@ import React, { Components } from 'react'
 import { Table } from 'evergreen-ui'
 import styled from 'styled-components'
 import Page from '../../components/pages'
-import ExpensesComponent from '../../components/expensesComponent'
-import CompanyDirectorShip from '../../components/CompanyDirectorShip'
 import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
-import {InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon} from '../../components/styledComponents/cardStyles'
+//import { InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon } from '../../components/styledComponents/cardStyles'
 import CampaignDonationsCard from '../../components/CampaignDonationsCard'
 import { AvailableData, dataCategory } from '../../components/AvailableData'
 import PecuniaryCard from '../../components/PecuniaryCards'
@@ -103,21 +101,21 @@ const AccountingColumns = styled.div`
 
 export default class Post extends React.Component {
 
-  constructor(){
+  constructor() {
     super()
     this.state = {
       data: {}
     }
   }
 
-  async componentDidMount(){
+  async componentDidMount() {
     const response = await fetch('https://hello-politician.s3-ap-southeast-2.amazonaws.com/members-of-parliament-cleaned.json')
     const data = await response.json()
-    const { id: mpId } =  this.props.url.query
+    const { id: mpId } = this.props.url.query
     const currentMP = data[mpId]
-    this.setState({ data: {...currentMP}})
+    this.setState({ data: { ...currentMP } })
   }
-  render(){
+  render() {
     const { data } = this.state
     const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, Electorate } = data
     const pecuniaryDataKeys = [
@@ -137,15 +135,15 @@ export default class Post extends React.Component {
       'Payments for activities',
     ]
     let pecuniaryData = {};
-    for(let id in pecuniaryDataKeys) {
+    for (let id in pecuniaryDataKeys) {
       let key = pecuniaryDataKeys[id]
-      if(key in data) {
+      if (key in data) {
         pecuniaryData[key] = data[key]
       }
     }
-    const campaignData = rawCampaignData ? rawCampaignData : {'total-donations': 'Loading...', 'total-expenses': 'Loading...'}
+    const campaignData = rawCampaignData ? rawCampaignData : { 'total-donations': 'Loading...', 'total-expenses': 'Loading...' }
     const costHeadings = cost ? Object.keys(cost) : ['Loading...']
-    const costValues = cost ? Object.values(cost) : [{'accommodation-cost': 'Loading...', 'travel-cost': 'Loading...', 'total-cost': 'Loading...'}]
+    const costValues = cost ? Object.values(cost) : [{ 'accommodation-cost': 'Loading...', 'travel-cost': 'Loading...', 'total-cost': 'Loading...' }]
     const location = Electorate ? Electorate : 'List MP'
     const imageURL = Contact ? `/static/${Contact.replace(/\s/g, "")}.jpg` : 'http://lorempixel.com/120/120/people/'
     return (
@@ -158,7 +156,7 @@ export default class Post extends React.Component {
               <PoliticianStatContainer>
                 <PoliticianStat>
                   <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
-                  <PoliticianStatText>{ Party ? Party : 'Freedom'}</PoliticianStatText>
+                  <PoliticianStatText>{Party ? Party : 'Freedom'}</PoliticianStatText>
                 </PoliticianStat>
                 <PoliticianStat>
                   <PoliticianStatImage src='http://lorempixel.com/24/24/people/' />{' '}
@@ -175,82 +173,32 @@ export default class Post extends React.Component {
           </HeaderContainer>
         </Header>
         <BodyGrid>
-          <AvailableData currentMPData={this.state.data}/>
+          <AvailableData currentMPData={this.state.data} />
           <StatSection>
             {
-              Object.keys(pecuniaryData).map((key,index) => {
-                  return (
-                    <PecuniaryCard 
-                      heading={key}
-                      pecuniaryData={pecuniaryData[key]}
-                      imgSrc='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'
-                    />
-                  ) 
+              Object.keys(pecuniaryData).map((key, index) => {
+                return (
+                  <PecuniaryCard
+                    heading={key}
+                    pecuniaryData={pecuniaryData[key]}
+                    imgSrc='https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif'
+                  />
+                )
               })
             }
-            <InfoCard>
-              <CardHeading>
-                Company directorships and controlling interests
-              </CardHeading>
-              <StatContainer>
-                <StatIcon src='http://lorempixel.com/32/32/technics/' />
-                <StatHeading>Alliance Group Limited</StatHeading>
-                <StatSubtitle>licensed meat exporters</StatSubtitle>
-              </StatContainer>
-              <StatContainer>
-                <StatIcon src='http://lorempixel.com/32/32/technics/' />
-                <StatHeading>Alliance Group Limited</StatHeading>
-                <StatSubtitle>licensed meat exporters</StatSubtitle>
-              </StatContainer>
-            </InfoCard>
-            <InfoCard>
-              <CardHeading>Stat 2</CardHeading>
-            </InfoCard>
-  
             <AccountingColumns>
-              
-              <CampaignDonationsCard 
-                heading = "2017 Campaign Data"
-                totalDonations = {campaignData["total-donations"]}
-                totalExpenses = {campaignData["total-expenses"]}
+              <CampaignDonationsCard
+                heading="2017 Campaign Data"
+                totalDonations={campaignData["total-donations"]}
+                totalExpenses={campaignData["total-expenses"]}
               />
-              <ExpenseDisclosureCard 
-                heading = {costHeadings[0]}
-                accomodationCost = {costValues[0]['accommodation-cost']}
-                travelCost = {costValues[0]['travel-cost']}
-                totalCost = {costValues[0]['total-cost']}
+              <ExpenseDisclosureCard
+                heading={costHeadings[0]}
+                accomodationCost={costValues[0]['accommodation-cost']}
+                travelCost={costValues[0]['travel-cost']}
+                totalCost={costValues[0]['total-cost']}
               />
-              <InfoCard>
-                <CardHeading>Stat 2</CardHeading>
-                <Table.Body>
-                  <Table.Head>
-                    <Table.TextCell flexBasis={240} flexGrow={0}>
-                      <strong>Donor</strong>
-                    </Table.TextCell>
-                    <Table.TextCell rightView>
-                      <strong> Flex me col 2</strong>
-                    </Table.TextCell>
-                 
-                  </Table.Head>
-                  <Table.Body>
-                    <Table.Row>
-                      <Table.TextCell flexBasis={240} flexGrow={0}>
-                        Fixed width
-                      </Table.TextCell >
-                      <Table.TextCell rightView>Flex me col 2</Table.TextCell>
-            
-                    </Table.Row>
-                  </Table.Body>
-                </Table.Body>
-              </InfoCard>
             </AccountingColumns>
-            {
-              this.state.data.Contact && Object.keys(this.state.data).map((element) =>{
-                return dataCategory.includes(element) && (
-                  <StatCard heading={element} id={element} data={this.state.data[element]}/>
-                )
-              }) 
-            }
           </StatSection>
         </BodyGrid>
       </Page>
