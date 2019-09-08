@@ -1,13 +1,13 @@
 import React, { Components } from 'react'
-import { useRouter } from 'next/router'
 import { Table } from 'evergreen-ui'
 import styled from 'styled-components'
 import Page from '../../components/pages'
 import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
 //import { InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon } from '../../components/styledComponents/cardStyles'
 import CampaignDonationsCard from '../../components/CampaignDonationsCard'
-import { AvailableData } from '../../components/AvailableData'
+import { AvailableData, dataCategory } from '../../components/AvailableData'
 import PecuniaryCard from '../../components/PecuniaryCards'
+import { StatCard } from '../../components/StatCard'
 
 const Header = styled.header`
   width: 100vw;

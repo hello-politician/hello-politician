@@ -32,7 +32,7 @@ const ItemLink = styled.a`
   margin-bottom: 1rem;
 `
 
-const dataCategory = [ 'Company directorships and controlling interests', 
+export const dataCategory = [ 'Company directorships and controlling interests', 
   'Other companies and business entities',
   'Employment',
   'Beneficial interests in, and trusteeships of, trusts',
@@ -58,18 +58,15 @@ const listItem = (data) => {
   })
 }
 export function AvailableData(props) {
-    
-   const [MPInfo, setMPInfo] = useState({})
-
-    useEffect(() => {
-        setMPInfo(props.currentMPData)
-    })
-    const item  = listItem(MPInfo)
-    return (
-        <ContentCard>
-            <CardHeading>Available Data</CardHeading>
-            {item }
-        </ContentCard>
-    )
-    // }
+  const [MPInfo, setMPInfo] = useState({})
+  useEffect(() => {
+      setMPInfo(props.currentMPData)
+  })
+  const item  = listItem(MPInfo)
+  return (
+      <ContentCard>
+          <CardHeading>Available Data</CardHeading>
+          {item }
+      </ContentCard>
+  )
 }
