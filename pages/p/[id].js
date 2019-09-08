@@ -18,6 +18,7 @@ const Header = styled.header`
   background-color: #3a3e47;
   padding-top: 4.5rem;
   margin: 0;
+  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.3);
 `
 const HeaderContainer = styled.div`
   background-color: #3a3e47;
@@ -58,8 +59,9 @@ const PoliticianStatImage = styled.img`
   display: inline;
   padding-top: -2px;
   border-radius: 50%;
-  height: 40px;
-  width: 40px;
+  margin-bottom: 7px;
+  height: 30px;
+  width: 30px;
 `
 const PoliticianStatText = styled.p`
   display: inline;
@@ -140,7 +142,7 @@ export default class Post extends React.Component {
   }
   render() {
     const { data } = this.state
-    const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, Electorate } = data
+    const { Contact, Party, 'disclosure-costs': cost, 'campaign-data-2017': rawCampaignData, 'date-elected': dateElected, Electorate } = data
     const pecuniaryDataKeys = [
       'Company directorships and controlling interests',
       'Other companies and business entities',
@@ -188,7 +190,7 @@ export default class Post extends React.Component {
                 <PoliticianStat>
                   <PoliticianStatImage src={TimeLogo} />{' '}
                   <PoliticianStatText>
-                    2016 - Present ( 4 years, 12 months )
+                    {dateElected ? "Elected: " + dateElected : "Date Elected Unavailable"}
                   </PoliticianStatText>
                 </PoliticianStat>{' '}
               </PoliticianStatContainer>

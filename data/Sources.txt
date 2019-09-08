@@ -1,0 +1,14 @@
+Members of parliament basic information:
+https://catalogue.data.govt.nz/dataset/members-of-parliament
+
+Members of parliament disclosed expenses:
+https://www.parliament.nz/en/mps-and-electorates/mps-expenses/
+
+Members of parliament pecuniary interests:
+https://www.parliament.nz/en/mps-and-electorates/mps-financial-interests/
+
+2017 Campaign donations and expenses:
+https://elections.nz/democracy-in-nz/historical-events/2017-general-election/candidate-expenses-and-donations-for-the-2017-general-election/
+
+2017 Campaign individual candidate donations:
+https://infogram.com/election-2017-candidate-donations-1hd12yd9dyyl2km

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
+import OrgSVG from '../static/images/org@2x.svg'
 
 const ContentCard = styled.div`
   background: #2d3341;
@@ -32,7 +33,7 @@ const ItemLink = styled.a`
   margin-bottom: 1rem;
 `
 
-export const dataCategory = [ 'Company directorships and controlling interests', 
+export const dataCategory = ['Company directorships and controlling interests',
   'Other companies and business entities',
   'Employment',
   'Beneficial interests in, and trusteeships of, trusts',
@@ -48,23 +49,23 @@ export const dataCategory = [ 'Company directorships and controlling interests',
   'Payments for activities']
 
 const listItem = (data) => {
-  return Object.keys(data).map((key,index) => {
+  return Object.keys(data).map((key, index) => {
     return dataCategory.includes(key) && (
       <StatContainer>
-        <StatIcon src='http://lorempixel.com/32/32/technics/' />
+        <StatIcon src={OrgSVG} />
         <ItemLink href='#'>{key}</ItemLink>
       </StatContainer>
-    )    
+    )
   })
 }
 export function AvailableData(props) {
   const [MPInfo, setMPInfo] = useState({})
   useEffect(() => {
-      setMPInfo(props.currentMPData)
+    setMPInfo(props.currentMPData)
   })
-  const item  = listItem(MPInfo)
+  const item = listItem(MPInfo)
   return (
-      <ContentCard>
+      <ContentCard style={{boxShadow: "none"}}>
           <CardHeading>Available Data</CardHeading>
           {item }
       </ContentCard>
