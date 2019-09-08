@@ -3,9 +3,9 @@ import { Table } from 'evergreen-ui'
 import styled from 'styled-components'
 import Page from '../../components/pages'
 import ExpenseDisclosureCard from '../../components/ExpenseDisclosureCard'
-//import { InfoCard, CardHeading, StatSubtitle, StatContainer, StatHeading, StatIcon } from '../../components/styledComponents/cardStyles'
 import CampaignDonationsCard from '../../components/CampaignDonationsCard'
-import { AvailableData, dataCategory } from '../../components/AvailableData'
+import { AvailableData } from '../../components/AvailableData'
+import { DonationTable } from '../../components/DonationTable'
 import PecuniaryCard from '../../components/PecuniaryCards'
 import { StatCard } from '../../components/StatCard'
 import OrgSVG from '../../static/images/org@2x.svg'
@@ -223,6 +223,7 @@ export default class Post extends React.Component {
                 totalCost={costValues[0]['total-cost']}
               />
             </AccountingColumns>
+            <DonationTable mpName={this.state.data.Contact}/>
           </StatSection>
         </BodyGrid>
       </Page>
