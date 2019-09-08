@@ -5,8 +5,14 @@ const Card = styled.div`
   flex-wrap: wrap;
   border-radius: 8px;
   background-color: #2d3341;
-  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.35);
   margin: 30px 0;
+
+  :hover {
+    box-shadow: 2px 2px 32px 0 rgba(0,0,0,0.5);
+    transform: translateX(4px);
+    transition: all 0.4s ease;
+  }
 `;
 
 const MPName = styled.h2`
@@ -42,7 +48,7 @@ const Electorate = styled.h3`
 
 const Party = styled.h3`
   height: 40px;
-  width: 130px;
+  width: 100px;
   color: #ffffff;
   font-size: 0.8rem;
   font-weight: bold;
@@ -69,7 +75,7 @@ const FlexDiv = styled.div`
 `;
 
 const TimeServed = styled.h3`
-  width: 130px;
+  width: 100px;
   color: #ffffff;
   text-align: left;
   font-size: 0.8rem;
@@ -87,8 +93,8 @@ const Icon = styled.div`
   background: ${({ image }) => `url(${image}) no-repeat`};
   background-size: cover;
   border-radius: 50%;
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
 `;
 
 const CardImg = styled.img`

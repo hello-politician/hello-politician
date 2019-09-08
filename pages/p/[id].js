@@ -14,23 +14,33 @@ import TimeLogo from '../../assets/time.png'
 
 const Header = styled.header`
   width: 100vw;
-  height: 208px;
+  height: 13rem;
+  display: table;
   background-color: #3a3e47;
   padding-top: 4.5rem;
   margin: 0;
   box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.3);
+  @media (max-width: 1024px) {
+    padding-top: 1rem;
+  }
 `
 const HeaderContainer = styled.div`
   background-color: #3a3e47;
-  width: 80rem;
+  width: 90%;
   display: grid;
+  align-items: center;
   grid-template-columns: 7.5rem 1fr;
   gap: 1rem;
   margin: 0 auto;
-
   p {
     background-color: initial;
     font-size: 1.5rem;
+  }
+  @media only screen and (max-width: 768px) {
+    display:table;
+  }
+  @media (max-width: 1024px) {
+    grid-template-columns: 4.5rem 1fr;
   }
 `
 const PoliticianContainer = styled.div`
@@ -79,9 +89,13 @@ const NameH1 = styled.h1`
 const BodyGrid = styled.div`
   display: grid;
   grid-template-columns: 20rem 58rem;
-  gap: 2rem;
   width: 80rem;
   margin: 2rem auto;
+  @media (max-width: 1024px) {
+    width: calc(100vw - 2rem)
+    display: flex;
+    justify-content: center;
+  }
 `
 const ContentCard = styled.div`
   background: #2d3341;
