@@ -64,7 +64,7 @@ export function AvailableData(props) {
   })
   const item  = listItem(MPInfo)
   return (
-      <ContentCard>
+      <ContentCard style={{boxShadow: "none"}}>
           <CardHeading>Available Data</CardHeading>
           {item }
       </ContentCard>

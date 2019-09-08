@@ -14,7 +14,7 @@ export const StatSubtitle = styled.div`
 
 export const InfoCard = styled.div`
   background: #2d3341;
-  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 32px 0 rgba(0, 0, 0, 0.3);
   border-radius: 8px;
   padding: 1rem;
   margin-bottom: 2rem;
