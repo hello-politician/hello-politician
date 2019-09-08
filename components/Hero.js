@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import Link from 'next/link'
 import Search from "./Search";
 
 const MainHero = styled.div`
@@ -48,7 +48,11 @@ const Hero = ({getSearchResults}) => (
       <HeroSubtitle>
         🤓 Hello Politician informs you about your politicians 🤓
       </HeroSubtitle>
+      <HeroSubtitle>
+        Learn more about us <Link href="/About">Here</Link> See where we got our data <Link href="/Sources">Here</Link>
+      </HeroSubtitle>
     </HeroContainer>
+    
     <SearchContainer>
       <Search getSearchResults={getSearchResults} />
     </SearchContainer>
