@@ -65,7 +65,7 @@ const Hero = ({ getSearchResults }) => (
         🤓 Hello Politician informs you about your politicians 🤓
       </HeroSubtitle>
       <HeroSubtitle>
-        Learn more about us <Link href="/About">Here</Link>
+        Learn more about us <Link href="/about">Here</Link>
       </HeroSubtitle>
     </HeroContainer>
 
