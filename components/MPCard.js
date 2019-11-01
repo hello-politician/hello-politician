@@ -13,6 +13,13 @@ const Card = styled.div`
     transform: translateX(4px);
     transition: all 0.4s ease;
   }
+
+  @media only screen and (max-width: 1280px) { 
+
+    margin: 2rem 0.5rem;
+    padding: 0.5rem;
+
+  }
 `;
 
 const MPName = styled.h2`
@@ -24,7 +31,7 @@ const MPName = styled.h2`
   margin: 0;
   margin-top: 15px;
   margin-left: 20px;
-  @media (max-width: 1024px) {
+  @media (max-width: 1024 px) {
     min-width: 240px;
     margin-top: 0px;
     margin-left: 5px;
@@ -102,6 +109,10 @@ const CardImg = styled.img`
   width: 100px;
   border-radius: 5px;
   margin: -8px 0;
+  @media only screen and (max-width: 1280px) { 
+    width: 48px;
+    height: 48px;
+  }
 `;
 
 const partyLogos = [

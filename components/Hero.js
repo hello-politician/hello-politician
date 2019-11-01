@@ -55,6 +55,9 @@ const SearchContainer = styled.div`
   width: 60rem;
   margin: 2rem auto 0 auto;
   background-color: purple;
+  @media only screen and (max-width: 1280px) {
+    width: 98vw;
+  }
 `;
 
 const Hero = ({ getSearchResults }) => (
