@@ -25,15 +25,16 @@ const Card = styled.div`
 
 const MPName = styled.h2`
   text-align: left;
-  min-width: 380px;
+  min-width: 60vw;
   color: #ffffff;
   font-size: 1.5rem;
   font-weight: 900;
   margin: 0;
   margin-top: 15px;
   margin-left: 20px;
+  background-color: none;
 
-  @media only screen and (max-width: 1024 px) {
+  @media only screen and (min-width: 1024 px) {
     width: inherit;
     margin-top: 0px;
     margin-left: 0px;
@@ -52,7 +53,7 @@ const Electorate = styled.h3`
   margin: 0;
   margin-left: 20px;
   @media (max-width: 1024px) {
-    margin-left: 0px;
+    margin-left: 20px;
   }
 `;
 
@@ -110,7 +111,7 @@ const Icon = styled.div`
 const CardImg = styled.img`
   height: 100px;
   width: 100px;
-  border-radius: 5px;
+  border-radius: 8px;
   margin: -8px 0;
   @media only screen and (max-width: 1280px) { 
     width: 20vw;
