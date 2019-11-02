@@ -77,6 +77,9 @@ const PoliticianStatText = styled.p`
   display: inline;
   margin-left: 4px;
   font-weight: 200;
+@media only screen and (min-width : 375px) and (max-width : 1024px) { 
+font-size: 1rem;
+  }
 `
 const NameH1 = styled.h1`
   font-size: 40px;
@@ -106,7 +109,8 @@ const ContentCard = styled.div`
 `
 
 const StatSection = styled.div`
-margin: 1rem`
+margin: 1rem
+`
 
 const ItemLink = styled.a`
   font-weight: 700;
