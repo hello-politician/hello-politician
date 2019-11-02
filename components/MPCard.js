@@ -33,7 +33,7 @@ const MPName = styled.h2`
   margin-top: 15px;
   margin-left: 20px;
 
-  @media (max-width: 1024 px) {
+  @media only screen and (max-width: 1024 px) {
     width: inherit;
     margin-top: 0px;
     margin-left: 0px;
