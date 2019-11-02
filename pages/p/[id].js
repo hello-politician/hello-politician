@@ -130,6 +130,9 @@ const partyLogos = [
 ];
 
 const getImageName = arr => str => {
+  console.log(str)
+  console.log('Caleed')
+  console.log('array' ,arr)
   if (str) {
     const result = arr.find(e => e.party.includes(str));
     return result ? result.fileName : 'indepentent.png'
@@ -151,6 +154,7 @@ export default class Post extends React.Component {
     const response = await fetch('https://hello-politician.s3-ap-southeast-2.amazonaws.com/members-of-parliament-cleaned.json')
     const data = await response.json()
     const { id: mpId } = this.props.url.query
+
     const currentMP = data[mpId]
     this.setState({ data: { ...currentMP } })
   }
@@ -173,6 +177,7 @@ export default class Post extends React.Component {
       'Discharged debts',
       'Payments for activities',
     ]
+
     let pecuniaryData = {};
     for (let id in pecuniaryDataKeys) {
       let key = pecuniaryDataKeys[id]
@@ -181,6 +186,8 @@ export default class Post extends React.Component {
       }
     }
     const campaignData = rawCampaignData ? rawCampaignData : { 'total-donations': 'Not Found', 'total-expenses': 'Not Found', 'individual-donations': {} }
+    console.log('Data' ,campaignData["total-donations"])
+    if(!campaignData["individual-donations"]) campaignData['individual-donation'] = {}
     const costHeadings = cost ? Object.keys(cost) : ['Expense Disclosure Data']
     const costValues = cost ? Object.values(cost) : [{ 'accommodation-cost': 'Not Found', 'travel-cost': 'Not Found', 'total-cost': 'Not Found' }]
     const location = Electorate ? Electorate : 'List MP'
