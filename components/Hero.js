@@ -17,6 +17,8 @@ const HeroContainer = styled.div`
   top: 1rem;
   width: 100%;
   background-color: #3b4354;
+
+  
 `;
 const HeroText = styled.div`
   font-size: 5rem;
@@ -24,7 +26,7 @@ const HeroText = styled.div`
   background-color: inherit;
   text-align: center;
   @media (max-width: 1024px) {
-    font-size: 2.6rem;
+    font-size: 2rem;
   }
 `;
 
@@ -49,6 +51,15 @@ const HeroSubtitle = styled.p`
   a:active {
     text-decoration: none;
   }
+
+  @media only screen and (max-width: 1280px) { 
+
+font-size: 1rem !important;
+margin-top: 1rem;
+margin-bottom: 1rem;
+line-height: 1;
+  }
+
 `;
 const SearchContainer = styled.div`
   height: 5rem;
@@ -65,7 +76,7 @@ const Hero = ({ getSearchResults }) => (
     <HeroContainer>
       <HeroText>Learn about your politicians.</HeroText>
       <HeroSubtitle>
-        🤓 Hello Politician informs you about your politicians 🤓
+        🤓Hello Politician informs you about your politicians🤓
       </HeroSubtitle>
       <HeroSubtitle>
         Learn more about us <Link href="/about">Here</Link>

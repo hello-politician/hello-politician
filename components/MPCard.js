@@ -18,6 +18,7 @@ const Card = styled.div`
 
     margin: 2rem 0.5rem;
     padding: 0.5rem;
+    max-width: calc(100vw - 1rem);
 
   }
 `;
@@ -31,10 +32,12 @@ const MPName = styled.h2`
   margin: 0;
   margin-top: 15px;
   margin-left: 20px;
+
   @media (max-width: 1024 px) {
-    min-width: 240px;
+    width: inherit;
     margin-top: 0px;
-    margin-left: 5px;
+    margin-left: 0px;
+    padding-left: 0;
     font-size: 1rem;
   }
 `;
@@ -49,7 +52,7 @@ const Electorate = styled.h3`
   margin: 0;
   margin-left: 20px;
   @media (max-width: 1024px) {
-    margin-left: 5px;
+    margin-left: 0px;
   }
 `;
 
@@ -110,8 +113,8 @@ const CardImg = styled.img`
   border-radius: 5px;
   margin: -8px 0;
   @media only screen and (max-width: 1280px) { 
-    width: 48px;
-    height: 48px;
+    width: 20vw;
+    height: 20vw;
   }
 `;
 
