@@ -25,7 +25,7 @@ const Card = styled.div`
 
 const MPName = styled.h2`
   text-align: left;
-  min-width: 60vw;
+
   color: #ffffff;
   font-size: 1.5rem;
   font-weight: 900;
@@ -34,7 +34,7 @@ const MPName = styled.h2`
   margin-left: 20px;
   background-color: none;
 
-  @media only screen and (min-width: 1024 px) {
+  @media (min-width: 1024 px) {
     width: inherit;
     margin-top: 0px;
     margin-left: 0px;

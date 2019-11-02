@@ -96,7 +96,7 @@ const BodyGrid = styled.div`
   margin: 2rem auto;
   @media (max-width: 1024px) {
     grid-template-columns: 100vw;
-    width: calc(100vw - 2rem);
+    width: calc(100vw - 0rem);
     display: flex;
     justify-content: center;
   }
@@ -109,7 +109,7 @@ const ContentCard = styled.div`
 `
 
 const StatSection = styled.div`
-margin: 1rem
+
 `
 
 const ItemLink = styled.a`
