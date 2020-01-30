@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start -p 80"
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "evergreen-ui": "^4.18.3",
-    "next": "^9.0.5",
+    "next": "^9.2.1",
     "next-images": "^1.1.2",
     "node-sass": "^4.12.0",
     "react": "^16.9.0",
