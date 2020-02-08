@@ -15,4 +15,4 @@ We tried to help the average voter understand what their politicians were influe
 and to give them a clearer picture of what they were voting for - 
 
 ## Todos:
-- New Zealand MP Voting records ie: Did they vote for or against gay marriage? (this is difficult as you will need to parse a crapload of data from Hansard... We couldn't do it within a weekend :( )
+- New Zealand MP Voting records ie: Did they vote for or against gay marriage? For or against the anti-smacking law? Immigration? etc etc etc. This is difficult as you will need to parse a crapload of data from Hansard... We couldn't do it within a weekend :( 
