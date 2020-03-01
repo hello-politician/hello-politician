@@ -147,7 +147,7 @@ const MPCard = ({ mp }) => {
               src={
                 mp.Contact
                   ? `/static/${mp.Contact.replace(/\s/g, "")}.jpg`
-                  : "http://lorempixel.com/120/120/people/"
+                  : "https://lorempixel.com/120/120/people/"
               }
             />
           </div>
