@@ -1,6 +1,7 @@
 # hello-politician
 
 ## Summary Video: https://www.youtube.com/watch?v=BZVo00Hu4YM
+## Demo: https://nz-politician.netlify.com/
 
 ## What we did:
 As part of Govhack 2019, we processed publicly available financial and pecuniary interest data about politicians from PDFs, and showed the outputs on a webapp.
